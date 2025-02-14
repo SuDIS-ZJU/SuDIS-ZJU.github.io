@@ -1,6 +1,6 @@
 ---
 title: People
-date: 2022-10-24
+date: 2025-02-15
 
 type: landing
 
@@ -14,11 +14,14 @@ sections:
           - Principal Investigators
           - Researchers
           - Grad Students
+          - Phd Students
+          - Master Students
+          - Undergraduates
           - Administration
           - Visitors
           - Alumni
-      sort_by: Params.last_name
-      sort_ascending: true
+      sort_by: Params.grad
+      sort_ascending: false
     design:
       show_interests: false
       show_role: true
