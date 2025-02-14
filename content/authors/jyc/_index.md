@@ -1,25 +1,23 @@
 ---
 # Display name
-title: 吕川一
-
-draft: false
-
-grad: 2
+title: 季奕丞
 
 # Full name (for SEO)
-first_name: 川一
-last_name: 吕
+first_name: 奕丞
+last_name: 季
+
+grad: 0 # 年级
 
 # Username (this should match the folder name)
 authors:
-  - lcy
+  - jyc
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
+role: Phd Student
 
-role: Master's
 # Organizations/Affiliations
 organizations:
   - name: Zhejiang University
@@ -29,10 +27,8 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Time Series
-  - Database
-  - Storage System
-  - Compression Algorithm
+  - Speculative Decoding
+  - Multimodal Large Models
 
 # education:
 #   courses:
@@ -50,10 +46,10 @@ interests:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
-#   - icon: envelope
-#     icon_pack: fas
-#     link: 'kevinzeng0808@gmail.com'
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:3210105695@zju.edu.cn'
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -72,7 +68,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master Students
+  - Phd Students
 ---
 
 <!-- 吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.

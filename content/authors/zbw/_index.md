@@ -6,7 +6,7 @@ title: 曾博文
 first_name: 博文
 last_name: 曾
 
-grad: 3 # 硕士/博士 xx 年级
+grad: 1 # 年级
 
 # Username (this should match the folder name)
 authors:
@@ -28,7 +28,7 @@ organizations:
 
 interests:
   - Data Management
-  - Machine Learning System
+  - Machine Learning Systems
 
 # education:
 #   courses:
@@ -49,7 +49,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'kevinzeng0808@gmail.com'
+    link: 'mailto:kevinzeng0808@gmail.com'
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ

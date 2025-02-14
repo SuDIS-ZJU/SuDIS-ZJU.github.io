@@ -8,7 +8,7 @@ draft: false
 first_name: 亦奇
 last_name: 汤
 
-grad: 0 # 硕士/博士 xx 年级
+grad: 0 # 年级
 
 # Username (this should match the folder name)
 authors:

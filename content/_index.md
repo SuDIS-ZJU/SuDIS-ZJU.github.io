@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        Welcome to SuDIS, the Sustainable Data Intelligence and Data Systems research group at Zhejiang University!
+        Welcome to **SuDIS**, the **Sustainable Data Intelligence and Data Systems** research group at Zhejiang University!
   
   - block: collection
     content:
