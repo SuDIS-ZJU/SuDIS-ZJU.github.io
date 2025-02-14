@@ -6,7 +6,7 @@ title: 曾博文
 first_name: 博文
 last_name: 曾
 
-grad: 1 # 硕士/博士 xx 年级
+grad: 3 # 硕士/博士 xx 年级
 
 # Username (this should match the folder name)
 authors:

@@ -2,11 +2,15 @@
 # Display name
 title: 吕川一
 
+draft: false
+
+grad: 2
+
 # Full name (for SEO)
 first_name: 川一
 last_name: 吕
 
-grad: 2 # 硕士/博士 xx 年级
+# grad: 2 # 硕士/博士 xx 年级
 
 # Username (this should match the folder name)
 authors:

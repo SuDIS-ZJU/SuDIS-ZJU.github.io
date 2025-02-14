@@ -2,6 +2,8 @@
 # Display name
 title: 汤亦奇
 
+draft: false
+
 # Full name (for SEO)
 first_name: 亦奇
 last_name: 汤

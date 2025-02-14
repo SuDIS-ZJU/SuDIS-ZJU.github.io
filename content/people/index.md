@@ -1,6 +1,6 @@
 ---
 title: People
-date: 2025-02-15
+date: 2022-10-24
 
 type: landing
 
@@ -16,7 +16,6 @@ sections:
           - Grad Students
           - Phd Students
           - Master Students
-          - Undergraduates
           - Administration
           - Visitors
           - Alumni
