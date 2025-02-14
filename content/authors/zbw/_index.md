@@ -10,7 +10,7 @@ grad: 1 # 硕士/博士 xx 年级
 
 # Username (this should match the folder name)
 authors:
-  - 曾博文
+  - zbw
 
 # Is this the primary user of the site?
 superuser: false
