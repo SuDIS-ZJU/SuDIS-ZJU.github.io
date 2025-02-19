@@ -1,12 +1,12 @@
 ---
 # Display name
-title: 汤亦奇
+title: Yiqi Tang
 
 draft: false
 
 # Full name (for SEO)
-first_name: 亦奇
-last_name: 汤
+first_name: Yiqi
+last_name: Tang
 
 grad: 0 # 年级
 

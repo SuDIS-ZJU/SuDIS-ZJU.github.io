@@ -1,10 +1,10 @@
 ---
 # Display name
-title: 张俊
+title: Jun Zhang
 
 # Full name (for SEO)
-first_name: 俊
-last_name: 张
+first_name: Jun
+last_name: Zhang
 
 grad: 5 # 年级
 

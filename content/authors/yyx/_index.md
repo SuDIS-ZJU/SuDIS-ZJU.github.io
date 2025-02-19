@@ -1,10 +1,10 @@
 ---
 # Display name
-title: 杨宇轩
+title: Yuxuan Yang
 
 # Full name (for SEO)
-first_name: 宇轩
-last_name: 杨
+first_name: Yuxuan
+last_name: Yang
 
 grad: 1 # 年级
 

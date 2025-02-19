@@ -1,10 +1,10 @@
 ---
 # Display name
-title: 吴一帆
+title: Yifan Wu
 
 # Full name (for SEO)
-first_name: 一帆
-last_name: 吴
+first_name: Yifan
+last_name: Wu
 
 grad: 4 # 年级
 

@@ -1,10 +1,10 @@
 ---
 # Display name
-title: 曾博文
+title: Bowen Zeng
 
 # Full name (for SEO)
-first_name: 博文
-last_name: 曾
+first_name: Bowen
+last_name: Zeng
 
 grad: 1 # 年级
 
@@ -27,8 +27,8 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Data Management
-  - Machine Learning Systems
+  - Efficient LLMs/DiTs
+  - Vector Retrieval
 
 # education:
 #   courses:

@@ -1,10 +1,10 @@
 ---
 # Display name
-title: 闫熠辰
+title: Yichen Yan
 
 # Full name (for SEO)
-first_name: 熠辰
-last_name: 闫
+first_name: Yichen
+last_name: Yan
 
 grad: 1 # 年级
 

@@ -1,10 +1,10 @@
 ---
 # Display name
-title: 潘嘉骏
+title: Jiajun Pan
 
 # Full name (for SEO)
-first_name: 嘉骏
-last_name: 潘
+first_name: Jiajun
+last_name: Pan
 
 grad: 1 # 年级
 

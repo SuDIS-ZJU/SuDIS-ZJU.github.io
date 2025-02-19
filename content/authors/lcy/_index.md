@@ -1,14 +1,14 @@
 ---
 # Display name
-title: 吕川一
+title: Chuanyi Lv
 
 draft: false
 
 grad: 2
 
 # Full name (for SEO)
-first_name: 川一
-last_name: 吕
+first_name: Chuanyi
+last_name: Lv
 
 # Username (this should match the folder name)
 authors:

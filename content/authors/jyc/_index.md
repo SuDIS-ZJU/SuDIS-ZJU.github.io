@@ -1,10 +1,10 @@
 ---
 # Display name
-title: 季奕丞
+title: Yicheng Ji
 
 # Full name (for SEO)
-first_name: 奕丞
-last_name: 季
+first_name: Yicheng
+last_name: Ji
 
 grad: 0 # 年级
 
