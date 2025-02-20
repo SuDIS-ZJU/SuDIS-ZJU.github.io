@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        Welcome to **SuDIS**, the **Sustainable Data Intelligence and Data Systems** research group at Zhejiang University!
+        Welcome to **SuDIS**, the **Sustainable Data Intelligence and Data Systems** research group at Zhejiang University! Our mission is to make Data Intelligence and Systems **Rapid, Reliable, Responsible, and Resilient**.
   
   - block: collection
     content:
@@ -32,28 +32,28 @@ sections:
       order: desc
       page_type: post
     design:
-      view: card
+      view: showcase
       columns: '1'
   
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+  # - block: markdown
+  #   content:
+  #     title:
+  #     subtitle: ''
+  #     text:
+  #   design:
+  #     columns: '1'
+  #     background:
+  #       image: 
+  #         filename: coders.jpg
+  #         filters:
+  #           brightness: 1
+  #         parallax: false
+  #         position: center
+  #         size: cover
+  #         text_color_light: true
+  #     spacing:
+  #       padding: ['20px', '0', '20px', '0']
+  #     css_class: fullscreen
 
   - block: collection
     content:
