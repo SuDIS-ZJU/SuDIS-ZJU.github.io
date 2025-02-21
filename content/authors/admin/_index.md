@@ -1,7 +1,6 @@
 ---
 # Display name
 title: Huan Li
-
 # Full Name (for SEO)
 first_name: Huan
 last_name: Li
