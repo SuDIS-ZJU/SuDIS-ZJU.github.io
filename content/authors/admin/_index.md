@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Huan Li
+url: "authors/li-huan/home"
 # Full Name (for SEO)
 first_name: Huan
 last_name: Li
