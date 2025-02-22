@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Ming Zhong
-
+url: "/authors/ming-zhong/home"
 # Full name (for SEO)
 first_name: Ming
 last_name: Zhong

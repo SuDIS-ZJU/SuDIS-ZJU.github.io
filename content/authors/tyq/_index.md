@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Yiqi Tang
-
+url: "/authors/yiqi-tang/home"
 draft: false
 
 # Full name (for SEO)

@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Chuanyi Lv
-
+url: "/authors/chuanyi-lv/home"
 draft: false
 
 grad: 2

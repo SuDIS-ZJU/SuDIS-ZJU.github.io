@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Yicheng Ji
-
+url: "/authors/yicheng-ji/home"
 # Full name (for SEO)
 first_name: Yicheng
 last_name: Ji

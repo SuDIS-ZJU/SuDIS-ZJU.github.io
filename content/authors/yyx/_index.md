@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Yuxuan Yang
-
+url: "/authors/yuxuan-yang/home"
 # Full name (for SEO)
 first_name: Yuxuan
 last_name: Yang

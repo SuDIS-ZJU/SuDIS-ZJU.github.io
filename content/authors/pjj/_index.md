@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Jiajun Pan
-
+url: "/authors/jiajun-pan/home"
 # Full name (for SEO)
 first_name: Jiajun
 last_name: Pan

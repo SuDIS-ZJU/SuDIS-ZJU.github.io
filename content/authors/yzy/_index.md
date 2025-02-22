@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Zhaoyi Yuan
-
+url: "/authors/zhaoyi-yuan/home"
 # Full name (for SEO)
 first_name: Zhaoyi
 last_name: Yuan

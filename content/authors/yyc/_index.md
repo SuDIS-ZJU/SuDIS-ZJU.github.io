@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Yichen Yan
-
+url: "/authors/yichen-yan/home"
 # Full name (for SEO)
 first_name: Yichen
 last_name: Yan

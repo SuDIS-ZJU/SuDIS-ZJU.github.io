@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Jun Zhang
-
+url: "/authors/jun-zhang/home"
 # Full name (for SEO)
 first_name: Jun
 last_name: Zhang

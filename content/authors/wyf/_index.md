@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Yifan Wu
-
+url: "/authors/yifan-wu/home"
 # Full name (for SEO)
 first_name: Yifan
 last_name: Wu

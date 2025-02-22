@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Hongwei Yuan
-
+url: "/authors/hongwei-yuan/home"
 # Full name (for SEO)
 first_name: Hongwei
 last_name: Yuan

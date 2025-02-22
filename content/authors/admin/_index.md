@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Huan Li
-url: "/authors/li-huan/home"
+url: "/authors/huan-li/home"
 # Full Name (for SEO)
 first_name: Huan
 last_name: Li
@@ -60,7 +60,9 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+blocks:
+  - title: Publications
+    link: "/publications"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

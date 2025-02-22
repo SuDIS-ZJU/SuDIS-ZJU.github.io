@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Lingxi Cui
-
+url: "/authors/lingxi-cui/home"
 # Full name (for SEO)
 first_name: Lingxi
 last_name: Cui

@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Bowen Zeng
-
+url: "/authors/bowen-zeng/home"
 # Full name (for SEO)
 first_name: Bowen
 last_name: Zeng

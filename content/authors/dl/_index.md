@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Lei Duan
-
+url: "/authors/lei-duan/home"
 # Full name (for SEO)
 first_name: Lei
 last_name: Duan
