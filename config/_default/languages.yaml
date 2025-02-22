@@ -6,17 +6,26 @@
 en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+zh:
+ languageCode: zh-Hans
+ contentDir: content/zh
+ title: SuDIS | 浙江大学可持续数据智能与数据系统课题组
+ params:
+   description: 欢迎来到浙大SuDIS课题组的主页！
+ menu:
+   main:
+     - name: 最新动态
+       url: post
+       weight: 1
+     - name: 团队成员
+       url: people
+       weight: 30
+     # - name: Events
+     #   url: event
+     #   weight: 40
+     - name: 研究成果
+       url: publication
+       weight: 50
