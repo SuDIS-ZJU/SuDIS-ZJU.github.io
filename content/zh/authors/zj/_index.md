@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Jun Zhang
-url: "/authors/jun-zhang/home"
+title: 张俊
+url: "/authors/jun-zhang/home/zh"
 # Full name (for SEO)
-first_name: Jun
-last_name: Zhang
+first_name: 俊
+last_name: 张
 
 grad: 5 # 年级
 
@@ -16,11 +16,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Phd Student
+role: 博士生
 
 # Organizations/Affiliations
 organizations:
-  - name: Zhejiang University
+  - name: 浙江大学
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -68,7 +68,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Phd Students
+  - 博士生
 ---
 
 <!-- 吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.

@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Yuxuan Yang
-url: "/authors/yuxuan-yang/home"
+title: 杨宇轩
+url: "/authors/yuxuan-yang/home/zh"
 # Full name (for SEO)
-first_name: Yuxuan
-last_name: Yang
+first_name: 宇轩
+last_name: 杨
 
 grad: 1 # 年级
 
@@ -16,11 +16,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Master's
+role: 硕士生
 
 # Organizations/Affiliations
 organizations:
-  - name: Zhejiang University
+  - name: 浙江大学
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -69,7 +69,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master Students
+  - 硕士生
 ---
 
 <!-- 吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.

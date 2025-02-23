@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Yichen Yan
-url: "/authors/yichen-yan/home"
+title: 闫熠辰
+url: "/authors/yichen-yan/home/zh"
 # Full name (for SEO)
-first_name: Yichen
-last_name: Yan
+first_name: 熠辰
+last_name: 闫
 
 grad: 1 # 年级
 
@@ -16,11 +16,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Phd Student
+role: 博士生
 
 # Organizations/Affiliations
 organizations:
-  - name: Zhejiang University
+  - name: 浙江大学
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -68,7 +68,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Phd Students
+  - 博士生
 ---
 
 I received the B.E. degree from Xi'an Jiaotong University and the M.S. degree from the National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences (CASIA). I am now a  Ph.D. student of the College of Computer Science and Technology, Zhejiang University. I am currently focusing on Data-centric AI, especially data quality for Multimodal Large Language Models (MLLMs).

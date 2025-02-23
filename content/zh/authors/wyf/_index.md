@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Yifan Wu
-url: "/authors/yifan-wu/home"
+title: 吴一帆
+url: "/authors/yifan-wu/home/zh"
 # Full name (for SEO)
-first_name: Yifan
-last_name: Wu
+first_name: 一帆
+last_name: 吴
 
 grad: 4 # 年级
 
@@ -16,11 +16,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Phd Student
+role: 博士生
 
 # Organizations/Affiliations
 organizations:
-  - name: Zhejiang University
+  - name: 浙江大学
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -69,7 +69,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Phd Students
+  - 博士生
 ---
 
 I am currently a PhD student at the database and data intelligence lab (DILAB) of Zhejiang University, advised by Prof. Lidan Shou. I have a keen interest in database systems, data management, decentralized systems, and hardware acceleration. My research is dedicated to developing innovative techniques for efficient query processing and storage optimization, particularly in the context of emerging hardware. Currently, my focus is on leveraging cutting-edge compute-in-memory hardware and modern accelerators such as GPUs to expedite the execution of advanced analytical queries.

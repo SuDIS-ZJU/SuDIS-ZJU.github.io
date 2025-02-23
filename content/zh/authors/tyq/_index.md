@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Yiqi Tang
-url: "/authors/yiqi-tang/home"
+title: 汤亦奇
+url: "/authors/yiqi-tang/home/zh"
 draft: false
 
 # Full name (for SEO)
-first_name: Yiqi
-last_name: Tang
+first_name: 亦奇
+last_name: 汤
 
 grad: 0 # 年级
 
@@ -19,10 +19,10 @@ superuser: false
 
 # Role/position
 
-role: Phd Student
+role: 博士生
 # Organizations/Affiliations
 organizations:
-  - name: Zhejiang University
+  - name: 浙江大学
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -69,7 +69,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Phd Students
+  - 博士生
 ---
 
 <!-- 吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.

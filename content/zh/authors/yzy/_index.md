@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Zhaoyi Yuan
-url: "/authors/zhaoyi-yuan/home"
+title: 袁昭一
+url: "/authors/zhaoyi-yuan/home/zh"
 # Full name (for SEO)
-first_name: Zhaoyi
-last_name: Yuan
+first_name: 昭一
+last_name: 袁
 
 grad: 1 # 年级
 
@@ -16,11 +16,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Phd Student
+role: 博士生
 
 # Organizations/Affiliations
 organizations:
-  - name: Zhejiang University
+  - name: 浙江大学
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -68,6 +68,6 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Phd Students
+  - 博士生
 ---
 

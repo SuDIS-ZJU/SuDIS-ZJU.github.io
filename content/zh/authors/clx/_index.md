@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Lingxi Cui
-url: "/authors/lingxi-cui/home"
+title: 崔凌睎
+url: "/authors/lingxi-cui/home/zh"
 # Full name (for SEO)
-first_name: Lingxi
-last_name: Cui
+first_name: 凌睎
+last_name: 崔
 
 grad: 2 # 年级
 
@@ -20,7 +20,7 @@ role: 博士生
 
 # Organizations/Affiliations
 organizations:
-  - name: Zhejiang University
+  - name: 浙江大学
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
