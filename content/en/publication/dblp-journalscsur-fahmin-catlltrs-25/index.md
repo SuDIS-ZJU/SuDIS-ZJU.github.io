@@ -12,10 +12,10 @@ authors:
 - Hesham A. Rakha
 - Bojie Shen
 date: '2025-01-01'
-publishDate: '2025-02-21T12:03:28.315716Z'
+publishDate: '2025-02-23T08:09:21.040621Z'
 publication_types:
 - article-journal
-publication: '*ACM Comput. Surv.*'
+publication: '*ACM Comput. Surv. (CSUR)*'
 doi: 10.1145/3691624
 links:
 - name: URL

@@ -22,11 +22,10 @@ authors:
 - Qian Li
 - Zhenghai Luo
 date: '2022-01-01'
-publishDate: '2025-02-21T12:03:28.566891Z'
+publishDate: '2025-02-23T08:09:21.252273Z'
 publication_types:
 - paper-conference
-publication: '*Proceedings of the 13th Symposium on Cloud Computing, SoCC 2022, San
-  Francisco, California, November 7-11, 2022*'
+publication: '*Proceedings of the 13th Symposium on Cloud Computing, SoCC 2022*'
 doi: 10.1145/3542929.3563503
 links:
 - name: URL

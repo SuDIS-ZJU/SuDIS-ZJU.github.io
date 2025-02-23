@@ -7,12 +7,11 @@ authors:
 - Ke Chen
 - Lidan Shou
 date: '2023-01-01'
-publishDate: '2025-02-21T12:03:28.490235Z'
+publishDate: '2025-02-23T08:09:21.206206Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 32nd ACM International Conference on Information
-  and Knowledge Management, CIKM 2023, Birmingham, United Kingdom, October 21-25,
-  2023*'
+  and Knowledge Management, CIKM 2023*'
 doi: 10.1145/3583780.3615094
 links:
 - name: URL

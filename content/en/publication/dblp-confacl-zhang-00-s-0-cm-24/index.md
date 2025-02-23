@@ -10,12 +10,11 @@ authors:
 - Gang Chen
 - Sharad Mehrotra
 date: '2024-01-01'
-publishDate: '2025-02-21T12:03:28.345058Z'
+publishDate: '2025-02-23T08:09:21.070528Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 62nd Annual Meeting of the Association for Computational
-  Linguistics (Volume 1: Long Papers), ACL 2024, Bangkok, Thailand, August 11-16,
-  2024*'
+  Linguistics (Volume 1: Long Papers), ACL 2024*'
 doi: 10.18653/V1/2024.ACL-LONG.607
 links:
 - name: URL

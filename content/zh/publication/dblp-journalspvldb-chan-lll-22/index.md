@@ -6,10 +6,10 @@ authors:
 - Xiao Li
 - Hua Lu
 date: '2022-01-01'
-publishDate: '2025-02-21T12:03:28.547935Z'
+publishDate: '2025-02-23T08:09:21.232924Z'
 publication_types:
 - article-journal
-publication: '*Proc. VLDB Endow.*'
+publication: '*Proc. VLDB Endow. (PVLDB)*'
 doi: 10.14778/3523210.3523217
 url_pdf: https://www.vldb.org/pvldb/vol15/p1390-chan.pdf
 ---

@@ -6,11 +6,11 @@ authors:
 - Ke Chen
 - Lidan Shou
 date: '2023-01-01'
-publishDate: '2025-02-21T12:03:28.503057Z'
+publishDate: '2025-02-23T08:09:21.219722Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the Thirty-Second International Joint Conference on
-  Artificial Intelligence, IJCAI 2023, 19th-25th August 2023, Macao, SAR, China*'
+  Artificial Intelligence, IJCAI 2023*'
 doi: 10.24963/IJCAI.2023/483
 links:
 - name: URL

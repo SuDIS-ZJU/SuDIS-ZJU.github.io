@@ -7,11 +7,10 @@ authors:
 - Gang Chen
 - Ke Chen
 date: '2019-01-01'
-publishDate: '2025-02-21T12:03:28.670968Z'
+publishDate: '2025-02-23T08:09:21.338524Z'
 publication_types:
 - paper-conference
-publication: '*35th IEEE International Conference on Data Engineering, ICDE 2019,
-  Macao, China, April 8-11, 2019*'
+publication: '*35th IEEE International Conference on Data Engineering, ICDE 2019*'
 doi: 10.1109/ICDE.2019.00258
 links:
 - name: URL

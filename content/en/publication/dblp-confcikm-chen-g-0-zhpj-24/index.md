@@ -10,11 +10,11 @@ authors:
 - Guangyao Pang
 - Xiongnan Jin
 date: '2024-01-01'
-publishDate: '2025-02-21T12:03:28.351779Z'
+publishDate: '2025-02-23T08:09:21.077193Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 33rd ACM International Conference on Information
-  and Knowledge Management, CIKM 2024, Boise, ID, USA, October 21-25, 2024*'
+  and Knowledge Management, CIKM 2024*'
 doi: 10.1145/3627673.3679803
 links:
 - name: URL

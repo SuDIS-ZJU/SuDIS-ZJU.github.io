@@ -7,10 +7,10 @@ authors:
 - Gang Chen
 - Ke Chen
 date: '2019-01-01'
-publishDate: '2025-02-21T12:03:28.664488Z'
+publishDate: '2025-02-23T08:09:21.331938Z'
 publication_types:
 - article-journal
-publication: '*IEEE Trans. Knowl. Data Eng.*'
+publication: '*IEEE Trans. Knowl. Data Eng. (TKDE)*'
 doi: 10.1109/TKDE.2018.2875096
 links:
 - name: URL

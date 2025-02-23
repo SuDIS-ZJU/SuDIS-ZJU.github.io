@@ -21,11 +21,10 @@ authors:
 - Qian Li
 - Zhenghai Luo
 date: '2022-01-01'
-publishDate: '2025-02-21T12:03:28.580365Z'
+publishDate: '2025-02-23T08:09:21.265926Z'
 publication_types:
 - paper-conference
-publication: "*SIGMOD '22: International Conference on Management of Data, Philadelphia,
-  PA, USA, June 12 - 17, 2022*"
+publication: "*SIGMOD '22: International Conference on Management of Data*"
 doi: 10.1145/3514221.3520166
 links:
 - name: URL

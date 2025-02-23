@@ -9,10 +9,10 @@ authors:
 - Ke Chen
 - Lidan Shou
 date: '2018-01-01'
-publishDate: '2025-02-21T12:03:28.683823Z'
+publishDate: '2025-02-23T08:09:21.351607Z'
 publication_types:
 - article-journal
-publication: '*Proc. VLDB Endow.*'
+publication: '*Proc. VLDB Endow. (PVLDB)*'
 doi: 10.14778/3229863.3236224
 url_pdf: http://www.vldb.org/pvldb/vol11/p1918-li.pdf
 ---

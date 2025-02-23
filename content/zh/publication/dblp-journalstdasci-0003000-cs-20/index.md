@@ -8,10 +8,10 @@ authors:
 - Qinkuang Chen
 - Lidan Shou
 date: '2020-01-01'
-publishDate: '2025-02-21T12:03:28.632472Z'
+publishDate: '2025-02-23T08:09:21.305147Z'
 publication_types:
 - article-journal
-publication: '*Trans. Data Sci.*'
+publication: '*Trans. Data Sci. (TDS)*'
 doi: 10.1145/3385190
 links:
 - name: URL

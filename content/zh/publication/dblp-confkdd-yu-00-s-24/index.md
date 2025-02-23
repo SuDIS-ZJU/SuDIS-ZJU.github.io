@@ -7,11 +7,11 @@ authors:
 - Ke Chen
 - Lidan Shou
 date: '2024-01-01'
-publishDate: '2025-02-21T12:03:28.384793Z'
+publishDate: '2025-02-23T08:09:21.110209Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery
-  and Data Mining, KDD 2024, Barcelona, Spain, August 25-29, 2024*'
+  and Data Mining, KDD 2024*'
 doi: 10.1145/3637528.3671963
 links:
 - name: URL
