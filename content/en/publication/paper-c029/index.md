@@ -7,6 +7,9 @@ authors:
   - "Lidan Shou"
   - "Gang Chen"
   - "Huan Li"
+author_links:
+  - name: "Hongwei Yuan"
+    url: "/authors/hongwei-yuan/home/"
 date: "2024-01-01"
 publishDate: "2024-01-01"
 publication_types:

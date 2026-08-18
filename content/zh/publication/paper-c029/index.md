@@ -1,12 +1,15 @@
 ---
 title: "CogSQL: A Cognitive framework for enhancing large language models in text-to-SQL translation"
 authors:
-  - "袁泓玮"
+  - "Hongwei Yuan"
   - "Xiu Tang"
   - "Ke Chen"
   - "Lidan Shou"
   - "Gang Chen"
-  - "李环"
+  - "Huan Li"
+author_links:
+  - name: "Hongwei Yuan"
+    url: "/authors/hongwei-yuan/home/zh/"
 date: "2024-01-01"
 publishDate: "2024-01-01"
 publication_types:

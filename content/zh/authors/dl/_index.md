@@ -5,7 +5,7 @@ first_name: "磊"
 last_name: "段"
 grad: 3
 superuser: false
-role: "校友"
+role: "2023级硕士毕业生"
 organizations:
   - name: "浙江大学"
     url: "https://www.zju.edu.cn/"

@@ -1,12 +1,15 @@
 ---
 title: "Not all data are good labels: On the self-supervised labeling for time series forecasting"
 authors:
-  - "杨宇轩"
+  - "Yuxuan Yang"
   - "Dalin Zhang"
   - "Yuxuan Liang"
   - "Hua Lu"
   - "Gang Chen"
-  - "李环"
+  - "Huan Li"
+author_links:
+  - name: "Yuxuan Yang"
+    url: "/authors/yuxuan-yang/home/zh/"
 date: "2025-01-01"
 publishDate: "2025-01-01"
 publication_types:

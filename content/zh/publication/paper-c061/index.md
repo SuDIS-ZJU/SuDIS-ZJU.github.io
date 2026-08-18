@@ -1,13 +1,20 @@
 ---
 title: "HARD-KV: Head-Adaptive Regularization for Decoding-time KV Compression"
 authors:
-  - "杨宇轩"
-  - "任飞扬"
-  - "曾博文"
+  - "Yuxuan Yang"
+  - "Feiyang Ren"
+  - "Bowen Zeng"
   - "Dalin Zhang"
   - "Jinpeng Chen"
   - "Gang Chen"
-  - "李环"
+  - "Huan Li"
+author_links:
+  - name: "Yuxuan Yang"
+    url: "/authors/yuxuan-yang/home/zh/"
+  - name: "Feiyang Ren"
+    url: "/authors/feiyang-ren/home/zh/"
+  - name: "Bowen Zeng"
+    url: "/authors/bowen-zeng/home/zh/"
 date: "2026-01-01"
 publishDate: "2026-01-01"
 publication_types:

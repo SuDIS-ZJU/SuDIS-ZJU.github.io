@@ -2,7 +2,7 @@
 title: "Missing value imputation for multi-attribute sensor data streams via message propagation"
 authors:
   - "Xiao Li"
-  - "李环"
+  - "Huan Li"
   - "Hua Lu"
   - "Christian S. Jensen"
   - "Varun Pandey"

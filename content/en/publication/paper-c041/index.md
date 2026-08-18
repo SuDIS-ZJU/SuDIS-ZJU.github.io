@@ -7,6 +7,9 @@ authors:
   - "Zhongle Xie"
   - "Lu Chen"
   - "Christian S. Jensen"
+author_links:
+  - name: "Chuanyi Lv"
+    url: "/authors/chuanyi-lv/home/"
 date: "2025-01-01"
 publishDate: "2025-01-01"
 publication_types:

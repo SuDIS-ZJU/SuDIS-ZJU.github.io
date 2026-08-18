@@ -1,12 +1,15 @@
 ---
 title: "TableCopilot: A table assistant empowered by natural language conditional table discovery"
 authors:
-  - "崔凌睎"
+  - "Lingxi Cui"
   - "Guanyu Jiang"
-  - "李环"
+  - "Huan Li"
   - "Ke Chen"
   - "Lidan Shou"
   - "Gang Chen"
+author_links:
+  - name: "Lingxi Cui"
+    url: "/authors/lingxi-cui/home/zh/"
 date: "2025-01-01"
 publishDate: "2025-01-01"
 publication_types:

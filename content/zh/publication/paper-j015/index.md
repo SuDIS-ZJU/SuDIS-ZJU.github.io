@@ -2,7 +2,7 @@
 title: "Modeling and monitoring of indoor populations using sparse positioning data"
 authors:
   - "Xiao Li"
-  - "李环"
+  - "Huan Li"
   - "Hua Lu"
   - "Christian S. Jensen"
 date: "2024-01-01"

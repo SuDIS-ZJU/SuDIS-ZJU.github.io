@@ -3,7 +3,7 @@ title: "STEP: Stepwise curriculum learning for context-knowledge fusion in conve
 authors:
   - "Zhenye Yang"
   - "Jinpeng Chen"
-  - "李环"
+  - "Huan Li"
   - "et al"
 date: "2025-01-01"
 publishDate: "2025-01-01"

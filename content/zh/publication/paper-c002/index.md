@@ -1,7 +1,7 @@
 ---
 title: "TRIPS: A system for translating raw indoor positioning data into visual mobility semantics"
 authors:
-  - "李环"
+  - "Huan Li"
   - "Hua Lu"
   - "Feichao Shi"
   - "Gang Chen"

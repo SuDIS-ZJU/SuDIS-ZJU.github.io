@@ -3,7 +3,7 @@ title: "Hierarchical intent-guided optimization with pluggable LLM-Driven semant
 authors:
   - "Jinpeng Chen"
   - "Jianxiang He"
-  - "李环"
+  - "Huan Li"
   - "Senzhang Wang"
   - "Yuan Cao"
   - "Kaimin Wei"

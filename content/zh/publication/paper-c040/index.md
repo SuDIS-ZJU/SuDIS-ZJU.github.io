@@ -1,12 +1,15 @@
 ---
 title: "CoIDO: Efficient data selection for visual instruction tuning via coupled importance-diversity optimization"
 authors:
-  - "闫熠辰"
+  - "Yichen Yan"
   - "Ming Zhong"
   - "Qi Zhu"
   - "Xiaoling Gu"
   - "Jinpeng Chen"
-  - "李环"
+  - "Huan Li"
+author_links:
+  - name: "Yichen Yan"
+    url: "/authors/yichen-yan/home/zh/"
 date: "2025-01-01"
 publishDate: "2025-01-01"
 publication_types:

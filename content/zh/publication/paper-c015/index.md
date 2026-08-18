@@ -1,7 +1,7 @@
 ---
 title: "Efficient and error-bounded spatiotemporal quantile monitoring in edge computing environments"
 authors:
-  - "李环"
+  - "Huan Li"
   - "Lanjing Yi"
   - "Bo Tang"
   - "Hua Lu"

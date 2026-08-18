@@ -5,7 +5,7 @@ authors:
   - "Lingda Zhu"
   - "Yongkang Wong"
   - "Zhou Yu"
-  - "李环"
+  - "Huan Li"
   - "Zizhao Wu"
   - "and Mohan Kankanhalli"
 date: "2026-01-01"

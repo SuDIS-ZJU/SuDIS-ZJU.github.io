@@ -8,6 +8,13 @@ authors:
   - "Jinpeng Chen"
   - "Gang Chen"
   - "Huan Li"
+author_links:
+  - name: "Yuxuan Yang"
+    url: "/authors/yuxuan-yang/home/"
+  - name: "Feiyang Ren"
+    url: "/authors/feiyang-ren/home/"
+  - name: "Bowen Zeng"
+    url: "/authors/bowen-zeng/home/"
 date: "2026-01-01"
 publishDate: "2026-01-01"
 publication_types:

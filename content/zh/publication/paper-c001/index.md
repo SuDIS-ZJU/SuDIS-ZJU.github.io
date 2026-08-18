@@ -1,7 +1,7 @@
 ---
 title: "E2C2: Efficient and effective camera calibration in indoor environments"
 authors:
-  - "李环"
+  - "Huan Li"
   - "Pai Peng"
   - "Hua Lu"
   - "Lidan Shou"

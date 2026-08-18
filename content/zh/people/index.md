@@ -20,6 +20,6 @@ sections:
       sort_ascending: false
     design:
       show_interests: false
-      show_role: false
+      show_role: true
       show_social: false
 ---

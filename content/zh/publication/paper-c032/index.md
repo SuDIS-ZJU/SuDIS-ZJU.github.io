@@ -2,7 +2,7 @@
 title: "E2USD: Efficient-yet-effective unsupervised state detection for multivariate time series"
 authors:
   - "Zhichen Lai"
-  - "李环"
+  - "Huan Li"
   - "Dalin Zhang"
   - "Yan Zhao"
   - "Weizhu Qian"

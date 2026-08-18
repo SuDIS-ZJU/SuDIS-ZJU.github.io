@@ -2,7 +2,7 @@
 title: "Indoor spatial queries: Modeling, indexing, and processing"
 authors:
   - "Tiantian Liu"
-  - "李环"
+  - "Huan Li"
   - "Hua Lu"
   - "Muhammad Aamir Cheema"
   - "Lidan Shou"

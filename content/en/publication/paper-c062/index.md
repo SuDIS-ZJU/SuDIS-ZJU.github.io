@@ -8,6 +8,13 @@ authors:
   - "Ke Chen"
   - "Lidan Shou"
   - "Huan Li"
+author_links:
+  - name: "Bowen Zeng"
+    url: "/authors/bowen-zeng/home/"
+  - name: "Feiyang Ren"
+    url: "/authors/feiyang-ren/home/"
+  - name: "Jun Zhang"
+    url: "/authors/jun-zhang/home/"
 date: "2026-01-01"
 publishDate: "2026-01-01"
 publication_types:

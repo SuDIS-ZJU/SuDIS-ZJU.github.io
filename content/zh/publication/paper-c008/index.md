@@ -3,7 +3,7 @@ title: "Shortest path queries for indoor venues with temporal variations"
 authors:
   - "Tiantian Liu"
   - "Zijin Feng"
-  - "李环"
+  - "Huan Li"
   - "Hua Lu"
   - "Muhammad Aamir Cheema"
   - "Hong Cheng"

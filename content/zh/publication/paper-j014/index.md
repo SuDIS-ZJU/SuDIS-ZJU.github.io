@@ -3,7 +3,7 @@ title: "LightCTS*: Lightweight correlated time series forecasting enhanced with 
 authors:
   - "Zhichen Lai"
   - "Dalin Zhang"
-  - "李环"
+  - "Huan Li"
   - "Christian S. Jensen"
   - "Hua Lu"
   - "Yan Zhao"

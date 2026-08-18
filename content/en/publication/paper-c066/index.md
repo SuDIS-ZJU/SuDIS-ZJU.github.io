@@ -10,6 +10,13 @@ authors:
   - "Huan Li"
   - "Ke Chen"
   - "Lidan Shou"
+author_links:
+  - name: "Tong Wang"
+    url: "/authors/tong-wang/home/"
+  - name: "Jianfeng Zhang"
+    url: "/authors/jianfeng-zhang/home/"
+  - name: "Lingxi Cui"
+    url: "/authors/lingxi-cui/home/"
 date: "2026-01-01"
 publishDate: "2026-01-01"
 publication_types:

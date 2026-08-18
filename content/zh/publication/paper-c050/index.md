@@ -1,13 +1,18 @@
 ---
 title: "SpecVLM: Enhancing speculative decoding of video LLMs via verifier-guided token pruning"
 authors:
-  - "季奕丞"
-  - "张俊"
+  - "Yicheng Ji"
+  - "Jun Zhang"
   - "Heming Xia"
   - "Jinpeng Chen"
   - "Lidan Shou"
   - "Gang Chen"
-  - "李环"
+  - "Huan Li"
+author_links:
+  - name: "Yicheng Ji"
+    url: "/authors/yicheng-ji/home/zh/"
+  - name: "Jun Zhang"
+    url: "/authors/jun-zhang/home/zh/"
 date: "2025-01-01"
 publishDate: "2025-01-01"
 publication_types:

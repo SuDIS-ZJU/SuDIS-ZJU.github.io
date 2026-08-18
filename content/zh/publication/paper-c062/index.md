@@ -1,13 +1,20 @@
 ---
 title: "HybridKV: Hybrid KV Cache Compression for Efficient Multimodal Large Language Model Inference"
 authors:
-  - "曾博文"
-  - "任飞扬"
-  - "张俊"
+  - "Bowen Zeng"
+  - "Feiyang Ren"
+  - "Jun Zhang"
   - "Xiaoling Gu"
   - "Ke Chen"
   - "Lidan Shou"
-  - "李环"
+  - "Huan Li"
+author_links:
+  - name: "Bowen Zeng"
+    url: "/authors/bowen-zeng/home/zh/"
+  - name: "Feiyang Ren"
+    url: "/authors/feiyang-ren/home/zh/"
+  - name: "Jun Zhang"
+    url: "/authors/jun-zhang/home/zh/"
 date: "2026-01-01"
 publishDate: "2026-01-01"
 publication_types:

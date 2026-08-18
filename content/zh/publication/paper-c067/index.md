@@ -4,7 +4,7 @@ authors:
   - "Jinpeng Chen"
   - "Jianxiang He"
   - "Yuan Cao"
-  - "李环"
+  - "Huan Li"
   - "Zhenye Yang"
   - "Kaimin Wei"
   - "Xiongnan Jin"

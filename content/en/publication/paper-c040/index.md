@@ -7,6 +7,9 @@ authors:
   - "Xiaoling Gu"
   - "Jinpeng Chen"
   - "Huan Li"
+author_links:
+  - name: "Yichen Yan"
+    url: "/authors/yichen-yan/home/"
 date: "2025-01-01"
 publishDate: "2025-01-01"
 publication_types:

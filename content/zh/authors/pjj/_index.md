@@ -12,8 +12,11 @@ organizations:
 interests:
   - "多模态检索"
   - "多模态生成"
-  - "Agent"
-social: []
+  - "智能体"
+social:
+  - icon: "envelope"
+    icon_pack: "fas"
+    link: "mailto:panjiaj@zju.edu.cn"
 publications:
   []
 user_groups:

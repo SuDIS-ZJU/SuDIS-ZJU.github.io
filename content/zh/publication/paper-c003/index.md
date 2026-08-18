@@ -1,7 +1,7 @@
 ---
 title: "Vita: A versatile toolkit for generating indoor mobility data for real-world buildings"
 authors:
-  - "李环"
+  - "Huan Li"
   - "Hua Lu"
   - "Xin Chen"
   - "Gang Chen"

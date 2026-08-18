@@ -3,7 +3,7 @@ title: "Leveraging multimodal data and side users for diffusion cross-domain rec
 authors:
   - "Fan Zhang"
   - "Jinpeng Chen"
-  - "李环"
+  - "Huan Li"
   - "et al"
 date: "2025-01-01"
 publishDate: "2025-01-01"

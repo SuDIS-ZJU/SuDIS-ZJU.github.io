@@ -1,15 +1,22 @@
 ---
 title: "RedParrot: Accelerating NL-to-DSL for Business Analytics via Query Semantic Caching"
 authors:
-  - "王童"
+  - "Tong Wang"
   - "Yongqin Xu"
-  - "张剑峰"
-  - "崔凌睎"
+  - "Jianfeng Zhang"
+  - "Lingxi Cui"
   - "Wenqing Wei"
   - "Suzhou Chen"
-  - "李环"
+  - "Huan Li"
   - "Ke Chen"
   - "Lidan Shou"
+author_links:
+  - name: "Tong Wang"
+    url: "/authors/tong-wang/home/zh/"
+  - name: "Jianfeng Zhang"
+    url: "/authors/jianfeng-zhang/home/zh/"
+  - name: "Lingxi Cui"
+    url: "/authors/lingxi-cui/home/zh/"
 date: "2026-01-01"
 publishDate: "2026-01-01"
 publication_types:

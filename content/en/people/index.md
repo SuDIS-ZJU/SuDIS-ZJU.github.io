@@ -20,10 +20,10 @@ sections:
           - Administration
           - Visitors
           - Alumni
-      sort_by: Params.grad
-      sort_ascending: false
+      sort_by: Params.last_name
+      sort_ascending: true
     design:
       show_interests: false
-      show_role: false
+      show_role: true
       show_social: false
 ---

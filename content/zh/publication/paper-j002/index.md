@@ -1,7 +1,7 @@
 ---
 title: "Finding most popular indoor semantic locations using uncertain mobility data"
 authors:
-  - "李环"
+  - "Huan Li"
   - "Hua Lu"
   - "Lidan Shou"
   - "Gang Chen"

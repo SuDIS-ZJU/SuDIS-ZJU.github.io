@@ -1,7 +1,7 @@
 ---
 title: "In search of indoor dense regions: An approach using indoor positioning data"
 authors:
-  - "李环"
+  - "Huan Li"
   - "Hua Lu"
   - "Lidan Shou"
   - "Gang Chen"

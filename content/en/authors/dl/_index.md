@@ -5,7 +5,7 @@ first_name: "Duan"
 last_name: "Lei"
 grad: 3
 superuser: false
-role: "Alumni"
+role: "2023 Master's graduate"
 organizations:
   - name: "Zhejiang University"
     url: "https://www.zju.edu.cn/"

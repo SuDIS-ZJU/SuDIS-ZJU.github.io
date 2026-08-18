@@ -2,16 +2,16 @@
 title: "Filter-then-match: Holistic Schema Matching via Small Language Model Filtering and Large Language Model Reasoning"
 authors:
   - "Yongqin Xu"
-  - "李环"
+  - "Huan Li"
   - "Ke Chen"
   - "Lidan Shou"
 date: "2026-01-01"
 publishDate: "2026-01-01"
-summary: 结合小语言模型过滤与大语言模型推理的整体式模式匹配框架。
 publication_types:
   - "paper-conference"
 publication: "ACM International Conference on Information and Knowledge Management (CIKM) 2026"
 slug: "paper-c072"
+summary: "Filter-then-match: Holistic Schema Matching via Small Language Model Filtering and Large Language Model Reasoning (ACM International Conference on Information and Knowledge Management (CIKM) 2026, 2026)."
 keywords:
   - "Schema Matching"
   - "Data Integration"

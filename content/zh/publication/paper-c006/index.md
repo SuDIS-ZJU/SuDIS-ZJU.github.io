@@ -1,7 +1,7 @@
 ---
 title: "Indoor mobility semantics annotation using coupled conditional Markov networks"
 authors:
-  - "李环"
+  - "Huan Li"
   - "Hua Lu"
   - "Muhammad Aamir Cheema"
   - "Lidan Shou"

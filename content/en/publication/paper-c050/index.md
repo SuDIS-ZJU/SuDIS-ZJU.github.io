@@ -8,6 +8,11 @@ authors:
   - "Lidan Shou"
   - "Gang Chen"
   - "Huan Li"
+author_links:
+  - name: "Yicheng Ji"
+    url: "/authors/yicheng-ji/home/"
+  - name: "Jun Zhang"
+    url: "/authors/jun-zhang/home/"
 date: "2025-01-01"
 publishDate: "2025-01-01"
 publication_types:

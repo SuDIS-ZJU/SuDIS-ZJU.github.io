@@ -1,7 +1,7 @@
 ---
 title: "SafeLoad: Efficient admission control framework for identifying memory-overloading queries in cloud data warehouses"
 authors:
-  - "吴一帆"
+  - "Yifan Wu"
   - "Yuhan Li"
   - "Zhenhua Wang"
   - "Zhongle Xie"
@@ -10,8 +10,11 @@ authors:
   - "Lidan Shou"
   - "Bo Tang"
   - "Liang Lin"
-  - "李环"
+  - "Huan Li"
   - "Gang Chen"
+author_links:
+  - name: "Yifan Wu"
+    url: "/authors/yifan-wu/home/zh/"
 date: "2025-01-01"
 publishDate: "2025-01-01"
 publication_types:

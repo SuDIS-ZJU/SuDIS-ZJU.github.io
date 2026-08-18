@@ -3,7 +3,7 @@ title: "Revisiting CNNs for trajectory similarity learning"
 authors:
   - "Zhihao Chang"
   - "Linzhu Yu"
-  - "李环"
+  - "Huan Li"
   - "Sai Wu"
   - "Gang Chen"
   - "Dongxiang Zhang"

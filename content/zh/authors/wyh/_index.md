@@ -10,7 +10,7 @@ organizations:
   - name: "浙江大学"
     url: "https://www.zju.edu.cn/"
 interests:
-  - "Agent Memory"
+  - "智能体记忆"
 social: []
 publications:
   []

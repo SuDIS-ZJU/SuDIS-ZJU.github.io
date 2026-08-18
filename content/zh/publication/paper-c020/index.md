@@ -3,7 +3,7 @@ title: "Towards a question answering system over temporal knowledge graph embedd
 authors:
   - "Kristian Otte"
   - "Kristian Simoni Vestermark"
-  - "李环"
+  - "Huan Li"
   - "and Daniele Dell'Aglio"
 date: "2022-01-01"
 publishDate: "2022-01-01"

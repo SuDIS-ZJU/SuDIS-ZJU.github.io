@@ -1,12 +1,15 @@
 ---
 title: "DeXOR: Enabling XOR in Decimal Space for Streaming Lossless Compression of Floating-point Data"
 authors:
-  - "吕川一"
-  - "李环"
+  - "Chuanyi Lv"
+  - "Huan Li"
   - "Dingyu Yang"
   - "Zhongle Xie"
   - "Lu Chen"
   - "Christian S. Jensen"
+author_links:
+  - name: "Chuanyi Lv"
+    url: "/authors/chuanyi-lv/home/zh/"
 date: "2025-01-01"
 publishDate: "2025-01-01"
 publication_types:

@@ -3,7 +3,7 @@ title: "Indoor top-k keyword-aware routing query"
 authors:
   - "Zijin Feng"
   - "Tiantian Liu"
-  - "李环"
+  - "Huan Li"
   - "Hua Lu"
   - "Lidan Shou"
   - "Jianliang Xu"

@@ -10,8 +10,8 @@ organizations:
   - name: "浙江大学"
     url: "https://www.zju.edu.cn/"
 interests:
-  - "MLLM Agent"
-  - "Token Economics"
+  - "多模态大模型智能体"
+  - "令牌经济学"
 social: []
 publications:
   []

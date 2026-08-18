@@ -13,7 +13,10 @@ interests:
   - "Multimodal retrieval"
   - "multimodal generation"
   - "and agents"
-social: []
+social:
+  - icon: "envelope"
+    icon_pack: "fas"
+    link: "mailto:panjiaj@zju.edu.cn"
 publications:
   []
 user_groups:

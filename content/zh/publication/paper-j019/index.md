@@ -3,7 +3,7 @@ title: "PimShare: Scheduling for multi-DNN inference on processing-in-memory acc
 authors:
   - "Xinyu Chen"
   - "Zhongle Xie"
-  - "李环"
+  - "Huan Li"
   - "Ke Chen"
   - "Lidan Shou"
   - "Dawei Jiang"

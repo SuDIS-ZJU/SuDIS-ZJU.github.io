@@ -6,7 +6,7 @@ authors:
   - "Mohammed Eunus Ali"
   - "Adel N Toosi"
   - "Hua Lu"
-  - "李环"
+  - "Huan Li"
   - "David Taniar"
   - "Hesham A Rakha"
   - "and Bojie Shen"

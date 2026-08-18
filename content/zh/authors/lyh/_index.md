@@ -11,12 +11,13 @@ organizations:
     url: "https://www.zju.edu.cn/"
 interests:
   - "统一多模态大模型"
-  - "视频生成高效诊断（QAR）"
+  - "视频生成高效诊断"
 social: []
 publications:
   - title: "Efficient Inference for Large Vision-Language Models: Bottlenecks, Techniques, and Prospects"
+    venue: "The 64th Annual Meeting of the Association for Computational Linguistics (ACL) Findings"
     year: 2026
-    url: "/zh/publication/paper-c060/"
+    url: "/en/publication/paper-c060/"
 user_groups:
   - "博士生"
 ---

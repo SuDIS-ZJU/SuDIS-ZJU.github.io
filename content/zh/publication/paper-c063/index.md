@@ -5,7 +5,7 @@ authors:
   - "Zhenye Yang"
   - "Ruichen Zhou"
   - "Pei Zhang"
-  - "李环"
+  - "Huan Li"
   - "Jinpeng Chen"
 date: "2026-01-01"
 publishDate: "2026-01-01"

@@ -1,11 +1,14 @@
 ---
 title: "NLCTables: A dataset for marrying natural language conditions with table discovery"
 authors:
-  - "崔凌睎"
-  - "李环"
+  - "Lingxi Cui"
+  - "Huan Li"
   - "Ke Chen"
   - "Lidan Shou"
   - "Gang Chen"
+author_links:
+  - name: "Lingxi Cui"
+    url: "/authors/lingxi-cui/home/zh/"
 date: "2025-01-01"
 publishDate: "2025-01-01"
 publication_types:

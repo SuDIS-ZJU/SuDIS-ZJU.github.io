@@ -2,7 +2,7 @@
 title: "TPUF: Enhancing cross-domain sequential recommendation via transferring pre-trained user features"
 authors:
   - "Yujia Ding"
-  - "李环"
+  - "Huan Li"
   - "Ke Chen"
   - "Lidan Shou"
 date: "2023-01-01"

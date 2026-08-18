@@ -1,15 +1,18 @@
 ---
 title: "HMI: Hierarchical knowledge management for efficient multi-tenant inference in pretrained language models"
 authors:
-  - "张俊"
+  - "Jun Zhang"
   - "Jue Wang"
-  - "李环"
+  - "Huan Li"
   - "Lidan Shou"
   - "Ke Chen"
   - "Gang Chen"
   - "Qin Xie"
   - "Guiming Xie"
   - "Xuejian Gong"
+author_links:
+  - name: "Jun Zhang"
+    url: "/authors/jun-zhang/home/zh/"
 date: "2025-01-01"
 publishDate: "2025-01-01"
 publication_types:

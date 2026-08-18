@@ -12,6 +12,9 @@ authors:
   - "Liang Lin"
   - "Huan Li"
   - "Gang Chen"
+author_links:
+  - name: "Yifan Wu"
+    url: "/authors/yifan-wu/home/"
 date: "2025-01-01"
 publishDate: "2025-01-01"
 publication_types:

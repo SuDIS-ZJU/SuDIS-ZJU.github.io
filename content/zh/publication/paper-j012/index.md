@@ -3,7 +3,7 @@ title: "EMPNet: An Extract-Map-Predict neural network architecture for cross-dom
 authors:
   - "Jinpeng Chen"
   - "Fan Zhang"
-  - "李环"
+  - "Huan Li"
   - "Hua Lu"
   - "Xiongnan Jin"
   - "Kuien Liu"

@@ -1,12 +1,12 @@
 ---
 title: "TeQ: An open and developer-friendly testbed for edge-based query processing algorithms"
 authors:
-  - "雷宇"
+  - "Yu Lei"
   - "Xinle Jiang"
   - "Hua Lu"
   - "Christian S. Jensen"
   - "Bo Tang"
-  - "李环"
+  - "Huan Li"
 date: "2025-01-01"
 publishDate: "2025-01-01"
 publication_types:

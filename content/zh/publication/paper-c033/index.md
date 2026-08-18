@@ -1,12 +1,15 @@
 ---
 title: "HyperMR: Efficient hypergraph-enhanced matrix storage on compute-in-memory architecture"
 authors:
-  - "吴一帆"
+  - "Yifan Wu"
   - "Ke Chen"
   - "Gang Chen"
   - "Dawei Jiang"
-  - "李环"
+  - "Huan Li"
   - "Lidan Shou"
+author_links:
+  - name: "Yifan Wu"
+    url: "/authors/yifan-wu/home/zh/"
 date: "2024-01-01"
 publishDate: "2024-01-01"
 publication_types:

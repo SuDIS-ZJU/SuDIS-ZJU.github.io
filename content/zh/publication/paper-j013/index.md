@@ -4,7 +4,7 @@ authors:
   - "Xu Cheng"
   - "Fan Shi"
   - "Yao Zhang"
-  - "李环"
+  - "Huan Li"
   - "Xiufeng Liu"
   - "Shengyong Chen"
 date: "2024-01-01"

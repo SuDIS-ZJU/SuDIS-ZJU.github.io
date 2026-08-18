@@ -2,7 +2,7 @@
 title: "Data imputation for sparse radio maps in indoor positioning"
 authors:
   - "Xiao Li"
-  - "李环"
+  - "Huan Li"
   - "Harry Kai-Ho Chan"
   - "Hua Lu"
   - "Christian S. Jensen"

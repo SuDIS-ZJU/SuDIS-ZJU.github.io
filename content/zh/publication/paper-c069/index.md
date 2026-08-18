@@ -2,7 +2,7 @@
 title: "VERA: Identifying and Leveraging Visual Evidence Retrieval Heads in Long-Context Understanding"
 authors:
   - "Rongcan Pei"
-  - "李环"
+  - "Huan Li"
   - "Fang Guo"
   - "Qi Zhu"
 date: "2026-01-01"

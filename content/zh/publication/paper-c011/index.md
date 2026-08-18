@@ -3,7 +3,7 @@ title: "Time-constrained indoor keyword-aware routing"
 authors:
   - "Harry Kai-Ho Chan"
   - "Tiantian Liu"
-  - "李环"
+  - "Huan Li"
   - "Hua Lu"
 date: "2021-01-01"
 publishDate: "2021-01-01"

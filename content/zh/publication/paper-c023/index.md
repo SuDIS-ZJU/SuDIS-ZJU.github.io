@@ -3,7 +3,7 @@ title: "LightCTS: A lightweight framework for correlated time series forecasting
 authors:
   - "Zhichen Lai"
   - "Dalin Zhang"
-  - "李环"
+  - "Huan Li"
   - "Christian S. Jensen"
   - "Hua Lu"
   - "Yan Zhao"

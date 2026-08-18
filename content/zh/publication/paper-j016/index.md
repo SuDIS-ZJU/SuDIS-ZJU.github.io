@@ -1,12 +1,15 @@
 ---
 title: "CHASe: Client heterogeneity-aware data selection for effective federated active learning"
 authors:
-  - "张俊"
+  - "Jun Zhang"
   - "Jue Wang"
-  - "李环"
+  - "Huan Li"
   - "Zhongle Xie"
   - "Ke Chen"
   - "Lidan Shou"
+author_links:
+  - name: "Jun Zhang"
+    url: "/authors/jun-zhang/home/zh/"
 date: "2025-01-01"
 publishDate: "2025-01-01"
 publication_types:

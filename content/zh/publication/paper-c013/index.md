@@ -2,7 +2,7 @@
 title: "Continuous social distance monitoring in indoor space"
 authors:
   - "Harry Kai-Ho Chan"
-  - "李环"
+  - "Huan Li"
   - "Xiao Li"
   - "Hua Lu"
 date: "2022-01-01"

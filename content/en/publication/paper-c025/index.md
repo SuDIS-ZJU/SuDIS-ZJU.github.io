@@ -7,6 +7,9 @@ authors:
   - "Yan Zhao"
   - "Ke Chen"
   - "Lidan Shou"
+author_links:
+  - name: "Jun Zhang"
+    url: "/authors/jun-zhang/home/"
 date: "2023-01-01"
 publishDate: "2023-01-01"
 publication_types:

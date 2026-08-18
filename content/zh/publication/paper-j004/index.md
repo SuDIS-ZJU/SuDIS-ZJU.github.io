@@ -3,7 +3,7 @@ title: "Towards indoor temporal-variation aware shortest path query"
 authors:
   - "Tiantian Liu"
   - "Zijin Feng"
-  - "李环"
+  - "Huan Li"
   - "Hua Lu"
   - "Muhammad Aamir Cheema"
   - "Hong Cheng"

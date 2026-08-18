@@ -10,6 +10,11 @@ authors:
   - "Liang Lin"
   - "Huan Li"
   - "Gang Chen"
+author_links:
+  - name: "Yifan Wu"
+    url: "/authors/yifan-wu/home/"
+  - name: "Zonghao Chen"
+    url: "/authors/zonghao-chen/home/"
 date: "2026-01-01"
 publishDate: "2026-01-01"
 publication_types:

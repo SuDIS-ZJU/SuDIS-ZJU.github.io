@@ -4,7 +4,7 @@ authors:
   - "Siru Zhong"
   - "Weilin Ruan"
   - "Ming Jin"
-  - "李环"
+  - "Huan Li"
   - "Qingsong Wen"
   - "Yuxuan Liang"
 date: "2025-01-01"

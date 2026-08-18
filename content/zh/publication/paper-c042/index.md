@@ -4,7 +4,7 @@ authors:
   - "Fan Zhang"
   - "Jinpeng Chen"
   - "Tao Wang"
-  - "李环"
+  - "Huan Li"
   - "Senzhang Wang"
   - "Feifei Kou"
   - "Ji Ye"

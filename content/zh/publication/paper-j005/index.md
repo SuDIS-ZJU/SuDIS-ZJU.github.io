@@ -1,7 +1,7 @@
 ---
 title: "Spatial data analysis for intelligent buildings: Awareness of context and data uncertainty"
 authors:
-  - "李环"
+  - "Huan Li"
   - "Tiantian Liu"
   - "Harry Kai-Ho Chan"
   - "Hua Lu"

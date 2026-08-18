@@ -14,9 +14,11 @@ interests:
 social: []
 publications:
   - title: "ChronosBI: Supercharging LLM-Powered Business Intelligence Pipelines with Semantic Caching and Cost Planning"
+    venue: "2026 ACM SIGMOD International Conference on Management of Data (SIGMOD) Demo"
     year: 2026
     url: "/en/publication/paper-c058/"
   - title: "RedParrot: Accelerating NL-to-DSL for Business Analytics via Query Semantic Caching"
+    venue: "The 42nd IEEE International Conference on Data Engineering (ICDE) Industry"
     year: 2026
     url: "/en/publication/paper-c066/"
 user_groups:

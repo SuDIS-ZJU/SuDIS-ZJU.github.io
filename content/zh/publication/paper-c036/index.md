@@ -3,7 +3,7 @@ title: "ReCTSi: Resource-efficient correlated time series imputation via decoupl
 authors:
   - "Zhichen Lai"
   - "Dalin Zhang"
-  - "李环"
+  - "Huan Li"
   - "Dongxiang Zhang"
   - "Hua Lu"
   - "Christian S. Jensen"

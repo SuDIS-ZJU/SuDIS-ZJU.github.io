@@ -2,7 +2,7 @@
 title: "BoKA: Bayesian optimization based knowledge amalgamation for multi-unknown-domain text classification"
 authors:
   - "Linzhu Yu"
-  - "李环"
+  - "Huan Li"
   - "Ke Chen"
   - "Lidan Shou"
 date: "2024-01-01"

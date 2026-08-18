@@ -11,21 +11,24 @@ organizations:
     url: "https://www.zju.edu.cn/"
 interests:
   - "数据库系统"
-  - "Token Economics"
+  - "令牌经济学"
 social:
   - icon: "globe"
     icon_pack: "fas"
     link: "https://onefanwu.github.io/"
 publications:
-  - title: "ScaleSense：基于学习式资源估计的 Alibaba AnalyticDB 成本智能扩缩容框架"
+  - title: "ScaleSense: Cost-Intelligent Scaling Framework via Learned Resource Estimation in Alibaba AnalyticDB"
+    venue: "The 52nd International Conference on Very Large Data Bases (VLDB) Industry"
     year: 2026
-    url: "/zh/publication/paper-c070/"
+    url: "/en/publication/paper-c070/"
   - title: "SafeLoad: Efficient admission control framework for identifying memory-overloading queries in cloud data warehouses"
+    venue: "The 51th International Conference on Very Large Data Bases (VLDB)"
     year: 2025
-    url: "/zh/publication/paper-c049/"
+    url: "/en/publication/paper-c049/"
   - title: "HyperMR: Efficient hypergraph-enhanced matrix storage on compute-in-memory architecture"
+    venue: "2025 ACM SIGMOD International Conference on Management of Data (SIGMOD)"
     year: 2024
-    url: "/zh/publication/paper-c033/"
+    url: "/en/publication/paper-c033/"
 user_groups:
   - "博士生"
 ---

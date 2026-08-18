@@ -10,6 +10,9 @@ authors:
   - "Guiming Xie"
   - "Xuejian Gong"
   - "and Kunlong Zhou"
+author_links:
+  - name: "Jun Zhang"
+    url: "/authors/jun-zhang/home/"
 date: "2025-01-01"
 publishDate: "2025-01-01"
 publication_types:

@@ -14,12 +14,14 @@ interests:
   - "表格数据治理"
 social: []
 publications:
-  - title: "ChronosBI：基于语义缓存与成本规划的 LLM 驱动商业智能流水线增强系统"
+  - title: "ChronosBI: Supercharging LLM-Powered Business Intelligence Pipelines with Semantic Caching and Cost Planning"
+    venue: "2026 ACM SIGMOD International Conference on Management of Data (SIGMOD) Demo"
     year: 2026
-    url: "/zh/publication/paper-c058/"
+    url: "/en/publication/paper-c058/"
   - title: "RedParrot: Accelerating NL-to-DSL for Business Analytics via Query Semantic Caching"
+    venue: "The 42nd IEEE International Conference on Data Engineering (ICDE) Industry"
     year: 2026
-    url: "/zh/publication/paper-c066/"
+    url: "/en/publication/paper-c066/"
 user_groups:
   - "硕士生"
 ---

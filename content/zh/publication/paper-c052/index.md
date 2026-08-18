@@ -3,7 +3,7 @@ title: "T^2DR: A two-tier deficiency-resistant framework for incomplete multimod
 authors:
   - "Han Lin"
   - "Xiu Tang"
-  - "李环"
+  - "Huan Li"
   - "Wenxue Cao"
   - "Sai Wu"
   - "Chang Yao"

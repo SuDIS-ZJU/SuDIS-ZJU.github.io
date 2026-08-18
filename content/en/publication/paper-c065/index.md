@@ -6,6 +6,9 @@ authors:
   - "Yicheng Ji"
   - "Huan Li"
   - "Cong Wang"
+author_links:
+  - name: "Yicheng Ji"
+    url: "/authors/yicheng-ji/home/"
 date: "2026-01-01"
 publishDate: "2026-01-01"
 publication_types:

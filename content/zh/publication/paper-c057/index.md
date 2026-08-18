@@ -2,7 +2,7 @@
 title: "Transfer-Aware Data Selection for Domain Adaptation in Text Retrieval"
 authors:
   - "Linzhu Yu"
-  - "李环"
+  - "Huan Li"
   - "Ke Chen"
   - "Lidan Shou"
 date: "2025-01-01"

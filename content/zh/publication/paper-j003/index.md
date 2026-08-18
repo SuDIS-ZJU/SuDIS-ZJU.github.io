@@ -1,7 +1,7 @@
 ---
 title: "Toward translating raw indoor positioning data into mobility semantics"
 authors:
-  - "李环"
+  - "Huan Li"
   - "Hua Lu"
   - "Gang Chen"
   - "Ke Chen"

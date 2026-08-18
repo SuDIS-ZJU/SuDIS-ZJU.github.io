@@ -14,6 +14,7 @@ interests:
 social: []
 publications:
   - title: "DeXOR: Enabling XOR in Decimal Space for Streaming Lossless Compression of Floating-point Data"
+    venue: "The 51th International Conference on Very Large Data Bases (VLDB)"
     year: 2025
     url: "/en/publication/paper-c041/"
 user_groups:

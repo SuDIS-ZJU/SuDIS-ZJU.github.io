@@ -14,6 +14,7 @@ interests:
 social: []
 publications:
   - title: "Efficient Inference for Large Vision-Language Models: Bottlenecks, Techniques, and Prospects"
+    venue: "The 64th Annual Meeting of the Association for Computational Linguistics (ACL) Findings"
     year: 2026
     url: "/en/publication/paper-c060/"
 user_groups:

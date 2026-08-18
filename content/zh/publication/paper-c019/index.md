@@ -1,7 +1,7 @@
 ---
 title: "Spatial data quality in the IoT era: Management and exploitation"
 authors:
-  - "李环"
+  - "Huan Li"
   - "Bo Tang"
   - "Hua Lu"
   - "Muhammad Aamir Cheema"

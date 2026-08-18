@@ -2,7 +2,7 @@
 title: "FedBFPT: An efficient federated learning framework for Bert further pre-training"
 authors:
   - "Xin'ao Wang"
-  - "李环"
+  - "Huan Li"
   - "Ke Chen"
   - "Lidan Shou"
 date: "2023-01-01"

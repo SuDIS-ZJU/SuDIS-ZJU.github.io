@@ -7,6 +7,9 @@ authors:
   - "Hua Lu"
   - "Gang Chen"
   - "Huan Li"
+author_links:
+  - name: "Yuxuan Yang"
+    url: "/authors/yuxuan-yang/home/"
 date: "2025-01-01"
 publishDate: "2025-01-01"
 publication_types:

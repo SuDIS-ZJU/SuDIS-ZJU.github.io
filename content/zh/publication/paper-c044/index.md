@@ -4,7 +4,7 @@ authors:
   - "Baiyan Zhang"
   - "Zepeng Li"
   - "Dongxiang Zhang"
-  - "李环"
+  - "Huan Li"
   - "Kian-Lee Tan"
   - "Gang Chen"
 date: "2025-01-01"

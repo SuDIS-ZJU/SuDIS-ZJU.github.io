@@ -3,7 +3,7 @@ title: "M4REC: Multi-Modal Knowledge Graph Modeling of Multi-Dimensional User Pr
 authors:
   - "Jinpeng Chen"
   - "Fan Zhang"
-  - "李环"
+  - "Huan Li"
   - "Hua Lu"
   - "Kaimin Wei"
   - "Senzhang Wang"

@@ -2,7 +2,7 @@
 title: "Contact tracing over uncertain indoor positioning data"
 authors:
   - "Tiantian Liu"
-  - "李环"
+  - "Huan Li"
   - "Hua Lu"
   - "Muhammad Aamir Cheema"
   - "Harry Kai-Ho Chan"

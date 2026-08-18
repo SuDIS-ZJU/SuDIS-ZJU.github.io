@@ -1,12 +1,15 @@
 ---
 title: "Preventing the popular item embedding based attack in federated recommendations"
 authors:
-  - "张俊"
-  - "李环"
+  - "Jun Zhang"
+  - "Huan Li"
   - "Dazhong Rong"
   - "Yan Zhao"
   - "Ke Chen"
   - "Lidan Shou"
+author_links:
+  - name: "Jun Zhang"
+    url: "/authors/jun-zhang/home/zh/"
 date: "2023-01-01"
 publishDate: "2023-01-01"
 publication_types:

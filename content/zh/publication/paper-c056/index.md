@@ -1,15 +1,18 @@
 ---
 title: "Train Small, Infer Large: Memory-efficient LoRA training for large language models"
 authors:
-  - "张俊"
+  - "Jun Zhang"
   - "Jue Wang"
-  - "李环"
+  - "Huan Li"
   - "Lidan Shou"
   - "Ke Chen"
   - "Yang You"
   - "Guiming Xie"
   - "Xuejian Gong"
   - "and Kunlong Zhou"
+author_links:
+  - name: "Jun Zhang"
+    url: "/authors/jun-zhang/home/zh/"
 date: "2025-01-01"
 publishDate: "2025-01-01"
 publication_types:

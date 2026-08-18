@@ -3,7 +3,7 @@ title: "MovSemCL: Movement-semantics contrastive learning for trajectory similar
 authors:
   - "Zhichen Lai"
   - "Hua Lu"
-  - "李环"
+  - "Huan Li"
   - "Jialiang Li"
   - "Christian S. Jensen"
 date: "2025-01-01"

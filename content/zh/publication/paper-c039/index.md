@@ -3,7 +3,7 @@ title: "Beyond fixed variables: Expanding-variate time series forecasting via fl
 authors:
   - "Minbo Ma"
   - "Kai Tang"
-  - "李环"
+  - "Huan Li"
   - "Fei Teng"
   - "Dalin Zhang"
   - "Tianrui Li"

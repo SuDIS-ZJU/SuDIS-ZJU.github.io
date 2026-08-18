@@ -7,6 +7,9 @@ authors:
   - "Ke Chen"
   - "Lidan Shou"
   - "Gang Chen"
+author_links:
+  - name: "Lingxi Cui"
+    url: "/authors/lingxi-cui/home/"
 date: "2025-01-01"
 publishDate: "2025-01-01"
 publication_types:

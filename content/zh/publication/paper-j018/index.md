@@ -8,7 +8,7 @@ authors:
   - "Chenjuan Guo"
   - "Bin Yang"
   - "Kai Zheng"
-  - "李环"
+  - "Huan Li"
   - "Christian S. Jensen"
 date: "2025-01-01"
 publishDate: "2025-01-01"

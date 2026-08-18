@@ -3,7 +3,7 @@ title: "IKAROS: An indoor keyword-aware routing system"
 authors:
   - "Tiantian Liu"
   - "Zijin Feng"
-  - "李环"
+  - "Huan Li"
   - "Hua Lu"
   - "Lidan Shou"
   - "Jianliang Xu"

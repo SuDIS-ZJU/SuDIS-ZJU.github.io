@@ -2,7 +2,7 @@
 title: "Towards crowd-aware indoor path planning"
 authors:
   - "Tiantian Liu"
-  - "李环"
+  - "Huan Li"
   - "Hua Lu"
   - "Muhammad Aamir Cheema"
   - "Lidan Shou"

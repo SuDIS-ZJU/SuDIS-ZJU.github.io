@@ -5,7 +5,7 @@ authors:
   - "Tinghao Lai"
   - "Ziwei Wang"
   - "Kaixuan Chen"
-  - "李环"
+  - "Huan Li"
   - "Kai Zheng"
 date: "2023-01-01"
 publishDate: "2023-01-01"

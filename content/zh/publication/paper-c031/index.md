@@ -1,13 +1,16 @@
 ---
 title: "Draft & verify: Lossless large language model acceleration via self-speculative decoding"
 authors:
-  - "张俊"
+  - "Jun Zhang"
   - "Jue Wang"
-  - "李环"
+  - "Huan Li"
   - "Lidan Shou"
   - "Ke Chen"
   - "Gang Chen"
   - "Sharad Mehrotra"
+author_links:
+  - name: "Jun Zhang"
+    url: "/authors/jun-zhang/home/zh/"
 date: "2024-01-01"
 publishDate: "2024-01-01"
 publication_types:

@@ -1,7 +1,7 @@
 ---
 title: "Spatial data quality in the Internet of Things: Management, exploitation, and prospects"
 authors:
-  - "李环"
+  - "Huan Li"
   - "Hua Lu"
   - "Christian S. Jensen"
   - "Bo Tang"

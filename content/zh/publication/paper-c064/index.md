@@ -6,7 +6,7 @@ authors:
   - "Shengqi Wu"
   - "Yongkang Wong"
   - "Zizhao Wu"
-  - "李环"
+  - "Huan Li"
   - "Zhou Yu"
   - "and Mohan Kankanhalli"
 date: "2026-01-01"

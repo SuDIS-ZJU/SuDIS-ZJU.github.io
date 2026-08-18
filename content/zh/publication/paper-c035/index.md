@@ -3,7 +3,7 @@ title: "PACIFIC: Enhancing sequential recommendation via preference-aware causal
 authors:
   - "Jinpeng Chen"
   - "Huachen Guan"
-  - "李环"
+  - "Huan Li"
   - "Fan Zhang"
   - "Liwei Huang"
   - "Guangyao Pang"

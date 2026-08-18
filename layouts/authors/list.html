@@ -14,7 +14,7 @@
         <h3>{{ if eq $.Lang "zh" }}公开论文{{ else }}Publications{{ end }}</h3>
         <ul>
           {{ range . }}
-            <li><a href="{{ .url }}">{{ .title }}</a> ({{ .year }})</li>
+            <li><a href="{{ .url }}">{{ .title }}</a> <span class="publication-venue">({{ .venue }}, {{ .year }})</span></li>
           {{ end }}
         </ul>
       </div>
