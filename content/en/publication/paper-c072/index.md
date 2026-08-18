@@ -7,6 +7,7 @@ authors:
   - "Lidan Shou"
 date: "2026-01-01"
 publishDate: "2026-01-01"
+summary: A holistic schema matching framework combining small language model filtering with large language model reasoning.
 publication_types:
   - "paper-conference"
 publication: "ACM International Conference on Information and Knowledge Management (CIKM) 2026"

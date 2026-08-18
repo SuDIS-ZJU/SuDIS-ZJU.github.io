@@ -25,8 +25,6 @@ keywords:
   - "semantics (computer science)"
 doi: "10.1145/3746252.3761186"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.1145/3746252.3761186"
   - name: "DBLP"
     url: "https://dblp.org/rec/conf/cikm/Yang0LJLZ0WW25"
   - name: "arXiv"

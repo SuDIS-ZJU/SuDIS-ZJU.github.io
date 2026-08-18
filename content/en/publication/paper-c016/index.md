@@ -27,8 +27,6 @@ doi: "10.1145/3514221.3520166"
 aliases:
   - "/en/publication/dblp-confsigmod-liu-tzdzsyzmzywj-22/"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.1145/3514221.3520166"
   - name: "DBLP"
     url: "https://dblp.org/rec/conf/sigmod/LiuTZDZSYZMZYWJ22"
   - name: "Project"

@@ -28,8 +28,6 @@ doi: "10.14778/3717755.3717762"
 aliases:
   - "/en/publication/dblp-journalscorrabs-2405-19761/"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.14778/3717755.3717762"
   - name: "DBLP"
     url: "https://dblp.org/rec/journals/pvldb/ChangYLWCZ24"
   - name: "arXiv"

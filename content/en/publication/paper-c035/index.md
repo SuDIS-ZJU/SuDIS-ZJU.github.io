@@ -30,8 +30,6 @@ doi: "10.1145/3627673.3679803"
 aliases:
   - "/en/publication/dblp-confcikm-chen-g-0-zhpj-24/"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.1145/3627673.3679803"
   - name: "DBLP"
     url: "https://dblp.org/rec/conf/cikm/ChenG0ZHPJ24"
   - name: "Project"

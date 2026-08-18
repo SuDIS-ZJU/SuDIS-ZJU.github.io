@@ -17,7 +17,7 @@ publications:
   - title: "Efficient Inference for Large Vision-Language Models: Bottlenecks, Techniques, and Prospects"
     year: 2026
     url: "/zh/publication/paper-c060/"
-  - title: "ScaleSense: Cost-Intelligent Scaling Framework via Learned Resource Estimation in Alibaba AnalyticDB"
+  - title: "ScaleSense：基于学习式资源估计的 Alibaba AnalyticDB 成本智能扩缩容框架"
     year: 2026
     url: "/zh/publication/paper-c070/"
 user_groups:

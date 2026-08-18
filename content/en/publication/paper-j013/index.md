@@ -23,8 +23,6 @@ keywords:
   - "learning"
 doi: "10.1109/tkde.2024.3523043"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.1109/tkde.2024.3523043"
   - name: "DBLP"
     url: "https://dblp.org/rec/journals/tkde/ChengSZLLC25"
   - name: "Project"

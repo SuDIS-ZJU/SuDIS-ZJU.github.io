@@ -25,8 +25,6 @@ doi: "10.1145/3514221.3522568"
 aliases:
   - "/en/publication/dblp-confsigmod-li-t-0-cj-22/"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.1145/3514221.3522568"
   - name: "DBLP"
     url: "https://dblp.org/rec/conf/sigmod/LiT0CJ22"
   - name: "Project"

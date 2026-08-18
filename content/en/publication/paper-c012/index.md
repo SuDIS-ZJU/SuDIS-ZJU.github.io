@@ -23,8 +23,6 @@ doi: "10.14778/3457390.3457401"
 aliases:
   - "/en/publication/dblp-journalspvldb-liu-llcs-21/"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.14778/3457390.3457401"
   - name: "DBLP"
     url: "https://dblp.org/rec/journals/pvldb/LiuLLCS21"
   - name: "arXiv"

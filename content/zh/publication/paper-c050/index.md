@@ -26,8 +26,6 @@ keywords:
   - "guided"
 doi: "10.18653/v1/2025.emnlp-main.366"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.18653/v1/2025.emnlp-main.366"
   - name: "DBLP"
     url: "https://dblp.org/rec/conf/emnlp/JiZXCSCL25"
   - name: "arXiv"

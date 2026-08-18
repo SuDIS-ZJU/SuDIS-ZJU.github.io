@@ -28,8 +28,6 @@ doi: "10.14778/3538598.3538600"
 aliases:
   - "/en/publication/dblp-journalspvldb-li-ytlj-22/"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.14778/3538598.3538600"
   - name: "DBLP"
     url: "https://dblp.org/rec/journals/pvldb/LiYTLJ22"
   - name: "Project"

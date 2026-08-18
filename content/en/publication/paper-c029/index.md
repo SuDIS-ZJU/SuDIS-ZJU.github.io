@@ -25,8 +25,6 @@ keywords:
   - "text"
 doi: "10.1609/aaai.v39i24.34770"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.1609/aaai.v39i24.34770"
   - name: "DBLP"
     url: "https://dblp.org/rec/conf/aaai/YuanTCSCL25"
   - name: "Project"

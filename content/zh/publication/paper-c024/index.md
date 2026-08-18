@@ -29,8 +29,6 @@ doi: "10.14778/3632093.3632100"
 aliases:
   - "/zh/publication/dblp-journalspvldb-li-lljpm-23/"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.14778/3632093.3632100"
   - name: "DBLP"
     url: "https://dblp.org/rec/journals/pvldb/LiLLJPM23"
   - name: "arXiv"

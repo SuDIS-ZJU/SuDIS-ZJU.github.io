@@ -26,8 +26,6 @@ keywords:
   - "accelerated"
 doi: "10.1109/tcad.2025.3641876"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.1109/tcad.2025.3641876"
   - name: "Project"
     url: "https://longaspire.github.io/publication/"
 ---

@@ -12,7 +12,7 @@ en:
 zh:
  languageCode: zh-Hans
  contentDir: content/zh
- title: SuDIS | 浙江大学可持续数据智能与数据系统课题组
+ title: SuDIS@ZJU
  params:
    description: 欢迎来到浙大SuDIS课题组的主页！
  menu:

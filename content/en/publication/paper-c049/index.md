@@ -30,8 +30,6 @@ keywords:
   - "overloading"
 doi: "10.14778/3785297.3785311"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.14778/3785297.3785311"
   - name: "DBLP"
     url: "https://dblp.org/rec/journals/corr/abs-2601-01888"
   - name: "Project"

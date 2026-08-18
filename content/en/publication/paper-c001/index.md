@@ -26,8 +26,6 @@ doi: "10.1145/2800835.2800841"
 aliases:
   - "/en/publication/dblp-confhuc-li-pls-0015/"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.1145/2800835.2800841"
   - name: "DBLP"
     url: "https://dblp.org/rec/conf/huc/LiPLS0015"
   - name: "Project"

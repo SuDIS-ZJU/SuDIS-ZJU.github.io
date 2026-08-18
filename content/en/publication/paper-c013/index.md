@@ -27,8 +27,6 @@ doi: "10.14778/3523210.3523217"
 aliases:
   - "/en/publication/dblp-journalspvldb-chan-lll-22/"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.14778/3523210.3523217"
   - name: "DBLP"
     url: "https://dblp.org/rec/journals/pvldb/ChanLLL22"
   - name: "Project"

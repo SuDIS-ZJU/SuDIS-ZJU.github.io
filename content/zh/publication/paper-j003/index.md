@@ -29,8 +29,6 @@ doi: "10.1145/3385190"
 aliases:
   - "/zh/publication/dblp-journalstdasci-0003000-cs-20/"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.1145/3385190"
   - name: "DBLP"
     url: "https://dblp.org/rec/journals/tdasci/0003000CS20"
   - name: "Project"

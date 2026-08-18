@@ -27,8 +27,6 @@ keywords:
   - "pipeline (software)"
 doi: "10.1145/3725407"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.1145/3725407"
   - name: "DBLP"
     url: "https://dblp.org/rec/journals/pacmmod/ZhangLZLTC25"
   - name: "Project"

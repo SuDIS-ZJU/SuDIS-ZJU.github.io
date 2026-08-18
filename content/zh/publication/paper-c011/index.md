@@ -27,8 +27,6 @@ doi: "10.1145/3469830.3470895"
 aliases:
   - "/zh/publication/dblp-confssd-chan-lll-21/"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.1145/3469830.3470895"
   - name: "DBLP"
     url: "https://dblp.org/rec/conf/ssd/ChanLLL21"
   - name: "Project"

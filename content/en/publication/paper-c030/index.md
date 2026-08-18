@@ -28,8 +28,6 @@ doi: "10.1109/icde60146.2024.00487"
 aliases:
   - "/en/publication/dblp-conficde-00030-lcc-24/"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.1109/icde60146.2024.00487"
   - name: "DBLP"
     url: "https://dblp.org/rec/conf/icde/00030LCC24"
   - name: "Project"

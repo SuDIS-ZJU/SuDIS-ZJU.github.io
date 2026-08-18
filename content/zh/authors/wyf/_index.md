@@ -17,7 +17,7 @@ social:
     icon_pack: "fas"
     link: "https://onefanwu.github.io/"
 publications:
-  - title: "ScaleSense: Cost-Intelligent Scaling Framework via Learned Resource Estimation in Alibaba AnalyticDB"
+  - title: "ScaleSense：基于学习式资源估计的 Alibaba AnalyticDB 成本智能扩缩容框架"
     year: 2026
     url: "/zh/publication/paper-c070/"
   - title: "SafeLoad: Efficient admission control framework for identifying memory-overloading queries in cloud data warehouses"

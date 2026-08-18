@@ -2,6 +2,9 @@
 title: Latest Review by SuDIS-ZJU - Progress and Prospects of Tabular Data Augmentation in the Era of Generative AI
 date: 2024-08-08
 authors: ["SuDIS-ZJU Team"]
+summary: A review of tabular data augmentation and its emerging role in the generative AI era.
+image:
+  alt_text: Overview of tabular data augmentation research
 ---
 
 <!--more-->

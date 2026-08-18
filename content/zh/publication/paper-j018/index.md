@@ -30,8 +30,6 @@ keywords:
   - "feature (linguistics)"
 doi: "10.1109/tkde.2025.3638888"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.1109/tkde.2025.3638888"
   - name: "DBLP"
     url: "https://dblp.org/rec/journals/tkde/MiaoLZLGYZLJ26"
   - name: "Project"

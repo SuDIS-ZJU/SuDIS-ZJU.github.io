@@ -28,8 +28,6 @@ doi: "10.3390/s21113838"
 aliases:
   - "/en/publication/dblp-journalssensors-umair-ccll-21/"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.3390/s21113838"
   - name: "DBLP"
     url: "https://dblp.org/rec/journals/sensors/UmairCCLL21"
   - name: "arXiv"

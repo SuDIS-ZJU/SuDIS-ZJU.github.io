@@ -25,8 +25,6 @@ keywords:
   - "federated"
 doi: "10.1109/tkde.2025.3547423"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.1109/tkde.2025.3547423"
   - name: "DBLP"
     url: "https://dblp.org/rec/journals/tkde/ZhangWLXCS25"
   - name: "Project"

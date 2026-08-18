@@ -25,8 +25,6 @@ doi: "10.1109/icde60146.2024.00337"
 aliases:
   - "/zh/publication/dblp-conficde-liu-00-l-0024/"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.1109/icde60146.2024.00337"
   - name: "DBLP"
     url: "https://dblp.org/rec/conf/icde/Liu00L0024"
   - name: "arXiv"

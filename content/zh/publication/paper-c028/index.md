@@ -27,8 +27,6 @@ doi: "10.1145/3637528.3671963"
 aliases:
   - "/zh/publication/dblp-confkdd-yu-00-s-24/"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.1145/3637528.3671963"
   - name: "DBLP"
     url: "https://dblp.org/rec/conf/kdd/Yu00S24"
   - name: "Project"

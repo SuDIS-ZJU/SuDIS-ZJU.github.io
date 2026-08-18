@@ -26,8 +26,6 @@ keywords:
   - "editing"
 doi: "10.1109/tcsvt.2026.3657731"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.1109/tcsvt.2026.3657731"
   - name: "Project"
     url: "https://longaspire.github.io/publication/"
 ---

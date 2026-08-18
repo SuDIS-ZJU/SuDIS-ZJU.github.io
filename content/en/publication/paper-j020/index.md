@@ -28,8 +28,6 @@ keywords:
   - "rendering (computer graphics)"
 doi: "10.1109/tkde.2026.3677245"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.1109/tkde.2026.3677245"
   - name: "DBLP"
     url: "https://dblp.org/rec/journals/tkde/ChenZLLWWJ26"
   - name: "Project"

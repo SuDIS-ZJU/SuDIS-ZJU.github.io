@@ -8,6 +8,7 @@ authors:
 - Lidan Shou
 date: '2024-01-01'
 publishDate: '2025-02-23T08:09:21.137585Z'
+summary: KcMF, a knowledge-compliant framework for schema and entity matching with fine-tuning-free large language models.
 publication_types:
 - article-journal
 publication: '*CoRR*'

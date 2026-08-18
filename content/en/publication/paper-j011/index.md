@@ -32,8 +32,6 @@ doi: "10.1145/3691624"
 aliases:
   - "/en/publication/dblp-journalscsur-fahmin-catlltrs-25/"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.1145/3691624"
   - name: "DBLP"
     url: "https://dblp.org/rec/journals/csur/FahminCATLLTRS25"
   - name: "Project"

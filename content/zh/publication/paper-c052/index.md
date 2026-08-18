@@ -29,8 +29,6 @@ keywords:
   - "artificial intelligence"
 doi: "10.18653/v1/2025.findings-acl.452"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.18653/v1/2025.findings-acl.452"
   - name: "Project"
     url: "https://longaspire.github.io/publication/"
 ---

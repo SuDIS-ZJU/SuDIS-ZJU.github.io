@@ -29,8 +29,6 @@ keywords:
   - "computer science"
 doi: "10.1145/3726302.3729994"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.1145/3726302.3729994"
   - name: "DBLP"
     url: "https://dblp.org/rec/conf/sigir/ChenH0WCWYJ25"
   - name: "arXiv"

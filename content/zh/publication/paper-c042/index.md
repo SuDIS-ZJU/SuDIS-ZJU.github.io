@@ -28,8 +28,6 @@ keywords:
   - "llm"
 doi: "10.1609/aaai.v40i19.38663"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.1609/aaai.v40i19.38663"
   - name: "DBLP"
     url: "https://dblp.org/rec/conf/aaai/ZhangCWLWKJWY26"
   - name: "Project"

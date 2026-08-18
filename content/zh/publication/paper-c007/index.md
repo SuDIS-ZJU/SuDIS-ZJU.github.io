@@ -25,8 +25,6 @@ doi: "10.1109/icde48307.2020.00109"
 aliases:
   - "/zh/publication/dblp-conficde-feng-l-0-lsx-20/"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.1109/icde48307.2020.00109"
   - name: "DBLP"
     url: "https://dblp.org/rec/conf/icde/FengL0LSX20"
   - name: "Project"

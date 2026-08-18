@@ -27,8 +27,6 @@ doi: "10.1109/tkde.2023.3249828"
 aliases:
   - "/zh/publication/dblp-journalstkde-zhao-lwclz-23/"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.1109/tkde.2023.3249828"
   - name: "DBLP"
     url: "https://dblp.org/rec/journals/tkde/ZhaoLWCLZ23"
   - name: "Project"

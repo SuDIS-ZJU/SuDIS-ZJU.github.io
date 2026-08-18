@@ -29,8 +29,6 @@ doi: "10.1145/3589334.3645593"
 aliases:
   - "/zh/publication/dblp-confwww-0001-l-00-qj-24/"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.1145/3589334.3645593"
   - name: "DBLP"
     url: "https://dblp.org/rec/conf/www/0001L00QJ24"
   - name: "arXiv"

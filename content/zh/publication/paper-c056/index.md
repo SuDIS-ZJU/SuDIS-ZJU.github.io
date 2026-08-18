@@ -28,8 +28,6 @@ keywords:
   - "training"
 doi: "https://openreview.net/forum?id=s7dkcgprxl"
 links:
-  - name: "DOI"
-    url: "https://doi.org/https://openreview.net/forum?id=s7dkcgprxl"
   - name: "DBLP"
     url: "https://dblp.org/rec/conf/iclr/ZhangW0SCYXGZ25"
   - name: "OpenReview"

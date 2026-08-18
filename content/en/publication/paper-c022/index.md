@@ -25,8 +25,6 @@ doi: "10.24963/ijcai.2023/483"
 aliases:
   - "/en/publication/dblp-confijcai-wang-00-s-23/"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.24963/ijcai.2023/483"
   - name: "DBLP"
     url: "https://dblp.org/rec/conf/ijcai/Wang00S23"
   - name: "Project"

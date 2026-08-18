@@ -25,8 +25,6 @@ doi: "10.1109/icde53745.2022.00293"
 aliases:
   - "/en/publication/dblp-conficde-liu-fllsx-22/"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.1109/icde53745.2022.00293"
   - name: "DBLP"
     url: "https://dblp.org/rec/conf/icde/LiuFLLSX22"
   - name: "Project"

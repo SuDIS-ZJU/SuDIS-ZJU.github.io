@@ -30,8 +30,6 @@ keywords:
   - "pipeline transport"
 doi: "10.1145/3788853.3801580"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.1145/3788853.3801580"
   - name: "Project"
     url: "https://longaspire.github.io/publication/"
 ---

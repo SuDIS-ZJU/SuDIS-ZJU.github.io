@@ -30,8 +30,6 @@ doi: "10.1109/tkde.2021.3076144"
 aliases:
   - "/en/publication/dblp-journalstkde-liu-fllccx-23/"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.1109/tkde.2021.3076144"
   - name: "DBLP"
     url: "https://dblp.org/rec/journals/tkde/LiuFLLCCX23"
   - name: "Project"

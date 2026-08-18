@@ -25,8 +25,6 @@ keywords:
   - "compression"
 doi: "10.14778/3796195.3796200"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.14778/3796195.3796200"
   - name: "DBLP"
     url: "https://dblp.org/rec/journals/pvldb/LvLYXCJ26"
   - name: "Project"

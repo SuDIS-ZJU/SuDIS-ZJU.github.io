@@ -28,8 +28,6 @@ doi: "10.1109/icde48307.2020.00128"
 aliases:
   - "/zh/publication/dblp-conficde-00030-cs-020/"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.1109/icde48307.2020.00128"
   - name: "DBLP"
     url: "https://dblp.org/rec/conf/icde/00030CS020"
   - name: "Project"

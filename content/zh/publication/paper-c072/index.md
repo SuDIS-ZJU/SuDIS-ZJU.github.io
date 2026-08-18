@@ -7,6 +7,7 @@ authors:
   - "Lidan Shou"
 date: "2026-01-01"
 publishDate: "2026-01-01"
+summary: 结合小语言模型过滤与大语言模型推理的整体式模式匹配框架。
 publication_types:
   - "paper-conference"
 publication: "ACM International Conference on Information and Knowledge Management (CIKM) 2026"

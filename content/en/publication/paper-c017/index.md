@@ -25,8 +25,6 @@ doi: "10.1145/3542929.3563503"
 aliases:
   - "/en/publication/dblp-confcloud-liu-0-zd-0-zszmzywj-22/"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.1145/3542929.3563503"
   - name: "DBLP"
     url: "https://dblp.org/rec/conf/cloud/Liu0ZD0ZSZMZYWJ22"
   - name: "Project"

@@ -28,8 +28,6 @@ doi: "10.1007/s11280-023-01188-6"
 aliases:
   - "/en/publication/dblp-journalswww-li-call-23/"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.1007/s11280-023-01188-6"
   - name: "DBLP"
     url: "https://dblp.org/rec/journals/www/LiCALL23"
   - name: "Project"

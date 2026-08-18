@@ -26,8 +26,6 @@ doi: "10.1007/978-3-031-15512-3_6"
 aliases:
   - "/zh/publication/dblp-confadc-li-call-22/"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.1007/978-3-031-15512-3_6"
   - name: "DBLP"
     url: "https://dblp.org/rec/conf/adc/LiCALL22"
   - name: "Project"

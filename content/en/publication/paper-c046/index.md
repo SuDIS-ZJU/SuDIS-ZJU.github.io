@@ -23,8 +23,6 @@ keywords:
   - "similarity"
 doi: "10.1609/aaai.v40i17.38526"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.1609/aaai.v40i17.38526"
   - name: "DBLP"
     url: "https://dblp.org/rec/conf/aaai/LaiLLLJ26"
   - name: "Project"

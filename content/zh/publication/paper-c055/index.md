@@ -25,8 +25,6 @@ keywords:
   - "augmented"
 doi: "https://icml.cc/virtual/2025/poster/44762"
 links:
-  - name: "DOI"
-    url: "https://doi.org/https://icml.cc/virtual/2025/poster/44762"
   - name: "arXiv"
     url: "https://arxiv.org/abs/2502.04395"
   - name: "Project"

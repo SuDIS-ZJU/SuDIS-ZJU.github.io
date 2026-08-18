@@ -27,8 +27,6 @@ keywords:
   - "computer science"
 doi: "10.1145/3709695"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.1145/3709695"
   - name: "DBLP"
     url: "https://dblp.org/rec/journals/pacmmod/WuCCJLS25"
   - name: "Project"

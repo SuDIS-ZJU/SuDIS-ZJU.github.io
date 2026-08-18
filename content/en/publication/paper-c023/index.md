@@ -29,8 +29,6 @@ doi: "10.1145/3589270"
 aliases:
   - "/en/publication/dblp-journalspacmmod-000100-j-0023/"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.1145/3589270"
   - name: "DBLP"
     url: "https://dblp.org/rec/journals/pacmmod/000100J0023"
   - name: "arXiv"

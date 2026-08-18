@@ -1,6 +1,7 @@
 ---
 title: People
 date: 2022-10-24
+summary: Meet the students and researchers of the SuDIS@ZJU research group.
 
 type: landing
 

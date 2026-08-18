@@ -25,8 +25,6 @@ doi: "10.1109/icde55515.2023.00173"
 aliases:
   - "/en/publication/dblp-conficde-li-0-c-0-j-23/"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.1109/icde55515.2023.00173"
   - name: "DBLP"
     url: "https://dblp.org/rec/conf/icde/Li0C0J23"
   - name: "arXiv"

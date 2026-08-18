@@ -28,8 +28,6 @@ doi: "10.1109/tkde.2023.3270031"
 aliases:
   - "/en/publication/dblp-journalstkde-liu-llcc-23/"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.1109/tkde.2023.3270031"
   - name: "DBLP"
     url: "https://dblp.org/rec/journals/tkde/LiuLLCC23"
   - name: "arXiv"

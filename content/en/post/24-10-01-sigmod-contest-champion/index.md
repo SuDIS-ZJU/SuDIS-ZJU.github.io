@@ -2,8 +2,10 @@
 title: SuDIS and SUSTech DBGroup Collaborate to Win Global Championship at SIGMOD 2024 Programming Contest
 date: 2024-10-01
 authors: ["SuDIS-ZJU Team"]
+summary: SuDIS and SUSTech DBGroup teams win the SIGMOD 2024 programming contest championship.
 image:
   focal_point: 'top'
+  alt_text: SuDIS and SUSTech DBGroup teams at the SIGMOD 2024 programming contest
 ---
 
 <!--more-->

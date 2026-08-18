@@ -25,8 +25,6 @@ keywords:
   - "artificial intelligence"
 doi: "10.18653/v1/2025.findings-emnlp.948"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.18653/v1/2025.findings-emnlp.948"
   - name: "DBLP"
     url: "https://dblp.org/rec/conf/emnlp/YuLCS25"
   - name: "Project"

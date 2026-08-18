@@ -27,8 +27,6 @@ doi: "10.1109/tkde.2024.3424451"
 aliases:
   - "/en/publication/dblp-journalstkde-lai-zljlz-24/"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.1109/tkde.2024.3424451"
   - name: "DBLP"
     url: "https://dblp.org/rec/journals/tkde/LaiZLJLZ24"
   - name: "Project"

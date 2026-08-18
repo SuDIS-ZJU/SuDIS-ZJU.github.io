@@ -28,8 +28,6 @@ keywords:
   - "inference"
 doi: "10.1007/s00778-025-00919-7"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.1007/s00778-025-00919-7"
   - name: "DBLP"
     url: "https://dblp.org/rec/journals/vldb/ZhangWLSCCXXG25"
   - name: "arXiv"

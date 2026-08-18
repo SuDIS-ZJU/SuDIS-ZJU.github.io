@@ -28,8 +28,6 @@ aliases:
   - "/zh/publication/dblp-journalscorrabs-2410-21142/"
   - "/zh/publication/dblp-journalstkde-li-llj-25/"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.1109/tkde.2024.3489796"
   - name: "DBLP"
     url: "https://dblp.org/rec/journals/tkde/LiLLJ25"
   - name: "arXiv"

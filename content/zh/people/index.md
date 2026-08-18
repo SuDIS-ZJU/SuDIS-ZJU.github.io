@@ -1,6 +1,7 @@
 ---
-title: People
+title: 团队成员
 date: 2022-10-24
+summary: 了解浙江大学 SuDIS 课题组的学生与研究人员。
 
 type: landing
 

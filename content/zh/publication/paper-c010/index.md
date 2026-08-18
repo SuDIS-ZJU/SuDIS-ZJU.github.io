@@ -24,8 +24,6 @@ doi: "10.5441/002/edbt.2021.17"
 aliases:
   - "/zh/publication/dblp-confedbt-liu-00-cs-21/"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.5441/002/edbt.2021.17"
   - name: "DBLP"
     url: "https://dblp.org/rec/conf/edbt/Liu00CS21"
   - name: "arXiv"

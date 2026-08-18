@@ -27,8 +27,6 @@ doi: "10.1145/3637528.3671816"
 aliases:
   - "/zh/publication/dblp-confkdd-000100-z-0-j-24/"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.1145/3637528.3671816"
   - name: "DBLP"
     url: "https://dblp.org/rec/conf/kdd/000100Z0J24"
   - name: "Project"

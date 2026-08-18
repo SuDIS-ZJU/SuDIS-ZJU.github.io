@@ -27,8 +27,6 @@ keywords:
   - "computer science"
 doi: "10.48550/arxiv.2502.14704"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.48550/arxiv.2502.14704"
   - name: "DBLP"
     url: "https://dblp.org/rec/journals/corr/abs-2502-14704"
   - name: "Project"

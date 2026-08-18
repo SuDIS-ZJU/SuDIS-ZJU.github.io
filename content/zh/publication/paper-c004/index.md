@@ -26,8 +26,6 @@ keywords:
   - "scalability"
 doi: "10.1109/icde.2019.00264"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.1109/icde.2019.00264"
   - name: "DBLP"
     url: "https://dblp.org/rec/conf/icde/00030S0019"
   - name: "Project"

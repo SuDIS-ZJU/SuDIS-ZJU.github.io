@@ -27,8 +27,6 @@ keywords:
   - "selection (genetic algorithm)"
 doi: "10.48550/arxiv.2510.17847"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.48550/arxiv.2510.17847"
   - name: "DBLP"
     url: "https://dblp.org/rec/journals/corr/abs-2510-17847"
   - name: "Project"

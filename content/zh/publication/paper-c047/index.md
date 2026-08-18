@@ -24,8 +24,6 @@ keywords:
   - "discovery"
 doi: "10.1145/3726302.3730296"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.1145/3726302.3730296"
   - name: "DBLP"
     url: "https://dblp.org/rec/conf/sigir/Cui0CS025"
   - name: "arXiv"

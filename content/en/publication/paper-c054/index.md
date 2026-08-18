@@ -25,8 +25,6 @@ keywords:
   - "processing"
 doi: "10.1145/3722212.3725138"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.1145/3722212.3725138"
   - name: "DBLP"
     url: "https://dblp.org/rec/conf/sigmod/0010J0JT025"
   - name: "Project"

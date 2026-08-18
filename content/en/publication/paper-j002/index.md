@@ -28,8 +28,6 @@ doi: "10.1109/tkde.2018.2875096"
 aliases:
   - "/en/publication/dblp-journalstkde-li-lscc-19/"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.1109/tkde.2018.2875096"
   - name: "DBLP"
     url: "https://dblp.org/rec/journals/tkde/LiLSCC19"
   - name: "Project"

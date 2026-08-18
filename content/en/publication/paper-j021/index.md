@@ -20,9 +20,9 @@ keywords:
   - "tabular data generation"
   - "data integration"
 doi: "10.1145/3808692"
+aliases:
+  - "/en/publication/dblp-journalscorrabs-2407-21523/"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.1145/3808692"
   - name: "DBLP"
     url: "https://dblp.org/rec/journals/corr/abs-2407-21523"
   - name: "Project"

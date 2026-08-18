@@ -27,8 +27,6 @@ keywords:
   - "natural language"
 doi: "10.14778/3750601.3750681"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.14778/3750601.3750681"
   - name: "DBLP"
     url: "https://dblp.org/rec/journals/pvldb/CuiJLCSC25"
   - name: "arXiv"

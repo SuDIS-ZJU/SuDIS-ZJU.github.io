@@ -23,8 +23,6 @@ doi: "10.3389/fdata.2022.1049198"
 aliases:
   - "/zh/publication/dblp-journalsfdata-li-lcl-22/"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.3389/fdata.2022.1049198"
   - name: "DBLP"
     url: "https://dblp.org/rec/journals/fdata/LiLCL22"
   - name: "Project"

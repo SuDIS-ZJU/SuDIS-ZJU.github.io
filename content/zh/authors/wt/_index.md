@@ -14,7 +14,7 @@ interests:
   - "OPSD for Schema Linking"
 social: []
 publications:
-  - title: "ChronosBI: Supercharging LLM-Powered Business Intelligence Pipelines with Semantic Caching and Cost Planning"
+  - title: "ChronosBI：基于语义缓存与成本规划的 LLM 驱动商业智能流水线增强系统"
     year: 2026
     url: "/zh/publication/paper-c058/"
   - title: "RedParrot: Accelerating NL-to-DSL for Business Analytics via Query Semantic Caching"

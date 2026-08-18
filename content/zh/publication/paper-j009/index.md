@@ -20,8 +20,6 @@ keywords:
   - "methods"
 doi: "http://jcip.cipsc.org.cn/cn/y2023/v37/i3/1"
 links:
-  - name: "DOI"
-    url: "https://doi.org/http://jcip.cipsc.org.cn/cn/y2023/v37/i3/1"
   - name: "Project"
     url: "https://longaspire.github.io/publication/"
 ---

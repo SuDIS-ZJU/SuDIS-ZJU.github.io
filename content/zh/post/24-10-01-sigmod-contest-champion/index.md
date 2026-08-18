@@ -1,8 +1,10 @@
 ---
 title: 浙大数据智能团队在SIGMOD 2024程序竞赛中获得冠军
 date: 2024-10-01
+summary: 浙江大学 SuDIS 与南方科技大学 DBGroup 联合队伍获得 SIGMOD 2024 程序竞赛冠军。
 image:
   focal_point: 'top'
+  alt_text: SuDIS 与南科大 DBGroup 联合队伍在 SIGMOD 2024 程序竞赛中夺冠
 ---
 
 <!--more-->

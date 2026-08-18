@@ -27,8 +27,6 @@ doi: "10.1145/3583780.3615094"
 aliases:
   - "/en/publication/dblp-confcikm-ding-l-0-s-23/"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.1145/3583780.3615094"
   - name: "DBLP"
     url: "https://dblp.org/rec/conf/cikm/DingL0S23"
   - name: "Project"

@@ -28,8 +28,6 @@ doi: "10.18653/v1/2024.acl-long.607"
 aliases:
   - "/zh/publication/dblp-confacl-zhang-00-s-0-cm-24/"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.18653/v1/2024.acl-long.607"
   - name: "DBLP"
     url: "https://dblp.org/rec/conf/acl/Zhang00S0CM24"
   - name: "arXiv"

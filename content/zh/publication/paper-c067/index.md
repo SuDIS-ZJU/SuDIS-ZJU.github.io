@@ -30,8 +30,6 @@ keywords:
   - "knowledge graph"
 doi: "10.1145/3774904.3792356"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.1145/3774904.3792356"
   - name: "DBLP"
     url: "https://dblp.org/rec/conf/www/ChenHCLYWJWT26"
   - name: "Project"

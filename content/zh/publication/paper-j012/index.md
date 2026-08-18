@@ -31,8 +31,6 @@ doi: "10.1007/s11280-024-01240-z"
 aliases:
   - "/zh/publication/dblp-journalswww-chen-zlljllw-24/"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.1007/s11280-024-01240-z"
   - name: "DBLP"
     url: "https://dblp.org/rec/journals/www/ChenZLLJLLW24"
   - name: "Project"

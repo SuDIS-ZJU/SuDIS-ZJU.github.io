@@ -27,8 +27,6 @@ doi: "10.14778/3229863.3236224"
 aliases:
   - "/en/publication/dblp-journalspvldb-li-lsccs-18/"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.14778/3229863.3236224"
   - name: "DBLP"
     url: "https://dblp.org/rec/journals/pvldb/LiLSCCS18"
   - name: "Project"

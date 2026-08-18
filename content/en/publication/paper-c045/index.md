@@ -25,8 +25,6 @@ keywords:
   - "recommender system"
 doi: "10.1145/3746027.3754555"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.1145/3746027.3754555"
   - name: "DBLP"
     url: "https://dblp.org/rec/conf/mm/Zhang00W0WHKW25"
   - name: "arXiv"

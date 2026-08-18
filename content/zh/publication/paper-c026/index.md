@@ -25,8 +25,6 @@ doi: "10.1007/s10707-023-00489-2"
 aliases:
   - "/zh/publication/dblp-journalsgeoinformatica-chan-lll-23/"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.1007/s10707-023-00489-2"
   - name: "DBLP"
     url: "https://dblp.org/rec/journals/geoinformatica/ChanLLL23"
   - name: "Project"

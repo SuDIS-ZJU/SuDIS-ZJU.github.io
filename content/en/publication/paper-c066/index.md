@@ -30,8 +30,6 @@ keywords:
   - "pipeline (software)"
 doi: "10.48550/arxiv.2604.22758"
 links:
-  - name: "DOI"
-    url: "https://doi.org/10.48550/arxiv.2604.22758"
   - name: "DBLP"
     url: "https://dblp.org/rec/journals/corr/abs-2604-22758"
   - name: "Project"
