@@ -5,6 +5,9 @@ authors:
   - "Huan Li"
   - "Ke Chen"
   - "Lidan Shou"
+author_links:
+  - name: "Yujia Ding"
+    url: "/authors/yujia-ding/home/zh/"
 date: "2023-01-01"
 publishDate: "2023-01-01"
 publication_types:

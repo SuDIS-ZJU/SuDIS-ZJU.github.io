@@ -15,6 +15,8 @@ author_links:
     url: "/authors/jianfeng-zhang/home/zh/"
   - name: "Lingxi Cui"
     url: "/authors/lingxi-cui/home/zh/"
+  - name: "Yongqin Xu"
+    url: "/authors/yongqin-xu/home/zh/"
   - name: "Tong Wang"
     url: "/authors/tong-wang/home/zh/"
 date: "2026-01-01"

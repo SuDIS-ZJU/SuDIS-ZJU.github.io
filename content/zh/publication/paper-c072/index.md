@@ -5,6 +5,9 @@ authors:
   - "Huan Li"
   - "Ke Chen"
   - "Lidan Shou"
+author_links:
+  - name: "Yongqin Xu"
+    url: "/authors/yongqin-xu/home/zh/"
 date: "2026-01-01"
 publishDate: "2026-01-01"
 publication_types:

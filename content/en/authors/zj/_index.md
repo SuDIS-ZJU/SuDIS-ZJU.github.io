@@ -11,6 +11,7 @@ organizations:
     url: "https://www.zju.edu.cn/"
 interests:
   - "LLM inference acceleration"
+first_employment: "Alibaba Qwen Application Scientist (Alibaba Star)"
 social:
   - icon: "github"
     icon_pack: "fab"

@@ -12,6 +12,7 @@ organizations:
 interests:
   - "结构化查询语言数据合成"
   - "大模型数据增广"
+first_employment: "蚂蚁数科"
 social: []
 publications:
   - title: "CogSQL: A Cognitive framework for enhancing large language models in text-to-SQL translation"

@@ -9,6 +9,13 @@
       <div class="universal-wrapper pt-3"><h1>{{ .Title }}</h1></div>
     {{ end }}
 
+    {{ with .Params.first_employment }}
+      <div class="article-widget content-widget-hr first-employment">
+        <div class="section-subheading">{{ if eq $.Lang "zh" }}首份工作{{ else }}First employment{{ end }}</div>
+        <p>{{ . | markdownify | emojify }}</p>
+      </div>
+    {{ end }}
+
     {{ with .Params.publications }}
       <div class="article-widget content-widget-hr student-publications">
         <h3>{{ if eq $.Lang "zh" }}公开论文{{ else }}Publications{{ end }}</h3>

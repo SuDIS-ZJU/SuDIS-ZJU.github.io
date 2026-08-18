@@ -7,6 +7,9 @@ authors:
   - "Dong Gong"
   - "Lina Yao"
   - "and Christian S. Jensen"
+author_links:
+  - name: "Zhichen Lai"
+    url: "/authors/zhichen-lai/home/zh/"
 date: "2026-01-01"
 publishDate: "2026-01-01"
 publication_types:

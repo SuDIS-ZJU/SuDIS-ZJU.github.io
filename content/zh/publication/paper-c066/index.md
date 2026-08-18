@@ -13,6 +13,8 @@ authors:
 author_links:
   - name: "Tong Wang"
     url: "/authors/tong-wang/home/zh/"
+  - name: "Yongqin Xu"
+    url: "/authors/yongqin-xu/home/zh/"
   - name: "Jianfeng Zhang"
     url: "/authors/jianfeng-zhang/home/zh/"
   - name: "Lingxi Cui"

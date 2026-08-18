@@ -7,6 +7,9 @@ authors:
   - "Dongxiang Zhang"
   - "Hua Lu"
   - "Christian S. Jensen"
+author_links:
+  - name: "Zhichen Lai"
+    url: "/authors/zhichen-lai/home/"
 date: "2024-01-01"
 publishDate: "2024-01-01"
 publication_types:

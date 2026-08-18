@@ -11,6 +11,7 @@ organizations:
     url: "https://www.zju.edu.cn/"
 interests:
   - "NL2SQL data synthesis and LLM-based data augmentation"
+first_employment: "Ant Digital Technologies"
 social: []
 publications:
   - title: "CogSQL: A Cognitive framework for enhancing large language models in text-to-SQL translation"

@@ -11,6 +11,7 @@ organizations:
     url: "https://www.zju.edu.cn/"
 interests:
   - "大模型推理加速"
+first_employment: "阿里巴巴通义千问应用科学家（阿里星）"
 social:
   - icon: "github"
     icon_pack: "fab"
