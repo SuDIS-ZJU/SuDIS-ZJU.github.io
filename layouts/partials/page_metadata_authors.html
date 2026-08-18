@@ -1,0 +1,7 @@
+{{/* Render publication authors as plain text. Profile links are limited to People pages. */}}
+{{- with .Param "authors" -}}
+  {{- range $index, $value := . -}}
+    {{- if gt $index 0 }}, {{ end -}}
+    <span class="author-name">{{ $value }}</span>
+  {{- end -}}
+{{- end -}}

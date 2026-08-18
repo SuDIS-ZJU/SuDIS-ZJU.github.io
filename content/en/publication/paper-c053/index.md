@@ -1,0 +1,38 @@
+---
+title: "TableCopilot: A table assistant empowered by natural language conditional table discovery"
+authors:
+  - "Lingxi Cui"
+  - "Guanyu Jiang"
+  - "Huan Li"
+  - "Ke Chen"
+  - "Lidan Shou"
+  - "Gang Chen"
+date: "2025-01-01"
+publishDate: "2025-01-01"
+publication_types:
+  - "paper-conference"
+publication: "The 50th International Conference on Very Large Data Bases (VLDB)"
+slug: "paper-c053"
+abstract: "the use of specialized table discovery methods. (2) Gaps in Existing The rise of LLM has enabled natural language-based table assistants, Table Discovery Methods: Current methods typically rely on either but existing systems assume users already have a well-formed table,"
+keywords:
+  - "tablecopilot"
+  - "table"
+  - "assistant"
+  - "empowered"
+  - "natural"
+  - "language"
+  - "conditional"
+  - "discovery"
+  - "table (database)"
+  - "natural language"
+doi: "10.14778/3750601.3750681"
+links:
+  - name: "DOI"
+    url: "https://doi.org/10.14778/3750601.3750681"
+  - name: "DBLP"
+    url: "https://dblp.org/rec/journals/pvldb/CuiJLCSC25"
+  - name: "arXiv"
+    url: "https://arxiv.org/abs/2507.08283"
+  - name: "Project"
+    url: "https://longaspire.github.io/publication/"
+---

@@ -1,0 +1,36 @@
+---
+title: "CoIDO: Efficient data selection for visual instruction tuning via coupled importance-diversity optimization"
+authors:
+  - "Yichen Yan"
+  - "Ming Zhong"
+  - "Qi Zhu"
+  - "Xiaoling Gu"
+  - "Jinpeng Chen"
+  - "Huan Li"
+date: "2025-01-01"
+publishDate: "2025-01-01"
+publication_types:
+  - "paper-conference"
+publication: "The 39 Annual Conference on Neural Information Processing Systems (NeurIPS)"
+slug: "paper-c040"
+abstract: "Multimodal large language models (MLLMs) rely heavily on instruction tuning to align vision and language capabilities, yet the computational cost of training on large-scale datasets remains a major bottleneck. Existing data selection methods aim to mitigate this by selecting important and diverse subsets, but they often suffer from two critical drawbacks: high computational overhead from processing the entire dataset and suboptimal data selection due to separate treatment of im- portance and diversity. We introduce C O IDO, a novel dual-objective framework that jointly optimizes data importance and diversity to overcome these challenges. Unlike existing approaches that require costly evaluations across the whole dataset, C O IDO employs a lightweight plug-in scorer. This scorer is trained on just a small random subset of data to learn the distribution of the candidate set, drastically re- ducing computational demands. By leveraging a homoscedastic uncertainty-based formulation, C O IDO effectively balances importance and diversity during training, enabling the scorer to infer C O IDO scores for all samples. This unified scoring approach allows for direct ranking and selection of the most valuable subsets, completely avoiding the need for specialized algorithms. In our experiments, we train the C O IDO Scorer using only 20% of randomly sampled data. Once trained, C O IDO is applied to the entire dataset to select a 20% subset for instruction tuning. On the widely used LLaVA-1.5-7B model across ten downstream tasks, this selected subset achieves an impressive 98.2% of the performance of full-data fine-tuning, on average. Moreover, C O IDO outperforms all competitors in terms of both efficiency (lowest training FLOPs) and aggregated accuracy. Our code is available at https://github.com/SuDIS-ZJU/CoIDO."
+keywords:
+  - "coido"
+  - "efficient"
+  - "data"
+  - "selection"
+  - "visual"
+  - "instruction"
+  - "tuning"
+  - "coupled"
+  - "scalability"
+  - "selection (genetic algorithm)"
+doi: "10.48550/arxiv.2510.17847"
+links:
+  - name: "DOI"
+    url: "https://doi.org/10.48550/arxiv.2510.17847"
+  - name: "DBLP"
+    url: "https://dblp.org/rec/journals/corr/abs-2510-17847"
+  - name: "Project"
+    url: "https://longaspire.github.io/publication/"
+---

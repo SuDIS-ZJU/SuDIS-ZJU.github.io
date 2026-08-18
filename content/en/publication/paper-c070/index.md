@@ -1,0 +1,28 @@
+---
+title: "ScaleSense: Cost-Intelligent Scaling Framework via Learned Resource Estimation in Alibaba AnalyticDB"
+authors:
+  - "Yifan Wu"
+  - "Yuhan Li"
+  - "Zhenhua Wang"
+  - "Ke Chen"
+  - "Lidan Shou"
+  - "Zonghao Chen"
+  - "Liang Lin"
+  - "Huan Li"
+  - "Gang Chen"
+date: "2026-01-01"
+publishDate: "2026-01-01"
+publication_types:
+  - "paper-conference"
+publication: "The 52nd International Conference on Very Large Data Bases (VLDB) Industry"
+slug: "paper-c070"
+abstract: "Cloud-native serverless data warehouses achieve fine-grained elasticity by decoupling storage from compute, yet determining the optimal resource allocation for highly heterogeneous ad-hoc queries remains a formidable industrial challenge. Our analysis of production workloads in Alibaba AnalyticDB exposes a costly “provisioning trap”: the fear of catastrophic resource depletion drives users to blindly over-provision resources, wasting immense monetary budgets without alleviating non-CPU bottlenecks (e.g., I/O saturation). To break this impasse, we propose ScaleSense, a proactive, query-level resource scaling framework. Specifically, it features a multi-faceted query encoder that jointly models plan topologies and hardware specifications. Crucially, a quantile-based resource predictor estimates multi-dimensional physical footprints, acting as a reliable safety net for optimal resource scaling. An auto-scaling controller then navigates the performance–cost Pareto frontier, dynamically tailoring allocations to specific business priorities without requiring model retraining. Evaluations on over 1.36 million production queries show that ScaleSense achieves state-of-the-art prediction accuracy with good prediction interval coverage. By achieving a 76.7% relative improvement in optimal resource configuration selection over the best baseline, this approach addresses the critical performance-cost trade-off while maintaining low-overhead inference latency, confirming its practical performance in production deployments. Under the performance-optimization policy, ScaleSense satisfies user-defined performance requirements while reducing monetary cost by up to 5.22×."
+doi: "10.14778/3827998.3828016"
+links:
+  - name: "DOI"
+    url: "https://doi.org/10.14778/3827998.3828016"
+  - name: "arXiv"
+    url: "https://arxiv.org/abs/2608.07945"
+  - name: "Project"
+    url: "https://longaspire.github.io/publication/"
+---

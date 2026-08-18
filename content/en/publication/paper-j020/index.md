@@ -1,0 +1,37 @@
+---
+title: "M4REC: Multi-Modal Knowledge Graph Modeling of Multi-Dimensional User Preferences for Next-POI Recommendation"
+authors:
+  - "Jinpeng Chen"
+  - "Fan Zhang"
+  - "Huan Li"
+  - "Hua Lu"
+  - "Kaimin Wei"
+  - "Senzhang Wang"
+  - "Christian S. Jensen"
+date: "2026-01-01"
+publishDate: "2026-01-01"
+publication_types:
+  - "paper-journal"
+publication: "IEEE Transactions on Knowledge and Data Engineering (TKDE)"
+slug: "paper-j020"
+abstract: "Next Point-of-interest (POI) recommendation has been widely used in real scenarios to predict the next possible location based on user behavior patterns. However, existing methods predominantly rely on spatio-temporal associations and check-in sequence relationships between users and POIs, which fall short for users with limited interactions with POIs. Moreover, user preferences are inherently multi-dimensional, rendering user selections often influenced by multiple factors such as location categories and multi-modal information. To mitigate these issues, we introduce a <bold xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">M</b>ulti-<bold xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">M</b>odal Knowledge Graph <bold xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">M</b>odeling of <bold xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">M</b>ulti-Dimensional User Preferences for Next-POI <bold xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">Rec</b>ommendation (<sc xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">M4Rec</small> for short). First, we define a multi-modal knowledge graph to organize the relationships among users, locations, categories, and multi-modal information. Subsequently, we use the multi-modal knowledge graph-based relation-aware network to derive comprehensive entity representations from the constructed knowledge graph. Next, employing the temporal knowledge prediction method, we predict the user's next-POI category and next-POI. Finally, the final recommendation results are obtained by enhancing the corresponding location prediction scores through category semantics. Extensive experimentation conducted on real-world datasets validates the superiority of our proposed method over state-of-the-art competitors."
+keywords:
+  - "m4rec"
+  - "multi"
+  - "modal"
+  - "knowledge"
+  - "graph"
+  - "modeling"
+  - "dimensional"
+  - "user"
+  - "knowledge graph"
+  - "rendering (computer graphics)"
+doi: "10.1109/tkde.2026.3677245"
+links:
+  - name: "DOI"
+    url: "https://doi.org/10.1109/tkde.2026.3677245"
+  - name: "DBLP"
+    url: "https://dblp.org/rec/journals/tkde/ChenZLLWWJ26"
+  - name: "Project"
+    url: "https://longaspire.github.io/publication/"
+---

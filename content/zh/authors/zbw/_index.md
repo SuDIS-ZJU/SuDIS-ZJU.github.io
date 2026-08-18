@@ -1,76 +1,31 @@
 ---
-# Display name
-title: 曾博文
+title: "曾博文"
 url: "/authors/bowen-zeng/home/zh"
-# Full name (for SEO)
-first_name: 博文
-last_name: 曾
-
-grad: 1 # 年级
-
-# Username (this should match the folder name)
-authors:
-  - zbw
-
-# Is this the primary user of the site?
+first_name: "博文"
+last_name: "曾"
+grad: 2
 superuser: false
-
-# Role/position
-role: 硕士生
-
-# Organizations/Affiliations
+role: "硕士生"
 organizations:
-  - name: 浙江大学
-    url: ''
-
-# Short bio (displayed in user profile at end of posts)
-# bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+  - name: "浙江大学"
+    url: "https://www.zju.edu.cn/"
 interests:
-  - Efficient LLMs/DiTs
-  - Vector Retrieval
-
-# education:
-#   courses:
-#     - course: PhD in Artificial Intelligence
-#       institution: Stanford University
-#       year: 2012
-#     - course: MEng in Artificial Intelligence
-#       institution: Massachusetts Institute of Technology
-#       year: 2009
-#     - course: BSc in Artificial Intelligence
-#       institution: Massachusetts Institute of Technology
-#       year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+  - "KV Cache 压缩"
+  - "多模态推理加速"
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:kevinzeng0808@gmail.com'
-  # - icon: google-scholar
-  #   icon_pack: ai
-  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/KevinZeng08
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+  - icon: "github"
+    icon_pack: "fab"
+    link: "https://github.com/KevinZeng08"
+publications:
+  - title: "Efficient Inference for Large Vision-Language Models: Bottlenecks, Techniques, and Prospects"
+    year: 2026
+    url: "/zh/publication/paper-c060/"
+  - title: "HARD-KV: Head-Adaptive Regularization for Decoding-time KV Compression"
+    year: 2026
+    url: "/zh/publication/paper-c061/"
+  - title: "HybridKV: Hybrid KV Cache Compression for Efficient Multimodal Large Language Model Inference"
+    year: 2026
+    url: "/zh/publication/paper-c062/"
 user_groups:
-  - 硕士生
+  - "硕士生"
 ---
-
-<!-- 吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. -->

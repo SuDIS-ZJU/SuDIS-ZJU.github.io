@@ -1,73 +1,36 @@
 ---
-# Display name
-title: 崔凌睎
+title: "崔凌睎"
 url: "/authors/lingxi-cui/home/zh"
-# Full name (for SEO)
-first_name: 凌睎
-last_name: 崔
-
-grad: 2 # 年级
-
-# Username (this should match the folder name)
-authors:
-  - clx
-
-# Is this the primary user of the site?
+first_name: "凌睎"
+last_name: "崔"
+grad: 3
 superuser: false
-
-# Role/position
-role: 博士生
-
-# Organizations/Affiliations
+role: "博士生"
 organizations:
-  - name: 浙江大学
-    url: ''
-
-# Short bio (displayed in user profile at end of posts)
-# bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+  - name: "浙江大学"
+    url: "https://www.zju.edu.cn/"
 interests:
-  - Table Augmentation
-  - Table Discovery
-  - Table + LLM
-
-# education:
-#   courses:
-#     - course: PhD in Artificial Intelligence
-#       institution: Stanford University
-#       year: 2012
-#     - course: MEng in Artificial Intelligence
-#       institution: Massachusetts Institute of Technology
-#       year: 2009
-#     - course: BSc in Artificial Intelligence
-#       institution: Massachusetts Institute of Technology
-#       year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+  - "表格数据治理"
 social:
-  # - icon: envelope
-  #   icon_pack: fas
-  #   link: 'mailto:kevinzeng0808@gmail.com'
-  # - icon: google-scholar
-  #   icon_pack: ai
-  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/SuDIS-ZJU/awesome-tabular-data-augmentation
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+  - icon: "github"
+    icon_pack: "fab"
+    link: "https://github.com/SuDIS-ZJU/awesome-tabular-data-augmentation"
+publications:
+  - title: "ChronosBI: Supercharging LLM-Powered Business Intelligence Pipelines with Semantic Caching and Cost Planning"
+    year: 2026
+    url: "/zh/publication/paper-c058/"
+  - title: "RedParrot: Accelerating NL-to-DSL for Business Analytics via Query Semantic Caching"
+    year: 2026
+    url: "/zh/publication/paper-c066/"
+  - title: "Tabular Data Augmentation for Machine Learning: Progress and Prospects of Embracing Generative AI"
+    year: 2026
+    url: "/zh/publication/paper-j021/"
+  - title: "NLCTables: A dataset for marrying natural language conditions with table discovery"
+    year: 2025
+    url: "/zh/publication/paper-c047/"
+  - title: "TableCopilot: A table assistant empowered by natural language conditional table discovery"
+    year: 2025
+    url: "/zh/publication/paper-c053/"
 user_groups:
-  - 博士生
+  - "博士生"
 ---

@@ -1,0 +1,10 @@
+@inproceedings{paper-c056,
+  title = {Train Small, Infer Large: Memory-efficient LoRA training for large language models},
+  author = {张俊 and Jue Wang and 李环 and Lidan Shou and Ke Chen and Yang You and Guiming Xie and Xuejian Gong and and Kunlong Zhou},
+  year = {2025},
+  booktitle = {The 13th International Conference on Learning Representations (ICLR)},
+  doi = {https://openreview.net/forum?id=s7dkcgprxl},
+  keywords = {train; small; infer; large; memory; efficient; lora; training},
+  abstract = {Large Language Models (LLMs) have significantly advanced natural language processingwithexceptionaltaskgeneralizationcapabilities. Low-RankAdaption (LoRA)offersacost-effectivefine-tuningsolution,freezingtheoriginalmodelpa- rametersandtrainingonlylightweight,low-rankadaptermatrices. However,the memoryfootprintofLoRAislargelydominatedbytheoriginalmodelparameters. Tomitigatethis,weproposeLORAM,amemory-efficientLoRAtrainingscheme foundedontheintuitionthatmanyneuronsinover-parameterizedLLMshavelow training utility but are essential for inference. LORAM presents a unique twist: it trains on a pruned (small) model to obtain pruned low-rank matrices, which arethenrecoveredandutilizedwiththeoriginal(large)modelforinference. Ad- ditionally, minimal-costcontinualpre-training, performedbythemodelpublish- ers in advance, aligns the knowledge discrepancy between pruned and original models. Our extensive experiments demonstrate the efficacy of LORAM across various pruning strategies and downstream tasks. For a model with 70 billion parameters, LORAM enablestrainingonaGPUwithonly20GHBM,replacing anA100-80GGPUforLoRAtrainingand15GPUsforfullfine-tuning. Specifi- cally,QLORAMimplementedbystructuredpr},
+  url = {https://dblp.org/rec/conf/iclr/ZhangW0SCYXGZ25}
+}
