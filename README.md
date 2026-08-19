@@ -9,7 +9,7 @@ The site is built with [Hugo](https://gohugo.io/) and the [Hugo Blox Builder](ht
 Install Hugo Extended and run:
 
 ```bash
-hugo server --gc --disableFastRender
+hugo server --environment development --baseURL http://localhost:1313/ --gc --disableFastRender
 ```
 
 The production build is:

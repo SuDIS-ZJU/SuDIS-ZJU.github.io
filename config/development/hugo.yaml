@@ -1,0 +1,3 @@
+# Keep local preview links on the local server. Production builds continue to
+# use config/_default/hugo.yaml and the deployed GitHub Pages URL.
+baseURL: 'http://localhost:1313/'
