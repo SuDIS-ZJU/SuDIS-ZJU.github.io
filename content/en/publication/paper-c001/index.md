@@ -7,12 +7,20 @@ authors:
   - "Lidan Shou"
   - "Ke Chen"
   - "Gang Chen"
+author_links:
+  - name: "Huan Li"
+    url: "/authors/huan-li/home/"
 date: "2018-01-01"
 publishDate: "2018-01-01"
 publication_types:
   - "paper-conference"
 publication: "The 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing (Ubicomp)"
+venue: "The 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing (Ubicomp)"
+publication_kind: "conference"
 slug: "paper-c001"
+venue_rankings:
+  - "CCF-A"
+  - "CORE-A*"
 abstract: "This work aims at accelerating camera calibration in an indoor setting, by selecting a small but sufficient set of keypoints, by selecting a small but sufficient set of keypoints from the nearest co-scene."
 keywords:
   - "e2c2"

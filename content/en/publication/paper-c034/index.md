@@ -7,12 +7,20 @@ authors:
   - "Chenxi Liu"
   - "Kai Zheng"
   - "Huan Li"
+author_links:
+  - name: "Huan Li"
+    url: "/authors/huan-li/home/"
 date: "2024-01-01"
 publishDate: "2024-01-01"
 publication_types:
   - "paper-conference"
 publication: "The 40th IEEE International Conference on Data Engineering (ICDE)"
+venue: "The 40th IEEE International Conference on Data Engineering (ICDE)"
+publication_kind: "conference"
 slug: "paper-c034"
+venue_rankings:
+  - "CCF-A"
+  - "CORE-A*"
 abstract: "With the proliferation of GPS-equipped edge de- Due to its significance, considerable research efforts have [cs.LG] 6 May 2024 vices, huge trajectory data is generated and accumulated in been made to design effective trajectory recovery models [1], various domains, motivating a variety of urban applications. Due [12]. Traditionally, statistical models are employed to recover to the limited acquisition capabilities of edge devices, a lot of trajectories are recorded at a low sampling rate, which may lead incomplete trajectories using historical trajectory data [13], to the effectiveness drop of urban applications. We aim to recover [14], accompanied by a variety of map-matching algorithms, a high-sampled trajectory based on the low-sampled trajectory in which match original GPS coordinates with their correspond- free space, i.e., without road network information, to enhance the ing road segments. Some recent studies [15]-[17] apply neu- usability of trajectory data and support urban applications more ral networks to recover trajectories by learning deep repre- effectively. Recent proposals targeting trajectory recovery often assume that trajectories are available at a central location, which sentations of the trajectories. Generally, these networks are fail to handle the decentralized trajectories and hurt privacy. To composed of a stack of spatio-temporal (ST) blocks, aim- bridge the gap between decentralized training and trajectory ing at learning the complex spatio-temporal dependencies of recovery, we propose a lightweight framework, LightTR, for trajectories. The ST-block contains base ST-operators, which federated trajectory recovery based on a client-server architec- can be further categorized into convolutional neural networks ture, while keeping the data decentralized and private in each client/platform center (e.g., each data center of a company). (CNN) [18], recurrent neural networks (RNN) [16], [19], Specifically, considering the limited processing capabilities of and attention neural networks (Attn) [15] based ST-operators. edge devices, LightTR encompasses a light local trajectory However, existing methods assume that the models are trained embedding module that offers improved computational efficiency with centralized data gathered from edge devices, which without compromising its feature extraction capabilities. LightTR incur high collection and storage costs and fail to handle also features a meta-knowledge enhanced local-global training scheme to reduce communication costs between the server and decentralized training data. Moreover, with the rising concerns clients and thus further offer efficiency improvement. Extensive of privacy protection, people may be unwilling to disclose experiments demonstrate the effectiveness and efficiency of the their raw trajectories to untrusted data providers, because it is proposed framework. dangerous that real data can be used by a malicious third party."
 keywords:
   - "lighttr"

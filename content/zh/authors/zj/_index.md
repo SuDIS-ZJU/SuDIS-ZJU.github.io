@@ -3,6 +3,7 @@ title: "张俊"
 url: "/authors/jun-zhang/home/zh"
 first_name: "俊"
 last_name: "张"
+sort_key: "zhang jun"
 grad: 6
 superuser: false
 role: "2020级博士毕业生"
@@ -12,6 +13,7 @@ organizations:
 interests:
   - "大模型推理加速"
 first_employment: "阿里巴巴通义千问应用科学家（阿里星）"
+cohort: "20级直博"
 social:
   - icon: "github"
     icon_pack: "fab"

@@ -3,6 +3,7 @@ title: "Jianfeng Zhang"
 url: "/authors/jianfeng-zhang/home"
 first_name: "Jianfeng"
 last_name: "Zhang"
+sort_key: "zhang jianfeng"
 grad: 1
 superuser: false
 role: "Master's Student"
@@ -11,6 +12,7 @@ organizations:
     url: "https://www.zju.edu.cn/"
 interests:
   - "Data selection and tabular data governance"
+cohort: "2025 Master's cohort"
 social: []
 publications:
   - title: "ChronosBI: Supercharging LLM-Powered Business Intelligence Pipelines with Semantic Caching and Cost Planning"

@@ -3,6 +3,7 @@ title: "Zonghao Chen"
 url: "/authors/zonghao-chen/home"
 first_name: "Zonghao"
 last_name: "Chen"
+sort_key: "chen zonghao"
 grad: 1
 superuser: false
 role: "Master's Student"
@@ -11,6 +12,7 @@ organizations:
     url: "https://www.zju.edu.cn/"
 interests:
   - "Streaming video understanding and multimodal inference acceleration"
+cohort: "2025 Master's cohort"
 social: []
 publications:
   - title: "Efficient Inference for Large Vision-Language Models: Bottlenecks, Techniques, and Prospects"

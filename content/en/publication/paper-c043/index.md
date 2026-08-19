@@ -9,12 +9,20 @@ authors:
   - "Kaimin Wei"
   - "Zhenye Yang"
   - "Ye Ji"
+author_links:
+  - name: "Huan Li"
+    url: "/authors/huan-li/home/"
 date: "2025-01-01"
 publishDate: "2025-01-01"
 publication_types:
   - "paper-conference"
 publication: "The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)"
+venue: "The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)"
+publication_kind: "conference"
 slug: "paper-c043"
+venue_rankings:
+  - "CCF-A"
+  - "CORE-A*"
 abstract: "user intent, to capture global and local session relationships, ef- Session-based Recommendation (SBR) aims to predict the next item fectively exploring users’ long-term and short-term interests. To a user will likely engage with, using their interaction sequence mitigate noise, an intent-guided denoising strategy is applied dur- within an anonymous session. Existing SBR models often focus ing inter-session learning. Finally, we enhance the model’s dis- only on single-session information, ignoring inter-session relation- criminative capability by using contrastive learning to optimize ships and valuable cross-session insights. Some methods try to session representations. Experiments on multiple datasets show include inter-session data but struggle with noise and irrelevant that HIPHOP significantly outperforms existing methods, demon- information, reducing performance. Additionally, most models rely strating its effectiveness in improving recommendation quality. Our on item ID co-occurrence and overlook rich semantic details, limit- code is available: https://github.com/hjx159/HIPHOP. ing their ability to capture fine-grained item features. To address these challenges, we propose a novel hierarchical intent-guided CCS Concepts optimization approach with pluggable LLM-driven semantic learn- • Information systems → Recommender systems. ing for session-based recommendations, called HIPHOP. First, we introduce a pluggable embedding module based on large language"
 keywords:
   - "hierarchical"

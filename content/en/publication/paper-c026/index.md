@@ -5,12 +5,20 @@ authors:
   - "Tiantian Liu"
   - "Huan Li"
   - "Hua Lu"
+author_links:
+  - name: "Huan Li"
+    url: "/authors/huan-li/home/"
 date: "2023-01-01"
 publishDate: "2023-01-01"
 publication_types:
   - "paper-conference"
 publication: "Geoinformatica (Special Issue of SSTD21 Best Papers)"
+venue: "Geoinformatica (Special Issue of SSTD21 Best Papers)"
+publication_kind: "conference"
 slug: "paper-c026"
+venue_rankings:
+  - "CCF-B"
+  - "IF: 3.29"
 abstract: "With the increasingly available indoor positioning technologies, indoor location-based services (LBS) are becoming popular. Among indoor LBS applications, indoor routing is particularly in demand. In the literature, there are several existing studies on indoor"
 keywords:
   - "time"

@@ -3,12 +3,13 @@ title: "Zhichen Lai"
 url: "/authors/zhichen-lai/home"
 first_name: "Zhichen"
 last_name: "Lai"
+sort_key: "lai zhichen"
 grad: 0
 superuser: false
 role: "Alumni"
 organizations:
-  - name: "Zhejiang University"
-    url: "https://www.zju.edu.cn/"
+  - name: "Aalborg University"
+    url: "https://www.aau.dk/"
 interests:
   []
 first_employment: "Postdoctoral Researcher, Roskilde University, Denmark"

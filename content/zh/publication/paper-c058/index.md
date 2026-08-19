@@ -19,12 +19,19 @@ author_links:
     url: "/authors/yongqin-xu/home/zh/"
   - name: "Tong Wang"
     url: "/authors/tong-wang/home/zh/"
+  - name: "Huan Li"
+    url: "/authors/huan-li/home/zh/"
 date: "2026-01-01"
 publishDate: "2026-01-01"
 publication_types:
   - "paper-conference"
 publication: "2026 ACM SIGMOD International Conference on Management of Data (SIGMOD) Demo"
+venue: "2026 ACM SIGMOD International Conference on Management of Data (SIGMOD) Demo"
+publication_kind: "conference"
 slug: "paper-c058"
+venue_rankings:
+  - "CCF-A"
+  - "CORE-A*"
 abstract: "Modern business intelligence (BI) systems increasingly rely on large language models (LLMs) to translate natural language (NL) queries into executable domain-specific language (DSL) programs. However, current multi-stage''long-chain'' LLM pipelines suffer from high latency, expensive token overhead, and error propagation, limiting deployment in real enterprise environments. We present ChronosBI, an end-to-end, efficiency-driven BI system that showcases a new execution paradigm for LLM-powered analytics. ChronosBI integrates two synergistic modules: (1) a smart caching engine that accelerates repeated or structurally similar NL queries via skeleton-based matching and few-shot DSL generation, and (2) a reinforcement-learning cost planner that dynamically optimizes the long-chain pipeline (when caching invalidates) by skipping unnecessary steps while maintaining accuracy. Deployed at Xiaohongshu with over 5,000 daily sessions, ChronosBI delivers a 2× speedup while maintaining 84.64% accuracy. Visitors can explore our live demo (https://dilab-zju.github.io/ChronosBI/) to experience this adaptive, cost-aware generation process, which exemplifies a scalable path for next-generation LLM-based BI systems."
 keywords:
   - "chronosbi"

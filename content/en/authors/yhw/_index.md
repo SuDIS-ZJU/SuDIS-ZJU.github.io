@@ -3,6 +3,7 @@ title: "Hongwei Yuan"
 url: "/authors/hongwei-yuan/home"
 first_name: "Hongwei"
 last_name: "Yuan"
+sort_key: "yuan hongwei"
 grad: 3
 superuser: false
 role: "2023 Master's graduate"
@@ -12,6 +13,7 @@ organizations:
 interests:
   - "NL2SQL data synthesis and LLM-based data augmentation"
 first_employment: "Ant Digital Technologies"
+cohort: "2023 Master's cohort"
 social: []
 publications:
   - title: "CogSQL: A Cognitive framework for enhancing large language models in text-to-SQL translation"

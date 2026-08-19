@@ -3,6 +3,7 @@ title: "Yifan Wu"
 url: "/authors/yifan-wu/home"
 first_name: "Yifan"
 last_name: "Wu"
+sort_key: "wu yifan"
 grad: 5
 superuser: false
 role: "PhD Student"
@@ -11,6 +12,7 @@ organizations:
     url: "https://www.zju.edu.cn/"
 interests:
   - "Database systems and token economics"
+cohort: "2021 PhD cohort"
 social:
   - icon: "globe"
     icon_pack: "fas"

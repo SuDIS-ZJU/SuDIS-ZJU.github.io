@@ -1,0 +1,81 @@
+{{- define "main" -}}
+
+{{ $.Page.Store.Set "has_isotope" true }}
+{{ partial "page_header.html" . }}
+
+<div class="universal-wrapper">
+  <div class="row">
+    <div class="col-lg-12">
+      {{ with .Content }}
+      <div class="article-style">{{ . }}</div>
+      {{ end }}
+
+      {{ range .Pages.ByDate.Reverse }}
+        {{ $year := print (.Date.Format "2006") }}
+        {{ $.Scratch.SetInMap "years" $year $year }}
+      {{ end }}
+
+      <div class="form-row mb-4">
+        <div class="col-auto">
+          <input type="search" class="filter-search form-control form-control-sm" placeholder="{{ i18n "search_placeholder" }}" autocapitalize="off" autocomplete="off" autocorrect="off" role="textbox" spellcheck="false">
+        </div>
+        <div class="col-auto">
+          <select class="pub-filters pubtype-select form-control form-control-sm" data-filter-group="pubtype">
+            <option value="*">{{ if eq .Lang "zh" }}类型{{ else }}Type{{ end }}</option>
+            {{ range $index, $taxonomy := site.Taxonomies.publication_types }}
+            <option value=".pubtype-{{ $index }}">
+              {{ if eq $.Lang "zh" }}{{ if eq $index "paper-conference" }}会议论文{{ else if eq $index "paper-journal" }}期刊论文{{ else }}{{ $index }}{{ end }}{{ else }}{{ if eq $index "paper-conference" }}Conference paper{{ else if eq $index "paper-journal" }}Journal article{{ else }}{{ $index }}{{ end }}{{ end }}
+            </option>
+            {{ end }}
+          </select>
+        </div>
+        <div class="col-auto">
+          <select class="pub-filters form-control form-control-sm" data-filter-group="year">
+            <option value="*">{{ i18n "date" }}</option>
+            {{ $years_sorted := $.Scratch.GetSortedMapValues "years" }}
+            {{ range $year := sort $years_sorted "" "desc" }}
+            <option value=".year-{{ $year }}">{{ $year }}</option>
+            {{ end }}
+          </select>
+        </div>
+      </div>
+
+      <div id="container-publications">
+        {{ range $index, $item := .Pages.ByDate.Reverse }}
+          {{ $pubtype := "0" }}
+          {{ with $item.Params.publication_types }}{{ $pubtype = index . 0 }}{{ end }}
+          {{ $publication_kind := $item.Params.publication_kind }}
+          {{ if not $publication_kind }}
+            {{ range $item.Params.publication_types }}{{ if eq . "article-journal" }}{{ $publication_kind = "journal" }}{{ end }}{{ end }}
+          {{ end }}
+          <div class="grid-sizer col-lg-12 isotope-item pubtype-{{ $pubtype }} year-{{ $item.Date.Format "2006" }}">
+            <div class="media stream-item view-compact">
+              <div class="media-body">
+                <div class="section-subheading article-title mb-0 mt-0"><a href="{{ $item.RelPermalink }}">{{ $item.Title }}</a></div>
+                {{ with $item.Params.summary }}
+                <a href="{{ $item.RelPermalink }}" class="summary-link"><div class="article-style">{{ . | markdownify | emojify }}</div></a>
+                {{ else with $item.Params.abstract }}
+                <a href="{{ $item.RelPermalink }}" class="summary-link"><div class="article-style">{{ . | markdownify | emojify | truncate (site.Params.abstract_length | default 135) }}</div></a>
+                {{ end }}
+                <div class="stream-meta article-metadata">
+                  <div>{{ partial "page_metadata_authors" $item }}</div>
+                  <div class="publication-meta">
+                    <span class="publication-venue">{{ $item.Params.venue | default $item.Params.publication }}</span>, {{ $item.Date.Format "2006" }}
+                    <span class="middot-divider"></span>
+                    <span class="publication-kind">{{ if eq $.Lang "zh" }}{{ if eq $publication_kind "journal" }}期刊{{ else }}会议{{ end }}{{ else }}{{ if eq $publication_kind "journal" }}Journal{{ else }}Conference{{ end }}{{ end }}</span>
+                    {{ with $item.Params.venue_short }}<span class="middot-divider"></span><span>{{ . }}</span>{{ end }}
+                    {{ with $item.Params.venue_rankings }}{{ if gt (len .) 0 }}<span class="middot-divider"></span><span class="publication-rankings">{{ if eq $.Lang "zh" }}等级：{{ else }}Rankings: {{ end }}{{ delimit . " · " }}</span>{{ end }}{{ end }}
+                  </div>
+                </div>
+                {{ $has_attachments := partial "functions/has_attachments" $item }}
+                {{ if $has_attachments }}<div class="btn-links">{{ partial "page_links" (dict "page" $item "is_list" 1) }}</div>{{ end }}
+              </div>
+            </div>
+          </div>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</div>
+
+{{- end -}}

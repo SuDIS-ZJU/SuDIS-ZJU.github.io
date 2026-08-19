@@ -3,6 +3,7 @@ title: "Ankai Hao"
 url: "/authors/ankai-hao/home"
 first_name: "Ankai"
 last_name: "Hao"
+sort_key: "hao ankai"
 grad: 2
 superuser: false
 role: "PhD Student"
@@ -11,6 +12,7 @@ organizations:
     url: "https://www.zju.edu.cn/"
 interests:
   - "LLM-based feature engineering and data agents"
+cohort: "2024 PhD cohort"
 social: []
 publications:
   []

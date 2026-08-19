@@ -3,6 +3,7 @@ title: "Yuxuan Yang"
 url: "/authors/yuxuan-yang/home"
 first_name: "Yuxuan"
 last_name: "Yang"
+sort_key: "yang yuxuan"
 grad: 2
 superuser: false
 role: "Master's Student"
@@ -11,6 +12,7 @@ organizations:
     url: "https://www.zju.edu.cn/"
 interests:
   - "LLM inference acceleration and KV-cache compression"
+cohort: "2024 Master's cohort"
 social:
   - icon: "envelope"
     icon_pack: "fas"

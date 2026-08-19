@@ -10,12 +10,19 @@ authors:
 author_links:
   - name: "Lingxi Cui"
     url: "/authors/lingxi-cui/home/"
+  - name: "Huan Li"
+    url: "/authors/huan-li/home/"
 date: "2025-01-01"
 publishDate: "2025-01-01"
 publication_types:
   - "paper-conference"
 publication: "The 50th International Conference on Very Large Data Bases (VLDB)"
+venue: "The 50th International Conference on Very Large Data Bases (VLDB)"
+publication_kind: "conference"
 slug: "paper-c053"
+venue_rankings:
+  - "CCF-A"
+  - "CORE-A*"
 abstract: "the use of specialized table discovery methods. (2) Gaps in Existing The rise of LLM has enabled natural language-based table assistants, Table Discovery Methods: Current methods typically rely on either but existing systems assume users already have a well-formed table,"
 keywords:
   - "tablecopilot"

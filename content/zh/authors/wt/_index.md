@@ -3,6 +3,7 @@ title: "王童"
 url: "/authors/tong-wang/home/zh"
 first_name: "童"
 last_name: "王"
+sort_key: "wang tong"
 grad: 1
 superuser: false
 role: "博士生"
@@ -12,6 +13,7 @@ organizations:
 interests:
   - "智能体式结构化查询语言生成"
   - "模式链接优化"
+cohort: "25级硕转博"
 social: []
 publications:
   - title: "ChronosBI: Supercharging LLM-Powered Business Intelligence Pipelines with Semantic Caching and Cost Planning"

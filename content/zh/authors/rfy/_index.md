@@ -3,6 +3,7 @@ title: "任飞扬"
 url: "/authors/feiyang-ren/home/zh"
 first_name: "飞扬"
 last_name: "任"
+sort_key: "ren feiyang"
 grad: 0
 superuser: false
 role: "硕士生"
@@ -11,6 +12,7 @@ organizations:
     url: "https://www.zju.edu.cn/"
 interests:
   - "流式视频理解加速"
+cohort: "26级学硕"
 social: []
 publications:
   - title: "Efficient Inference for Large Vision-Language Models: Bottlenecks, Techniques, and Prospects"

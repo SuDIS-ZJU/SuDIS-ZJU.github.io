@@ -3,6 +3,7 @@ title: "张鸣宇"
 url: "/authors/mingyu-zhang/home/zh"
 first_name: "鸣宇"
 last_name: "张"
+sort_key: "zhang mingyu"
 grad: 0
 superuser: false
 role: "硕士生"
@@ -12,6 +13,7 @@ organizations:
 interests:
   - "向量压缩"
   - "向量检索优化"
+cohort: "26级专硕"
 social: []
 publications:
   []

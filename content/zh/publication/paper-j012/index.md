@@ -9,12 +9,19 @@ authors:
   - "Kuien Liu"
   - "Hongjun Li"
   - "Yongheng Wang"
+author_links:
+  - name: "Huan Li"
+    url: "/authors/huan-li/home/zh/"
 date: "2024-01-01"
 publishDate: "2024-01-01"
 publication_types:
   - "paper-journal"
 publication: "World Wide Web Journal"
+venue: "World Wide Web Journal"
+publication_kind: "journal"
 slug: "paper-j012"
+venue_rankings:
+  - "CCF-B"
 abstract: "This work designs a biased Attentional Factorization Machine (AFM) to utilize biases extracted from user and item features and experimentally evaluates EMPNet on the Amazon dataset, showing that it clearly outperforms the selected baselines."
 keywords:
   - "empnet"

@@ -16,12 +16,19 @@
       </div>
     {{ end }}
 
+    {{ with .Params.cohort }}
+      <div class="article-widget content-widget-hr profile-cohort">
+        <div class="section-subheading">{{ if eq $.Lang "zh" }}年级{{ else }}Cohort{{ end }}</div>
+        <p>{{ . | markdownify | emojify }}</p>
+      </div>
+    {{ end }}
+
     {{ with .Params.publications }}
       <div class="article-widget content-widget-hr student-publications">
-        <h3>{{ if eq $.Lang "zh" }}公开论文{{ else }}Publications{{ end }}</h3>
+        <h3>{{ if eq $.Lang "zh" }}与 SuDIS 共同发表的论文{{ else }}Publications with SuDIS{{ end }}</h3>
         <ul>
           {{ range . }}
-            <li><a href="{{ .url }}">{{ .title }}</a> <span class="publication-venue">({{ .venue }}, {{ .year }})</span></li>
+            <li><a href="{{ .url }}">{{ .title }}</a> <span class="publication-venue">{{ .venue }}, {{ .year }}</span></li>
           {{ end }}
         </ul>
       </div>

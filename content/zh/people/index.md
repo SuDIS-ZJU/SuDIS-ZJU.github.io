@@ -16,8 +16,8 @@ sections:
           - 博士生
           - 硕士生
           - 毕业生
-      sort_by: Params.grad
-      sort_ascending: false
+      sort_by: Params.sort_key
+      sort_ascending: true
     design:
       show_interests: false
       show_role: true

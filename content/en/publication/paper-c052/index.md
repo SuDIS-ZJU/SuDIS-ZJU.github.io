@@ -9,12 +9,19 @@ authors:
   - "Chang Yao"
   - "Lidan Shou"
   - "Gang Chen"
+author_links:
+  - name: "Huan Li"
+    url: "/authors/huan-li/home/"
 date: "2025-01-01"
 publishDate: "2025-01-01"
 publication_types:
   - "paper-conference"
 publication: "The 63rd Annual Meeting of the Association for Computational Linguistics (ACL) Findings"
+venue: "The 63rd Annual Meeting of the Association for Computational Linguistics (ACL) Findings"
+publication_kind: "conference"
 slug: "paper-c052"
+venue_rankings:
+  - "CCF-A"
 abstract: "leverage the complementary of different modalities for more sufficient information (Wei et al., 2023b). Multimodal learning is garnering significant at- Nevertheless, the integration process is often com- tention for its capacity to represent diverse hu- man perceptions (e.g., linguistic, acoustic, and promised by the presence of incomplete data (Guo visual signals), achieving more natural and in- et al., 2024). This incomplete data may present tuitive interactions with technology. However, as fine-grained (intra-modality), shown by slight the frequent occurrence of incomplete data, ei- variations or gaps within a single modality (Zhang ther within a single modality (intra-modality) et al., 2019), typically arising from interruptions in or across different modalities (inter-modality), data collection or improper data management. It presents substantial challenges in reliable se- can also appear as coarse-grained (inter-modality) mantic interpretation and model reasoning. Fur- thermore, there is currently no robust represen- (Zhao et al., 2021a), manifested as significant omis- tation learning mechanism capable of manag- sions across different modalities, commonly due to ing both intra-modality and inter-modality real- unavailable data sources or failures to acquire mul- data deficiencies. To address this challenge, we timodal data synchronously. Existing methods for present T2 DR, a two-tier deficiency-resistant handling both intra-modal and inter-modal incom- framework for incomplete multimodal learning, plete data (Yuan et al., 2023, 2024) typically rely on which comprises two main modules: (1) Intra- randomly masking features derived from complete Modal Deficiency-Resistant module (IADR): data to simulate intra-modal incompleteness, which To address fine-grained deficiencies, we intro- duce Intra-Attn to focus on the available data fails to faithfully represent the real-world scenar- while avoiding excessive suppression of the ios. Therefore, addressing the issue of fine-grained missing regions. (2) Inter-Modal Deficiency- and coarse-grained deficiencies is crucial for im- Resistant module (IEDR): To handle coarse- proving the precision and reliability of multimodal grained deficiencies, we propose the shared fea- learning. ture prediction (SFP) to leverage cross-modal Existing methods for addressing incomplete mul- shared features for preliminary data imputation. timodal learning are divided into three main cate- Subsequently, we apply Inter-Attn to allocate appropriate attention to each modality based gories: generative methods (Liu et al., 2023; Xu on the results from the capability-aware scorer et al., 2019; Tang and Liu, 2022), multimodal joint (CAS). Extensive experiments are performed learning (Qu et al., 2024; Liu et al., 2024b; Zhao on two well-known multimodal benchmarks, et al., 2021b), and knowledge distillation (Xing CMU-MOSI and CMU-MOSEI, across various et al., 2022; Poklukar et al., 2022a). Generative missing scenarios for sentiment analysis. Ex- methods such as VIGAN (Shang et al., 2017) use perimental results show that T2 DR significantly generative adversarial networks alongside denois- outperforms the SOTA models. Code is avail- ing autoencoders to recover and refine incomplete able at https://github.com/LH019/T2DR. modalities. Multimodal joint learning methods,"
 keywords:
   - "2dr"

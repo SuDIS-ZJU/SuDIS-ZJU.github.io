@@ -3,6 +3,7 @@ title: "Jun Zhang"
 url: "/authors/jun-zhang/home"
 first_name: "Jun"
 last_name: "Zhang"
+sort_key: "zhang jun"
 grad: 6
 superuser: false
 role: "2020 PhD graduate"
@@ -12,6 +13,7 @@ organizations:
 interests:
   - "LLM inference acceleration"
 first_employment: "Alibaba Qwen Application Scientist (Alibaba Star)"
+cohort: "2020 PhD cohort"
 social:
   - icon: "github"
     icon_pack: "fab"

@@ -3,6 +3,7 @@ title: "段磊"
 url: "/authors/duan-lei/home/zh"
 first_name: "磊"
 last_name: "段"
+sort_key: "lei duan"
 grad: 3
 superuser: false
 role: "2023级硕士毕业生"
@@ -12,6 +13,7 @@ organizations:
 interests:
   - "时间序列插补"
   - "模型轻量化"
+cohort: "23级学硕"
 social: []
 publications:
   []

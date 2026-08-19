@@ -3,6 +3,7 @@ title: "赵佳乐"
 url: "/authors/jiale-zhao/home/zh"
 first_name: "佳乐"
 last_name: "赵"
+sort_key: "zhao jiale"
 grad: 0
 superuser: false
 role: "硕士生"
@@ -11,6 +12,7 @@ organizations:
     url: "https://www.zju.edu.cn/"
 interests:
   - "多模态表格推理"
+cohort: "26级专硕"
 social: []
 publications:
   []

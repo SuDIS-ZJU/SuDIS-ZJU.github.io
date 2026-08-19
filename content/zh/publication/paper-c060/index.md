@@ -24,12 +24,18 @@ author_links:
     url: "/authors/bowen-zeng/home/zh/"
   - name: "Zonghao Chen"
     url: "/authors/zonghao-chen/home/zh/"
+  - name: "Huan Li"
+    url: "/authors/huan-li/home/zh/"
 date: "2026-01-01"
 publishDate: "2026-01-01"
 publication_types:
   - "paper-conference"
 publication: "The 64th Annual Meeting of the Association for Computational Linguistics (ACL) Findings"
+venue: "The 64th Annual Meeting of the Association for Computational Linguistics (ACL) Findings"
+publication_kind: "conference"
 slug: "paper-c060"
+venue_rankings:
+  - "CCF-A"
 abstract: "of attention and the “visual memory wall” 2 (Wan et al., 2024b; Li et al., 2025d; Wang et al., 2025b). [cs.CL] 7 Apr 2026 Large Vision-Language Models (LVLMs) en- The central thesis of this survey is that LVLM able sophisticated reasoning over images and inference is not a monolithic workload, but a dy- videos, yet their inference is hindered by a sys- temic efficiency barrier known as visual token namic pipeline traversing three distinct hardware dominance. This overhead is driven by a multi- regimes: i) Encoding (specifically visual encoding) regime interplay between high-resolution fea- is compute-bound by high-resolution feature extrac- ture extraction, quadratic attention scaling, and tion; ii) Prefilling suffers from the quadratic com- memory bandwidth constraints. We present a plexity of massive visual contexts; and iii) Decod- systematic taxonomy of efficiency techniques ing hits the memory wall due to static, bandwidth- structured around the inference lifecycle, con- consuming Key-Value (KV) caches. Optimizing sisting of encoding, prefilling, and decoding. one stage in isolation often shifts the bottleneck Unlike prior reviews focused on isolated opti- mizations, we analyze the end-to-end pipeline elsewhere without improving end-to-end latency. to reveal how upstream decisions dictate down- Despite the surge in interest, the current litera- stream bottlenecks, covering compute-bound ture remains fragmented. Prior reviews have pre- visual encoding, the intensive prefilling of mas- dominantly focused on isolated verticals, such as to- sive contexts, and the “visual memory wall” in ken compression techniques (Shao et al., 2025b) or bandwidth-bound decoding. By decoupling the efficient architectures for specific modalities (Zhou efficiency landscape into the axes of shaping et al., 2024; Zhang et al., 2024a) 3 . These works, information density, managing long-context at- tention, and overcoming memory limits, this however, overlook the systemic interconnectivity work provides a structured analysis of how iso- of the inference pipeline. They lack a holistic view lated optimizations compose to navigate the of how upstream decisions (e.g., encoder resolu- trade-off between visual fidelity and system tion) dictate downstream bottlenecks (e.g., decod- efficiency. The survey concludes by outlin- ing bandwidth), leaving a gap in understanding ing four future frontiers supported by pilot em- end-to-end efficiency. pirical insights, including hybrid compression This survey bridges this gap by advancing a uni- based on functional unit sensitivity, modality- aware decoding with relaxed verification, pro- fied, stage-wise taxonomy of efficient LVLM infer- gressive state management for streaming conti- ence. We decouple the efficiency landscape into nuity, and stage-disaggregated serving through three critical axes: shaping information density hardware-algorithm co-design. (encoding), managing long-context attention (pre- filling), and overcoming memory bandwidth limits"
 keywords:
   - "efficient"

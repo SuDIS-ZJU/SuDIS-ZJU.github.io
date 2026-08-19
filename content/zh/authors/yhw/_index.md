@@ -3,6 +3,7 @@ title: "袁泓玮"
 url: "/authors/hongwei-yuan/home/zh"
 first_name: "泓玮"
 last_name: "袁"
+sort_key: "yuan hongwei"
 grad: 3
 superuser: false
 role: "2023级硕士毕业生"
@@ -13,6 +14,7 @@ interests:
   - "结构化查询语言数据合成"
   - "大模型数据增广"
 first_employment: "蚂蚁数科"
+cohort: "23级专硕"
 social: []
 publications:
   - title: "CogSQL: A Cognitive framework for enhancing large language models in text-to-SQL translation"

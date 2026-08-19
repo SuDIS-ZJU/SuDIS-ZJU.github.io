@@ -3,6 +3,7 @@ title: "崔凌睎"
 url: "/authors/lingxi-cui/home/zh"
 first_name: "凌睎"
 last_name: "崔"
+sort_key: "cui lingxi"
 grad: 3
 superuser: false
 role: "博士生"
@@ -11,6 +12,7 @@ organizations:
     url: "https://www.zju.edu.cn/"
 interests:
   - "表格数据治理"
+cohort: "23级直博"
 social:
   - icon: "github"
     icon_pack: "fab"

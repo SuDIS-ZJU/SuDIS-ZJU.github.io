@@ -3,6 +3,7 @@ title: "汤亦奇"
 url: "/authors/yiqi-tang/home/zh"
 first_name: "亦奇"
 last_name: "汤"
+sort_key: "tang yiqi"
 grad: 1
 superuser: false
 role: "博士生"
@@ -12,6 +13,7 @@ organizations:
 interests:
   - "时间序列表征"
   - "时间序列生成"
+cohort: "25级直博"
 social: []
 publications:
   []

@@ -3,6 +3,7 @@ title: "陈钰玺"
 url: "/authors/yuxi-chen/home/zh"
 first_name: "钰玺"
 last_name: "陈"
+sort_key: "chen yuxi"
 grad: 0
 superuser: false
 role: "博士生"
@@ -12,6 +13,7 @@ organizations:
 interests:
   - "多模态大模型智能体"
   - "令牌经济学"
+cohort: "26级硕转博"
 social: []
 publications:
   []

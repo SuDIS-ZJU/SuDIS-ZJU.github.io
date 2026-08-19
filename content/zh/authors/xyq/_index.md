@@ -3,6 +3,7 @@ title: "徐雍钦"
 url: "/authors/yongqin-xu/home/zh"
 first_name: "雍钦"
 last_name: "徐"
+sort_key: "xu yongqin"
 grad: 3
 superuser: false
 role: "2023级硕士毕业生"
@@ -12,6 +13,7 @@ organizations:
 interests:
   []
 first_employment: "蚂蚁集团"
+cohort: "23级专硕"
 social: []
 publications:
   - title: "ChronosBI: Supercharging LLM-Powered Business Intelligence Pipelines with Semantic Caching and Cost Planning"

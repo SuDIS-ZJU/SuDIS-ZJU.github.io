@@ -3,6 +3,7 @@ title: "杨宇轩"
 url: "/authors/yuxuan-yang/home/zh"
 first_name: "宇轩"
 last_name: "杨"
+sort_key: "yang yuxuan"
 grad: 2
 superuser: false
 role: "硕士生"
@@ -12,6 +13,7 @@ organizations:
 interests:
   - "大模型推理加速"
   - "键值缓存压缩"
+cohort: "24级学硕"
 social:
   - icon: "envelope"
     icon_pack: "fas"

@@ -3,6 +3,7 @@ title: "Yongqin Xu"
 url: "/authors/yongqin-xu/home"
 first_name: "Yongqin"
 last_name: "Xu"
+sort_key: "xu yongqin"
 grad: 3
 superuser: false
 role: "2023 Master's graduate"
@@ -12,6 +13,7 @@ organizations:
 interests:
   []
 first_employment: "Ant Group"
+cohort: "2023 Master's cohort"
 social: []
 publications:
   - title: "ChronosBI: Supercharging LLM-Powered Business Intelligence Pipelines with Semantic Caching and Cost Planning"

@@ -8,12 +8,19 @@ authors:
 author_links:
   - name: "Yujia Ding"
     url: "/authors/yujia-ding/home/zh/"
+  - name: "Huan Li"
+    url: "/authors/huan-li/home/zh/"
 date: "2023-01-01"
 publishDate: "2023-01-01"
 publication_types:
   - "paper-conference"
 publication: "The 32nd ACM International Conference on Information & Knowledge Management (CIKM)"
+venue: "The 32nd ACM International Conference on Information & Knowledge Management (CIKM)"
+publication_kind: "conference"
 slug: "paper-c027"
+venue_rankings:
+  - "CCF-B"
+  - "CORE-A"
 abstract: "Information and Knowledge Management (CIKM ’23), October 21-25, 2023, Sequential recommendation has long been challenged by data spar- Birmingham, United Kingdom. ACM, New York, NY, USA, 10 pages. https: //doi.org/10.1145/3583780.3615094 sity issues. Most recently, cross-domain sequential recommendation (CDSR) techniques have been proposed to leverage sequential in- teraction data from other domains. However, accessing raw data"
 keywords:
   - "tpuf"

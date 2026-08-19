@@ -19,12 +19,19 @@ author_links:
     url: "/authors/jianfeng-zhang/home/zh/"
   - name: "Lingxi Cui"
     url: "/authors/lingxi-cui/home/zh/"
+  - name: "Huan Li"
+    url: "/authors/huan-li/home/zh/"
 date: "2026-01-01"
 publishDate: "2026-01-01"
 publication_types:
   - "paper-conference"
 publication: "The 42nd IEEE International Conference on Data Engineering (ICDE) Industry"
+venue: "The 42nd IEEE International Conference on Data Engineering (ICDE) Industry"
+publication_kind: "conference"
 slug: "paper-c066"
+venue_rankings:
+  - "CCF-A"
+  - "CORE-A*"
 abstract: "Recently, at Xiaohongshu, the rapid expansion of e-commerce and advertising demands real-time business analytics with high accuracy and low latency. To meet this demand, systems typically rely on converting natural language (NL) queries into Domain-Specific Languages (DSLs) to ensure semantic consistency, validation, and portability. However, existing multi-stage LLM pipelines for this NL-to-DSL task suffer from prohibitive latency, high cost, and error propagation, rendering them unsuitable for enterprise-scale deployment. In this paper, we propose RedParrot, a novel NL-to-DSL framework that accelerates inference via a semantic cache. Observing the high repetition and stable structural patterns in user queries, RedParrot bypasses the costly pipeline by matching new requests against cached \"query skeletons\" (normalized structural patterns) and adapting their corresponding DSLs. Our core technical contributions include (1) an offline skeleton construction strategy, (2) an online, entity-agnostic embedding model trained via contrastive learning for robust matching, and (3) a heterogeneous Retrieval-Augmented Generation (RAG) method that integrates diverse knowledge sources to handle unseen entities. Experiments on six real enterprise datasets from Xiaohongshu show RedParrot achieves an average 3.6x speedup and an 8.26% accuracy improvement. Furthermore, on new public benchmarks adapted from Spider and BIRD, it boosts accuracy by 34.8%, substantially outperforming standard in-context learning baselines."
 keywords:
   - "redparrot"

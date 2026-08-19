@@ -5,12 +5,19 @@ authors:
   - "Jinpeng Chen"
   - "Huan Li"
   - "et al"
+author_links:
+  - name: "Huan Li"
+    url: "/authors/huan-li/home/zh/"
 date: "2025-01-01"
 publishDate: "2025-01-01"
 publication_types:
   - "paper-conference"
 publication: "The 33th ACM International Conference on Multimedia (MM)"
+venue: "The 33th ACM International Conference on Multimedia (MM)"
+publication_kind: "conference"
 slug: "paper-c045"
+venue_rankings:
+  - "CCF-A"
 abstract: "side users and understanding the patterns in cross-domain trans- Cross-domain recommendation (CDR) aims to address the persis- formation through overlapping users. Subsequently, the trained tent cold-start problem in Recommender Systems. Current CDR diffusion module is used to generate feature vectors for cold-start research concentrates on transferring cold-start users’ information users in the target domain, enabling the completion of cross-domain from the auxiliary domain to the target domain. However, these recommendation tasks. Finally, our experimental evaluation of the systems face two main issues: the underutilization of multimodal Amazon dataset confirms that MuSiC achieves state-of-the-art per- data, which hinders effective cross-domain alignment, and the ne- formance, significantly outperforming all selected baselines. Our glect of side users who interact solely within the target domain, code is available: https://anonymous.4open.science/r/MuSiC-310A/. leading to inadequate learning of the target domain’s vector space distribution. To address these issues, we propose a model leveraging CCS Concepts Multimodal data and Side users for diffusion Cross-domain recom- • Information systems → Recommender systems. mendation (MuSiC). We first employ a multimodal large language model to extract item multimodal features and leverage a large"
 keywords:
   - "leveraging"

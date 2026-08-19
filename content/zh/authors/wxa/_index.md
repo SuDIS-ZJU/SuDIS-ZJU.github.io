@@ -3,6 +3,7 @@ title: "王鑫澳"
 url: "/authors/xin-ao-wang/home/zh"
 first_name: "鑫澳"
 last_name: "王"
+sort_key: "wang xin'ao"
 grad: 5
 superuser: false
 role: "2021级硕士毕业生"
@@ -12,6 +13,7 @@ organizations:
 interests:
   []
 first_employment: "阿里巴巴集团"
+cohort: "21级硕士"
 social: []
 publications:
   - title: "FedBFPT: An efficient federated learning framework for Bert further pre-training"

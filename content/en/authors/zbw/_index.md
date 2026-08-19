@@ -3,6 +3,7 @@ title: "Bowen Zeng"
 url: "/authors/bowen-zeng/home"
 first_name: "Bowen"
 last_name: "Zeng"
+sort_key: "zeng bowen"
 grad: 2
 superuser: false
 role: "Master's Student"
@@ -11,6 +12,7 @@ organizations:
     url: "https://www.zju.edu.cn/"
 interests:
   - "KV-cache compression and multimodal inference acceleration"
+cohort: "2024 Master's cohort"
 social:
   - icon: "envelope"
     icon_pack: "fas"

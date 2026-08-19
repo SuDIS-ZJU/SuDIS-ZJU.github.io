@@ -3,6 +3,7 @@ title: "Yicheng Ji"
 url: "/authors/yicheng-ji/home"
 first_name: "Yicheng"
 last_name: "Ji"
+sort_key: "ji yicheng"
 grad: 1
 superuser: false
 role: "PhD Student"
@@ -11,6 +12,7 @@ organizations:
     url: "https://www.zju.edu.cn/"
 interests:
   - "Multimodal inference acceleration and token economics"
+cohort: "2025 PhD cohort"
 social:
   - icon: "envelope"
     icon_pack: "fas"

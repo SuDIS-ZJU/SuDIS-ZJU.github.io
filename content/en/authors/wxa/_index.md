@@ -3,6 +3,7 @@ title: "Xin'ao Wang"
 url: "/authors/xin-ao-wang/home"
 first_name: "Xin'ao"
 last_name: "Wang"
+sort_key: "wang xin'ao"
 grad: 5
 superuser: false
 role: "2021 Master's graduate"
@@ -12,6 +13,7 @@ organizations:
 interests:
   []
 first_employment: "Alibaba Group"
+cohort: "2021 Master's cohort"
 social: []
 publications:
   - title: "FedBFPT: An efficient federated learning framework for Bert further pre-training"

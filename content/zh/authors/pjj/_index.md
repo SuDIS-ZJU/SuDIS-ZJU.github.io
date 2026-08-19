@@ -3,6 +3,7 @@ title: "潘嘉骏"
 url: "/authors/jiajun-pan/home/zh"
 first_name: "嘉骏"
 last_name: "潘"
+sort_key: "pan jiajun"
 grad: 2
 superuser: false
 role: "博士生"
@@ -13,6 +14,7 @@ interests:
   - "多模态检索"
   - "多模态生成"
   - "智能体"
+cohort: "24级直博"
 social:
   - icon: "envelope"
     icon_pack: "fas"

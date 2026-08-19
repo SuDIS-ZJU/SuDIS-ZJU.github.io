@@ -3,6 +3,7 @@ title: "Feiyang Ren"
 url: "/authors/feiyang-ren/home"
 first_name: "Feiyang"
 last_name: "Ren"
+sort_key: "ren feiyang"
 grad: 0
 superuser: false
 role: "Master's Student"
@@ -11,6 +12,7 @@ organizations:
     url: "https://www.zju.edu.cn/"
 interests:
   - "Streaming video understanding and multimodal inference acceleration"
+cohort: "2026 Master's cohort"
 social: []
 publications:
   - title: "Efficient Inference for Large Vision-Language Models: Bottlenecks, Techniques, and Prospects"

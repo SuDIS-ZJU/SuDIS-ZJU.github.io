@@ -13,12 +13,20 @@ authors:
 author_links:
   - name: "Jun Zhang"
     url: "/authors/jun-zhang/home/"
+  - name: "Huan Li"
+    url: "/authors/huan-li/home/"
 date: "2025-01-01"
 publishDate: "2025-01-01"
 publication_types:
   - "paper-journal"
 publication: "The VLDB Journal (VLDBJ)"
+venue: "The VLDB Journal (VLDBJ)"
+publication_kind: "journal"
 slug: "paper-j017"
+venue_rankings:
+  - "CCF-A"
+  - "CORE-A*"
+  - "IF: 4.04 (Year 2023)"
 abstract: "The significant computational demands of tations with batched matrix multiplications. Our ex- pretrained language models (PLMs), which often re- perimental results demonstrate that the proposed HMI quire dedicated hardware, present a substantial chal- can efficiently serve up to 10,000 hPLMs (hBERTs and lenge in serving them efficiently, especially in multi- hGPTs) on a single GPU, with only a negligible com- tenant environments. To address this, we introduce promise in accuracy. HMI, a Hierarchical knowledge management-based"
 keywords:
   - "hmi"

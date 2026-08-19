@@ -3,6 +3,7 @@ title: "吴一帆"
 url: "/authors/yifan-wu/home/zh"
 first_name: "一帆"
 last_name: "吴"
+sort_key: "wu yifan"
 grad: 5
 superuser: false
 role: "博士生"
@@ -12,6 +13,7 @@ organizations:
 interests:
   - "数据库系统"
   - "令牌经济学"
+cohort: "21级直博"
 social:
   - icon: "globe"
     icon_pack: "fas"

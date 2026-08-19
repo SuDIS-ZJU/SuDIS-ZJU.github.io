@@ -3,6 +3,7 @@ title: "Lingxi Cui"
 url: "/authors/lingxi-cui/home"
 first_name: "Lingxi"
 last_name: "Cui"
+sort_key: "cui lingxi"
 grad: 3
 superuser: false
 role: "PhD Student"
@@ -11,6 +12,7 @@ organizations:
     url: "https://www.zju.edu.cn/"
 interests:
   - "Tabular data governance"
+cohort: "2023 PhD cohort"
 social:
   - icon: "github"
     icon_pack: "fab"

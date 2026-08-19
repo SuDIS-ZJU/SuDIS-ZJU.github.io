@@ -5,12 +5,19 @@ authors:
   - "Tiantian Liu"
   - "Huan Li"
   - "Hua Lu"
+author_links:
+  - name: "Huan Li"
+    url: "/authors/huan-li/home/"
 date: "2021-01-01"
 publishDate: "2021-01-01"
 publication_types:
   - "paper-conference"
 publication: "The 17th International Symposium on Spatial and Temporal Databases (SSTD)"
+venue: "The 17th International Symposium on Spatial and Temporal Databases (SSTD)"
+publication_kind: "conference"
 slug: "paper-c011"
+venue_rankings:
+  - "CORE-A"
 abstract: "cable. She can issue an indoor routing query from a source point With the increasingly available indoor positioning technologies, (her current location) to a target point (i.e., the boarding gate), and indoor location-based services (LBS) are becoming popular. Among specify the preferences by some"
 keywords:
   - "time"

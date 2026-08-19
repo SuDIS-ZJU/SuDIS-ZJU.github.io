@@ -7,12 +7,20 @@ authors:
   - "Hua Lu"
   - "Lidan Shou"
   - "Jianliang Xu"
+author_links:
+  - name: "Huan Li"
+    url: "/authors/huan-li/home/zh/"
 date: "2020-01-01"
 publishDate: "2020-01-01"
 publication_types:
   - "paper-conference"
 publication: "The 36th IEEE International Conference on Data Engineering (ICDE)"
+venue: "The 36th IEEE International Conference on Data Engineering (ICDE)"
+publication_kind: "conference"
 slug: "paper-c007"
+venue_rankings:
+  - "CCF-A"
+  - "CORE-A*"
 abstract: "People have many activities indoors and there is an s, a terminal point t, a distance constraint Δ, and a query increasing demand of"
 keywords:
   - "indoor"

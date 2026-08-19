@@ -3,12 +3,13 @@ title: "赖志宸"
 url: "/authors/zhichen-lai/home/zh"
 first_name: "志宸"
 last_name: "赖"
+sort_key: "lai zhichen"
 grad: 0
 superuser: false
 role: "校友"
 organizations:
-  - name: "浙江大学"
-    url: "https://www.zju.edu.cn/"
+  - name: "丹麦奥尔堡大学"
+    url: "https://www.aau.dk/"
 interests:
   []
 first_employment: "丹麦罗斯基勒大学博士后"

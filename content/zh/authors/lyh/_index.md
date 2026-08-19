@@ -3,6 +3,7 @@ title: "李一航"
 url: "/authors/yihang-li/home/zh"
 first_name: "一航"
 last_name: "李"
+sort_key: "li yihang"
 grad: 0
 superuser: false
 role: "博士生"
@@ -12,6 +13,7 @@ organizations:
 interests:
   - "统一多模态大模型"
   - "视频生成高效诊断"
+cohort: "26级直博"
 social: []
 publications:
   - title: "Efficient Inference for Large Vision-Language Models: Bottlenecks, Techniques, and Prospects"

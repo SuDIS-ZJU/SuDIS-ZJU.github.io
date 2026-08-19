@@ -3,6 +3,7 @@ title: "丁宇佳"
 url: "/authors/yujia-ding/home/zh"
 first_name: "宇佳"
 last_name: "丁"
+sort_key: "ding yujia"
 grad: 5
 superuser: false
 role: "2021级硕士毕业生"
@@ -12,6 +13,7 @@ organizations:
 interests:
   []
 first_employment: "中国工商银行"
+cohort: "21级硕士"
 social: []
 publications:
   - title: "TPUF: Enhancing cross-domain sequential recommendation via transferring pre-trained user features"

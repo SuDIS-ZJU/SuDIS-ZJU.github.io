@@ -3,6 +3,7 @@ title: "张剑峰"
 url: "/authors/jianfeng-zhang/home/zh"
 first_name: "剑峰"
 last_name: "张"
+sort_key: "zhang jianfeng"
 grad: 1
 superuser: false
 role: "硕士生"
@@ -12,6 +13,7 @@ organizations:
 interests:
   - "数据选择"
   - "表格数据治理"
+cohort: "25级专硕"
 social: []
 publications:
   - title: "ChronosBI: Supercharging LLM-Powered Business Intelligence Pipelines with Semantic Caching and Cost Planning"

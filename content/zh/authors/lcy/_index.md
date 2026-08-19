@@ -3,6 +3,7 @@ title: "吕川一"
 url: "/authors/chuanyi-lv/home/zh"
 first_name: "川一"
 last_name: "吕"
+sort_key: "lv chuanyi"
 grad: 1
 superuser: false
 role: "博士生"
@@ -12,6 +13,7 @@ organizations:
 interests:
   - "时间序列治理"
   - "时序压缩"
+cohort: "25级硕转博"
 social: []
 publications:
   - title: "DeXOR: Enabling XOR in Decimal Space for Streaming Lossless Compression of Floating-point Data"

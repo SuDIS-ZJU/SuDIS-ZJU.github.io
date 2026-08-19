@@ -3,6 +3,7 @@ title: "曾博文"
 url: "/authors/bowen-zeng/home/zh"
 first_name: "博文"
 last_name: "曾"
+sort_key: "zeng bowen"
 grad: 2
 superuser: false
 role: "硕士生"
@@ -12,6 +13,7 @@ organizations:
 interests:
   - "键值缓存压缩"
   - "多模态推理加速"
+cohort: "24级专硕"
 social:
   - icon: "envelope"
     icon_pack: "fas"

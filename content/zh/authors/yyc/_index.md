@@ -3,6 +3,7 @@ title: "闫熠辰"
 url: "/authors/yichen-yan/home/zh"
 first_name: "熠辰"
 last_name: "闫"
+sort_key: "yan yichen"
 grad: 2
 superuser: false
 role: "博士生"
@@ -11,6 +12,7 @@ organizations:
     url: "https://www.zju.edu.cn/"
 interests:
   - "多模态数据治理"
+cohort: "24级普博"
 social:
   - icon: "envelope"
     icon_pack: "fas"
