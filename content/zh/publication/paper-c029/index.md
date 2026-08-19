@@ -20,6 +20,8 @@ publication: "The 39th Annual AAAI Conference on Artificial Intelligence (AAAI)"
 venue: "The 39th Annual AAAI Conference on Artificial Intelligence (AAAI)"
 publication_kind: "conference"
 slug: "paper-c029"
+design:
+  css_class: single-language-section
 venue_rankings:
   - "CCF-A"
   - "CORE-A*"

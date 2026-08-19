@@ -6,13 +6,12 @@ last_name: "陈"
 sort_key: "chen zhen"
 grad: 1
 superuser: false
-role: "博士生"
+role: "2025级普博生"
 organizations:
   - name: "丹麦奥尔堡大学"
     url: "https://www.aau.dk/"
 interests:
   - "多模态时间序列模型"
-cohort: "25级普博"
 social: []
 publications:
   []

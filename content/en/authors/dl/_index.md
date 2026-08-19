@@ -12,7 +12,6 @@ organizations:
     url: "https://www.zju.edu.cn/"
 interests:
   - "Time-series imputation and model lightweighting"
-cohort: "2023 Master's cohort"
 social: []
 publications:
   []

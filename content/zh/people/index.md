@@ -5,6 +5,9 @@ summary: 了解浙江大学 SuDIS 课题组的学生与研究人员。
 
 type: landing
 
+design:
+  css_class: single-language-section
+
 sections:
   - block: people
     content:

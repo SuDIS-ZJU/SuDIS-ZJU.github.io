@@ -20,6 +20,8 @@ publication: "The 48th International ACM SIGIR Conference on Research and Develo
 venue: "The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)"
 publication_kind: "conference"
 slug: "paper-c043"
+design:
+  css_class: single-language-section
 venue_rankings:
   - "CCF-A"
   - "CORE-A*"

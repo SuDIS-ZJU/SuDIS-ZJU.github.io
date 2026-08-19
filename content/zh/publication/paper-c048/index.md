@@ -20,6 +20,8 @@ publication: "The 39 Annual Conference on Neural Information Processing Systems 
 venue: "The 39 Annual Conference on Neural Information Processing Systems (NeurIPS)"
 publication_kind: "conference"
 slug: "paper-c048"
+design:
+  css_class: single-language-section
 venue_rankings:
   - "CCF-A"
   - "CORE-A*"

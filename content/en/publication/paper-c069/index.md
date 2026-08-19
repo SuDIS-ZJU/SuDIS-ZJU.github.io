@@ -16,6 +16,8 @@ publication: "The 35th International Joint Conference on Artificial Intelligence
 venue: "The 35th International Joint Conference on Artificial Intelligence (IJCAI)"
 publication_kind: "conference"
 slug: "paper-c069"
+design:
+  css_class: single-language-section
 venue_rankings:
   - "CCF-B"
   - "CORE-A*"

@@ -17,6 +17,8 @@ publication: "Journal of Chinese Information Processing"
 venue: "Journal of Chinese Information Processing"
 publication_kind: "journal"
 slug: "paper-j009"
+design:
+  css_class: single-language-section
 venue_rankings:
   - "CCF-T1"
 abstract: "无PDF，需手动补充"

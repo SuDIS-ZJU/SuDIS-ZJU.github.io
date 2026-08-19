@@ -18,6 +18,8 @@ publication: "The 36th IEEE International Conference on Data Engineering (ICDE)"
 venue: "The 36th IEEE International Conference on Data Engineering (ICDE)"
 publication_kind: "conference"
 slug: "paper-c007"
+design:
+  css_class: single-language-section
 venue_rankings:
   - "CCF-A"
   - "CORE-A*"

@@ -20,6 +20,8 @@ publication: "2025 ACM SIGMOD International Conference on Management of Data (SI
 venue: "2025 ACM SIGMOD International Conference on Management of Data (SIGMOD)"
 publication_kind: "conference"
 slug: "paper-c033"
+design:
+  css_class: single-language-section
 venue_rankings:
   - "CCF-A"
   - "CORE-A*"

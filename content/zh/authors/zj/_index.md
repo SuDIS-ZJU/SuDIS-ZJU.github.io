@@ -6,14 +6,13 @@ last_name: "张"
 sort_key: "zhang jun"
 grad: 6
 superuser: false
-role: "2020级博士毕业生"
+role: "2020级直博毕业生"
 organizations:
   - name: "浙江大学"
     url: "https://www.zju.edu.cn/"
 interests:
   - "大模型推理加速"
 first_employment: "阿里巴巴通义千问应用科学家（阿里星）"
-cohort: "20级直博"
 social:
   - icon: "github"
     icon_pack: "fab"

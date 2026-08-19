@@ -4,9 +4,9 @@ url: "/authors/zhichen-lai/home"
 first_name: "Zhichen"
 last_name: "Lai"
 sort_key: "lai zhichen"
-grad: 0
+grad: 5
 superuser: false
-role: "Alumni"
+role: "2021 PhD graduate"
 organizations:
   - name: "Aalborg University"
     url: "https://www.aau.dk/"

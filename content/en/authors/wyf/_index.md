@@ -6,13 +6,12 @@ last_name: "Wu"
 sort_key: "wu yifan"
 grad: 5
 superuser: false
-role: "PhD Student"
+role: "2021 Direct-entry PhD Student"
 organizations:
   - name: "Zhejiang University"
     url: "https://www.zju.edu.cn/"
 interests:
   - "Database systems and token economics"
-cohort: "2021 PhD cohort"
 social:
   - icon: "globe"
     icon_pack: "fas"

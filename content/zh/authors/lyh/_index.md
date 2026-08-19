@@ -6,14 +6,13 @@ last_name: "李"
 sort_key: "li yihang"
 grad: 0
 superuser: false
-role: "博士生"
+role: "2026级直博生"
 organizations:
   - name: "浙江大学"
     url: "https://www.zju.edu.cn/"
 interests:
   - "统一多模态大模型"
   - "视频生成高效诊断"
-cohort: "26级直博"
 social: []
 publications:
   - title: "Efficient Inference for Large Vision-Language Models: Bottlenecks, Techniques, and Prospects"

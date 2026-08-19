@@ -13,7 +13,6 @@ organizations:
 interests:
   - "时间序列插补"
   - "模型轻量化"
-cohort: "23级学硕"
 social: []
 publications:
   []

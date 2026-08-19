@@ -6,13 +6,12 @@ last_name: "Chen"
 sort_key: "chen junming"
 grad: 0
 superuser: false
-role: "PhD Student"
+role: "2026 Direct-entry PhD Student"
 organizations:
   - name: "Zhejiang University"
     url: "https://www.zju.edu.cn/"
 interests:
   - "Multimodal data selection and reinforcement-learning post-training"
-cohort: "2026 PhD cohort"
 social: []
 publications:
   []

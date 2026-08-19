@@ -6,13 +6,12 @@ last_name: "Hao"
 sort_key: "hao ankai"
 grad: 2
 superuser: false
-role: "PhD Student"
+role: "2024 Direct-entry PhD Student"
 organizations:
   - name: "Zhejiang University"
     url: "https://www.zju.edu.cn/"
 interests:
   - "LLM-based feature engineering and data agents"
-cohort: "2024 PhD cohort"
 social: []
 publications:
   []

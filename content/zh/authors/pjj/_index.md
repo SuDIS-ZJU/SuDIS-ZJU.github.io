@@ -6,7 +6,7 @@ last_name: "潘"
 sort_key: "pan jiajun"
 grad: 2
 superuser: false
-role: "博士生"
+role: "2024级直博生"
 organizations:
   - name: "浙江大学"
     url: "https://www.zju.edu.cn/"
@@ -14,7 +14,6 @@ interests:
   - "多模态检索"
   - "多模态生成"
   - "智能体"
-cohort: "24级直博"
 social:
   - icon: "envelope"
     icon_pack: "fas"

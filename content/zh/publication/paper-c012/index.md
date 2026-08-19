@@ -17,6 +17,8 @@ publication: "The 47th International Conference on Very Large Data Bases (VLDB)"
 venue: "The 47th International Conference on Very Large Data Bases (VLDB)"
 publication_kind: "conference"
 slug: "paper-c012"
+design:
+  css_class: single-language-section
 venue_rankings:
   - "CCF-A"
   - "CORE-A*"

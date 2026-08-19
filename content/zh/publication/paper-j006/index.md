@@ -17,6 +17,8 @@ publication: "ACM Computing Surveys, 55(3) No.26: 1-41"
 venue: "ACM Computing Surveys, 55(3) No.26: 1-41"
 publication_kind: "journal"
 slug: "paper-j006"
+design:
+  css_class: single-language-section
 venue_rankings:
   - "CORE-A*"
   - "IF: 16.2 (Year 2022)"

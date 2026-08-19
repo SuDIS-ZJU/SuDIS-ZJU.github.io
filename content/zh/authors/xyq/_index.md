@@ -13,7 +13,6 @@ organizations:
 interests:
   []
 first_employment: "蚂蚁集团"
-cohort: "23级专硕"
 social: []
 publications:
   - title: "ChronosBI: Supercharging LLM-Powered Business Intelligence Pipelines with Semantic Caching and Cost Planning"

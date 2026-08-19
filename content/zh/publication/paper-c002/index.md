@@ -18,6 +18,8 @@ publication: "The 44th International Conference on Very Large Data Bases (VLDB)"
 venue: "The 44th International Conference on Very Large Data Bases (VLDB)"
 publication_kind: "conference"
 slug: "paper-c002"
+design:
+  css_class: single-language-section
 venue_rankings:
   - "CCF-A"
   - "CORE-A*"

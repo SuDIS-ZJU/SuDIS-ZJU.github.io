@@ -6,14 +6,13 @@ last_name: "陈"
 sort_key: "chen zonghao"
 grad: 1
 superuser: false
-role: "硕士生"
+role: "2025级硕士生"
 organizations:
   - name: "浙江大学"
     url: "https://www.zju.edu.cn/"
 interests:
   - "流式视频理解"
   - "多模态推理加速"
-cohort: "25级专硕"
 social: []
 publications:
   - title: "Efficient Inference for Large Vision-Language Models: Bottlenecks, Techniques, and Prospects"

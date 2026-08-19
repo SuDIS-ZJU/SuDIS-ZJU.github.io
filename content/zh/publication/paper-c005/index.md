@@ -17,6 +17,8 @@ publication: "The 35th IEEE International Conference on Data Engineering (ICDE)"
 venue: "The 35th IEEE International Conference on Data Engineering (ICDE)"
 publication_kind: "conference"
 slug: "paper-c005"
+design:
+  css_class: single-language-section
 venue_rankings:
   - "CCF-A"
   - "CORE-A*"

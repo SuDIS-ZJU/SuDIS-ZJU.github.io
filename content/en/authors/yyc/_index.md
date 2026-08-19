@@ -6,13 +6,12 @@ last_name: "Yan"
 sort_key: "yan yichen"
 grad: 2
 superuser: false
-role: "PhD Student"
+role: "2024 Regular PhD Student"
 organizations:
   - name: "Zhejiang University"
     url: "https://www.zju.edu.cn/"
 interests:
   - "Multimodal data governance"
-cohort: "2024 PhD cohort"
 social:
   - icon: "envelope"
     icon_pack: "fas"

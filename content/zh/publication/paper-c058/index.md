@@ -29,6 +29,8 @@ publication: "2026 ACM SIGMOD International Conference on Management of Data (SI
 venue: "2026 ACM SIGMOD International Conference on Management of Data (SIGMOD) Demo"
 publication_kind: "conference"
 slug: "paper-c058"
+design:
+  css_class: single-language-section
 venue_rankings:
   - "CCF-A"
   - "CORE-A*"

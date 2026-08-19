@@ -6,13 +6,12 @@ last_name: "Zhang"
 sort_key: "zhang jianfeng"
 grad: 1
 superuser: false
-role: "Master's Student"
+role: "2025 Master's Student"
 organizations:
   - name: "Zhejiang University"
     url: "https://www.zju.edu.cn/"
 interests:
   - "Data selection and tabular data governance"
-cohort: "2025 Master's cohort"
 social: []
 publications:
   - title: "ChronosBI: Supercharging LLM-Powered Business Intelligence Pipelines with Semantic Caching and Cost Planning"

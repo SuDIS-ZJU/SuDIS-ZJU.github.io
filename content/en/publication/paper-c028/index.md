@@ -16,6 +16,8 @@ publication: "The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Min
 venue: "The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)"
 publication_kind: "conference"
 slug: "paper-c028"
+design:
+  css_class: single-language-section
 venue_rankings:
   - "CCF-A"
   - "CORE-A*"

@@ -6,13 +6,12 @@ last_name: "Cui"
 sort_key: "cui lingxi"
 grad: 3
 superuser: false
-role: "PhD Student"
+role: "2023 Direct-entry PhD Student"
 organizations:
   - name: "Zhejiang University"
     url: "https://www.zju.edu.cn/"
 interests:
   - "Tabular data governance"
-cohort: "2023 PhD cohort"
 social:
   - icon: "github"
     icon_pack: "fab"

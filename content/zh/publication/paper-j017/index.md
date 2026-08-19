@@ -23,6 +23,8 @@ publication: "The VLDB Journal (VLDBJ)"
 venue: "The VLDB Journal (VLDBJ)"
 publication_kind: "journal"
 slug: "paper-j017"
+design:
+  css_class: single-language-section
 venue_rankings:
   - "CCF-A"
   - "CORE-A*"

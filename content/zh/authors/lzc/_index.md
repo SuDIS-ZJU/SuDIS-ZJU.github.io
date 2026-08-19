@@ -4,9 +4,9 @@ url: "/authors/zhichen-lai/home/zh"
 first_name: "志宸"
 last_name: "赖"
 sort_key: "lai zhichen"
-grad: 0
+grad: 5
 superuser: false
-role: "校友"
+role: "2021级博士毕业生"
 organizations:
   - name: "丹麦奥尔堡大学"
     url: "https://www.aau.dk/"

@@ -23,6 +23,8 @@ publication: "The 13th International Conference on Learning Representations (ICL
 venue: "The 13th International Conference on Learning Representations (ICLR)"
 publication_kind: "conference"
 slug: "paper-c056"
+design:
+  css_class: single-language-section
 venue_rankings:
   - "CORE-A*"
 abstract: "Large Language Models (LLMs) have significantly advanced natural language processingwithexceptionaltaskgeneralizationcapabilities. Low-RankAdaption (LoRA)offersacost-effectivefine-tuningsolution,freezingtheoriginalmodelpa- rametersandtrainingonlylightweight,low-rankadaptermatrices. However,the memoryfootprintofLoRAislargelydominatedbytheoriginalmodelparameters. Tomitigatethis,weproposeLORAM,amemory-efficientLoRAtrainingscheme foundedontheintuitionthatmanyneuronsinover-parameterizedLLMshavelow training utility but are essential for inference. LORAM presents a unique twist: it trains on a pruned (small) model to obtain pruned low-rank matrices, which arethenrecoveredandutilizedwiththeoriginal(large)modelforinference. Ad- ditionally, minimal-costcontinualpre-training, performedbythemodelpublish- ers in advance, aligns the knowledge discrepancy between pruned and original models. Our extensive experiments demonstrate the efficacy of LORAM across various pruning strategies and downstream tasks. For a model with 70 billion parameters, LORAM enablestrainingonaGPUwithonly20GHBM,replacing anA100-80GGPUforLoRAtrainingand15GPUsforfullfine-tuning. Specifi- cally,QLORAMimplementedbystructuredpr"

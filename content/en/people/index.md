@@ -5,6 +5,9 @@ summary: Meet the students and researchers of the SuDIS@ZJU research group.
 
 type: landing
 
+design:
+  css_class: single-language-section
+
 sections:
   - block: people
     content:

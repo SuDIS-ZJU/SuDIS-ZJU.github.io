@@ -16,6 +16,8 @@ publication: "The 34th ACM International Conference on Information & Knowledge M
 venue: "The 34th ACM International Conference on Information & Knowledge Management (CIKM)"
 publication_kind: "conference"
 slug: "paper-c051"
+design:
+  css_class: single-language-section
 venue_rankings:
   - "CCF-B"
   - "CORE-A"

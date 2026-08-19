@@ -18,6 +18,8 @@ publication: "The 32nd International Joint Conference on Artificial Intelligence
 venue: "The 32nd International Joint Conference on Artificial Intelligence (IJCAI)"
 publication_kind: "conference"
 slug: "paper-c022"
+design:
+  css_class: single-language-section
 venue_rankings:
   - "CCF-A"
   - "CORE-A*"

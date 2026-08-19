@@ -6,13 +6,12 @@ last_name: "Li"
 sort_key: "li yihang"
 grad: 0
 superuser: false
-role: "PhD Student"
+role: "2026 Direct-entry PhD Student"
 organizations:
   - name: "Zhejiang University"
     url: "https://www.zju.edu.cn/"
 interests:
   - "Unified multimodal large language models and efficient diagnosis for video generation"
-cohort: "2026 PhD cohort"
 social: []
 publications:
   - title: "Efficient Inference for Large Vision-Language Models: Bottlenecks, Techniques, and Prospects"

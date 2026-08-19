@@ -6,14 +6,13 @@ last_name: "杨"
 sort_key: "yang yuxuan"
 grad: 2
 superuser: false
-role: "硕士生"
+role: "2024级硕士生"
 organizations:
   - name: "浙江大学"
     url: "https://www.zju.edu.cn/"
 interests:
   - "大模型推理加速"
   - "键值缓存压缩"
-cohort: "24级学硕"
 social:
   - icon: "envelope"
     icon_pack: "fas"

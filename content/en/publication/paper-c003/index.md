@@ -18,6 +18,8 @@ publication: "The 42nd International Conference on Very Large Data Bases (VLDB)"
 venue: "The 42nd International Conference on Very Large Data Bases (VLDB)"
 publication_kind: "conference"
 slug: "paper-c003"
+design:
+  css_class: single-language-section
 venue_rankings:
   - "CCF-A"
   - "CORE-A*"

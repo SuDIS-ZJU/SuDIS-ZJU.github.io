@@ -19,6 +19,8 @@ publication: "The IEEE/CVF Conference on Computer Vision and Pattern Recognition
 venue: "The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
 publication_kind: "conference"
 slug: "paper-c065"
+design:
+  css_class: single-language-section
 venue_rankings:
   - "CCF-A"
   - "CORE-A*"

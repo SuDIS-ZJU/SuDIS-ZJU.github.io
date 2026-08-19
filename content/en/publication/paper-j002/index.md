@@ -17,6 +17,8 @@ publication: "IEEE Transactions on Knowledge and Data Engineering (TKDE), 31(11)
 venue: "IEEE Transactions on Knowledge and Data Engineering (TKDE), 31(11): 2108-2123"
 publication_kind: "journal"
 slug: "paper-j002"
+design:
+  css_class: single-language-section
 venue_rankings:
   - "CCF-A"
   - "CORE-A*"

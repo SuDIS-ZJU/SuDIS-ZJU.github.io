@@ -13,7 +13,6 @@ organizations:
 interests:
   []
 first_employment: "阿里巴巴集团"
-cohort: "21级硕士"
 social: []
 publications:
   - title: "FedBFPT: An efficient federated learning framework for Bert further pre-training"

@@ -13,7 +13,6 @@ organizations:
 interests:
   []
 first_employment: "中国工商银行"
-cohort: "21级硕士"
 social: []
 publications:
   - title: "TPUF: Enhancing cross-domain sequential recommendation via transferring pre-trained user features"

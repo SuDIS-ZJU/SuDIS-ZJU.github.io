@@ -6,14 +6,13 @@ last_name: "吴"
 sort_key: "wu yifan"
 grad: 5
 superuser: false
-role: "博士生"
+role: "2021级直博生"
 organizations:
   - name: "浙江大学"
     url: "https://www.zju.edu.cn/"
 interests:
   - "数据库系统"
   - "令牌经济学"
-cohort: "21级直博"
 social:
   - icon: "globe"
     icon_pack: "fas"

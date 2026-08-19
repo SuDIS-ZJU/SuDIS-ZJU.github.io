@@ -25,6 +25,8 @@ publication: "The 43th International Conference on Machine Learning (ICML)"
 venue: "The 43th International Conference on Machine Learning (ICML)"
 publication_kind: "conference"
 slug: "paper-c061"
+design:
+  css_class: single-language-section
 venue_rankings:
   - "CCF-A"
   - "CORE-A*"

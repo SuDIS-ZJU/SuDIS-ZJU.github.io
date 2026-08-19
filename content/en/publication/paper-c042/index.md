@@ -21,6 +21,8 @@ publication: "The 40th AAAI Conference on Artificial Intelligence (AAAI) ORAL"
 venue: "The 40th AAAI Conference on Artificial Intelligence (AAAI) ORAL"
 publication_kind: "conference"
 slug: "paper-c042"
+design:
+  css_class: single-language-section
 venue_rankings:
   - "CCF-A"
   - "CORE-A"

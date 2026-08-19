@@ -20,6 +20,8 @@ publication: "The ACM Web Conference 2024 (WWW) ORAL"
 venue: "The ACM Web Conference 2024 (WWW) ORAL"
 publication_kind: "conference"
 slug: "paper-c032"
+design:
+  css_class: single-language-section
 venue_rankings:
   - "CCF-A"
   - "CORE-A*"

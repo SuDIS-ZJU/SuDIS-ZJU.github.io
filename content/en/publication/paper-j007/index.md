@@ -17,6 +17,8 @@ publication: "IEEE Transactions on Knowledge and Data Engineering (TKDE)"
 venue: "IEEE Transactions on Knowledge and Data Engineering (TKDE)"
 publication_kind: "journal"
 slug: "paper-j007"
+design:
+  css_class: single-language-section
 venue_rankings:
   - "CCF-A"
   - "CORE-A*"

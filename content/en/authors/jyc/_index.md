@@ -6,13 +6,12 @@ last_name: "Ji"
 sort_key: "ji yicheng"
 grad: 1
 superuser: false
-role: "PhD Student"
+role: "2025 Direct-entry PhD Student"
 organizations:
   - name: "Zhejiang University"
     url: "https://www.zju.edu.cn/"
 interests:
   - "Multimodal inference acceleration and token economics"
-cohort: "2025 PhD cohort"
 social:
   - icon: "envelope"
     icon_pack: "fas"

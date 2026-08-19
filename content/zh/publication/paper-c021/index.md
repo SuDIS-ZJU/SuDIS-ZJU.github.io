@@ -17,6 +17,8 @@ publication: "The 39th IEEE International Conference on Data Engineering (ICDE)"
 venue: "The 39th IEEE International Conference on Data Engineering (ICDE)"
 publication_kind: "conference"
 slug: "paper-c021"
+design:
+  css_class: single-language-section
 venue_rankings:
   - "CCF-A"
   - "CORE-A*"

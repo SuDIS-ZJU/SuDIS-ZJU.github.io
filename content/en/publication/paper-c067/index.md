@@ -21,6 +21,8 @@ publication: "The ACM Web Conference 2026 (WWW)"
 venue: "The ACM Web Conference 2026 (WWW)"
 publication_kind: "conference"
 slug: "paper-c067"
+design:
+  css_class: single-language-section
 venue_rankings:
   - "CCF-A"
   - "CORE-A*"

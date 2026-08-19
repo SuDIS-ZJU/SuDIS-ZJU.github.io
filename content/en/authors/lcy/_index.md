@@ -6,13 +6,12 @@ last_name: "Lv"
 sort_key: "lv chuanyi"
 grad: 1
 superuser: false
-role: "PhD Student"
+role: "2025 PhD Student"
 organizations:
   - name: "Zhejiang University"
     url: "https://www.zju.edu.cn/"
 interests:
   - "Time-series governance and temporal compression"
-cohort: "2025 PhD cohort"
 social: []
 publications:
   - title: "DeXOR: Enabling XOR in Decimal Space for Streaming Lossless Compression of Floating-point Data"

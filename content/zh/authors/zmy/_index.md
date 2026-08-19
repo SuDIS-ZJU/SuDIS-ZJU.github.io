@@ -6,14 +6,13 @@ last_name: "张"
 sort_key: "zhang mingyu"
 grad: 0
 superuser: false
-role: "硕士生"
+role: "2026级硕士生"
 organizations:
   - name: "浙江大学"
     url: "https://www.zju.edu.cn/"
 interests:
   - "向量压缩"
   - "向量检索优化"
-cohort: "26级专硕"
 social: []
 publications:
   []

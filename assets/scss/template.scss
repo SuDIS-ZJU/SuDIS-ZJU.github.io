@@ -7,3 +7,9 @@
 .cta-group {
   justify-content: center;
 }
+
+// People and publication routes keep stable bilingual content for existing
+// links, but their visible navigation is intentionally single-language.
+.single-language-section .i18n-dropdown {
+  display: none !important;
+}

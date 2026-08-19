@@ -6,14 +6,13 @@ last_name: "Zhang"
 sort_key: "zhang jun"
 grad: 6
 superuser: false
-role: "2020 PhD graduate"
+role: "2020 Direct-entry PhD graduate"
 organizations:
   - name: "Zhejiang University"
     url: "https://www.zju.edu.cn/"
 interests:
   - "LLM inference acceleration"
 first_employment: "Alibaba Qwen Application Scientist (Alibaba Star)"
-cohort: "2020 PhD cohort"
 social:
   - icon: "github"
     icon_pack: "fab"

@@ -19,6 +19,8 @@ publication: "The 64th Annual Meeting of the Association for Computational Lingu
 venue: "The 64th Annual Meeting of the Association for Computational Linguistics (ACL)"
 publication_kind: "conference"
 slug: "paper-c059"
+design:
+  css_class: single-language-section
 venue_rankings:
   - "CCF-A"
   - "CORE-A*"

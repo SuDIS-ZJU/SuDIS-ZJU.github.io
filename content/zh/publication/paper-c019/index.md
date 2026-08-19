@@ -17,6 +17,8 @@ publication: "2022 ACM SIGMOD International Conference on Management of Data (SI
 venue: "2022 ACM SIGMOD International Conference on Management of Data (SIGMOD)"
 publication_kind: "conference"
 slug: "paper-c019"
+design:
+  css_class: single-language-section
 venue_rankings:
   - "CCF-A"
   - "CORE-A*"

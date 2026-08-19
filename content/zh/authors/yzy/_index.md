@@ -6,14 +6,13 @@ last_name: "袁"
 sort_key: "yuan zhaoyi"
 grad: 2
 superuser: false
-role: "博士生"
+role: "2024级直博生"
 organizations:
   - name: "浙江大学"
     url: "https://www.zju.edu.cn/"
 interests:
   - "表格推理"
   - "用户表征压缩"
-cohort: "24级直博"
 social: []
 publications:
   []

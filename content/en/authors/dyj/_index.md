@@ -13,7 +13,6 @@ organizations:
 interests:
   []
 first_employment: "Industrial and Commercial Bank of China (ICBC)"
-cohort: "2021 Master's cohort"
 social: []
 publications:
   - title: "TPUF: Enhancing cross-domain sequential recommendation via transferring pre-trained user features"

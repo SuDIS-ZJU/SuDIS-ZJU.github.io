@@ -18,6 +18,8 @@ publication: "The 38th IEEE International Conference on Data Engineering (ICDE)"
 venue: "The 38th IEEE International Conference on Data Engineering (ICDE)"
 publication_kind: "conference"
 slug: "paper-c018"
+design:
+  css_class: single-language-section
 venue_rankings:
   - "CCF-A"
   - "CORE-A*"

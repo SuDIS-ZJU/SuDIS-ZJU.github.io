@@ -6,13 +6,12 @@ last_name: "崔"
 sort_key: "cui lingxi"
 grad: 3
 superuser: false
-role: "博士生"
+role: "2023级直博生"
 organizations:
   - name: "浙江大学"
     url: "https://www.zju.edu.cn/"
 interests:
   - "表格数据治理"
-cohort: "23级直博"
 social:
   - icon: "github"
     icon_pack: "fab"

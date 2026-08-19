@@ -6,13 +6,12 @@ last_name: "Liu"
 sort_key: "liu wenjie"
 grad: 0
 superuser: false
-role: "PhD Student"
+role: "2026 PhD Student"
 organizations:
   - name: "Zhejiang University"
     url: "https://www.zju.edu.cn/"
 interests:
   - "Streaming multimodal large language model training"
-cohort: "2026 PhD cohort"
 social: []
 publications:
   []

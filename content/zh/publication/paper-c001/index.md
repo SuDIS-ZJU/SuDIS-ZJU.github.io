@@ -18,6 +18,8 @@ publication: "The 2015 ACM International Joint Conference on Pervasive and Ubiqu
 venue: "The 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing (Ubicomp)"
 publication_kind: "conference"
 slug: "paper-c001"
+design:
+  css_class: single-language-section
 venue_rankings:
   - "CCF-A"
   - "CORE-A*"

@@ -23,6 +23,8 @@ publication: "The 2025 Conference on Empirical Methods in Natural Language Proce
 venue: "The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP)"
 publication_kind: "conference"
 slug: "paper-c050"
+design:
+  css_class: single-language-section
 venue_rankings:
   - "CCF-B"
   - "CORE-A"

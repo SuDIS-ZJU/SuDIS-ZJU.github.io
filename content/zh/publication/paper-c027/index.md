@@ -18,6 +18,8 @@ publication: "The 32nd ACM International Conference on Information & Knowledge M
 venue: "The 32nd ACM International Conference on Information & Knowledge Management (CIKM)"
 publication_kind: "conference"
 slug: "paper-c027"
+design:
+  css_class: single-language-section
 venue_rankings:
   - "CCF-B"
   - "CORE-A"

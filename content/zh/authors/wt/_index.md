@@ -6,14 +6,13 @@ last_name: "王"
 sort_key: "wang tong"
 grad: 1
 superuser: false
-role: "博士生"
+role: "2025级博士生"
 organizations:
   - name: "浙江大学"
     url: "https://www.zju.edu.cn/"
 interests:
   - "智能体式结构化查询语言生成"
   - "模式链接优化"
-cohort: "25级硕转博"
 social: []
 publications:
   - title: "ChronosBI: Supercharging LLM-Powered Business Intelligence Pipelines with Semantic Caching and Cost Planning"

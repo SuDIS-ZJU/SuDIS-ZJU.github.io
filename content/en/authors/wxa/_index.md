@@ -13,7 +13,6 @@ organizations:
 interests:
   []
 first_employment: "Alibaba Group"
-cohort: "2021 Master's cohort"
 social: []
 publications:
   - title: "FedBFPT: An efficient federated learning framework for Bert further pre-training"

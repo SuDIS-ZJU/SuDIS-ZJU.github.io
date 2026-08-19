@@ -6,13 +6,12 @@ last_name: "Yang"
 sort_key: "yang yuxuan"
 grad: 2
 superuser: false
-role: "Master's Student"
+role: "2024 Master's Student"
 organizations:
   - name: "Zhejiang University"
     url: "https://www.zju.edu.cn/"
 interests:
   - "LLM inference acceleration and KV-cache compression"
-cohort: "2024 Master's cohort"
 social:
   - icon: "envelope"
     icon_pack: "fas"

@@ -16,13 +16,6 @@
       </div>
     {{ end }}
 
-    {{ with .Params.cohort }}
-      <div class="article-widget content-widget-hr profile-cohort">
-        <div class="section-subheading">{{ if eq $.Lang "zh" }}年级{{ else }}Cohort{{ end }}</div>
-        <p>{{ . | markdownify | emojify }}</p>
-      </div>
-    {{ end }}
-
     {{ with .Params.publications }}
       <div class="article-widget content-widget-hr student-publications">
         <h3>{{ if eq $.Lang "zh" }}与 SuDIS 共同发表的论文{{ else }}Publications with SuDIS{{ end }}</h3>

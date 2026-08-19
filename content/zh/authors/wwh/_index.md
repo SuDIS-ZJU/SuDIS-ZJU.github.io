@@ -6,13 +6,12 @@ last_name: "王"
 sort_key: "wang wenhui"
 grad: 0
 superuser: false
-role: "硕士生"
+role: "2026级硕士生"
 organizations:
   - name: "浙江大学"
     url: "https://www.zju.edu.cn/"
 interests:
   - "智能数据治理"
-cohort: "26级专硕"
 social: []
 publications:
   []

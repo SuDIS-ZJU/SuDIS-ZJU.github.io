@@ -6,13 +6,12 @@ last_name: "Wang"
 sort_key: "wang tong"
 grad: 1
 superuser: false
-role: "PhD Student"
+role: "2025 PhD Student"
 organizations:
   - name: "Zhejiang University"
     url: "https://www.zju.edu.cn/"
 interests:
   - "Agentic text-to-SQL and schema linking"
-cohort: "2025 PhD cohort"
 social: []
 publications:
   - title: "ChronosBI: Supercharging LLM-Powered Business Intelligence Pipelines with Semantic Caching and Cost Planning"

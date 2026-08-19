@@ -17,6 +17,8 @@ publication: "World Wide Web Journal"
 venue: "World Wide Web Journal"
 publication_kind: "journal"
 slug: "paper-j008"
+design:
+  css_class: single-language-section
 venue_rankings:
   - "CCF-B"
   - "IF: 3.00"

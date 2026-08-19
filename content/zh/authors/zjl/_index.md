@@ -6,13 +6,12 @@ last_name: "赵"
 sort_key: "zhao jiale"
 grad: 0
 superuser: false
-role: "硕士生"
+role: "2026级硕士生"
 organizations:
   - name: "浙江大学"
     url: "https://www.zju.edu.cn/"
 interests:
   - "多模态表格推理"
-cohort: "26级专硕"
 social: []
 publications:
   []

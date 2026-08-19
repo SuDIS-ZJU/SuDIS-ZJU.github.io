@@ -21,6 +21,8 @@ publication: "ACM Computing Surveys"
 venue: "ACM Computing Surveys"
 publication_kind: "journal"
 slug: "paper-j011"
+design:
+  css_class: single-language-section
 venue_rankings:
   - "CORE-A*"
   - "IF: 23.8 (Year 2023)"

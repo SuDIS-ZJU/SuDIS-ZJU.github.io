@@ -13,7 +13,6 @@ organizations:
 interests:
   []
 first_employment: "Ant Group"
-cohort: "2023 Master's cohort"
 social: []
 publications:
   - title: "ChronosBI: Supercharging LLM-Powered Business Intelligence Pipelines with Semantic Caching and Cost Planning"

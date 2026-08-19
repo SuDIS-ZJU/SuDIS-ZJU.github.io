@@ -6,14 +6,13 @@ last_name: "季"
 sort_key: "ji yicheng"
 grad: 1
 superuser: false
-role: "博士生"
+role: "2025级直博生"
 organizations:
   - name: "浙江大学"
     url: "https://www.zju.edu.cn/"
 interests:
   - "多模态推理加速"
   - "令牌经济学"
-cohort: "25级直博"
 social:
   - icon: "envelope"
     icon_pack: "fas"

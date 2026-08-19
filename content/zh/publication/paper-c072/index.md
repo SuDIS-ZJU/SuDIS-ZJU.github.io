@@ -18,6 +18,8 @@ publication: "ACM International Conference on Information and Knowledge Manageme
 venue: "ACM International Conference on Information and Knowledge Management (CIKM) 2026"
 publication_kind: "conference"
 slug: "paper-c072"
+design:
+  css_class: single-language-section
 venue_short: "CIKM"
 venue_rankings:
   - "CCF-B"

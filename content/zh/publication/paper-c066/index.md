@@ -29,6 +29,8 @@ publication: "The 42nd IEEE International Conference on Data Engineering (ICDE) 
 venue: "The 42nd IEEE International Conference on Data Engineering (ICDE) Industry"
 publication_kind: "conference"
 slug: "paper-c066"
+design:
+  css_class: single-language-section
 venue_rankings:
   - "CCF-A"
   - "CORE-A*"

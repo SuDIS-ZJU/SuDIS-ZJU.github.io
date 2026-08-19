@@ -16,6 +16,8 @@ publication: "Geoinformatica (Special Issue of SSTD21 Best Papers)"
 venue: "Geoinformatica (Special Issue of SSTD21 Best Papers)"
 publication_kind: "conference"
 slug: "paper-c026"
+design:
+  css_class: single-language-section
 venue_rankings:
   - "CCF-B"
   - "IF: 3.29"

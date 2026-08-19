@@ -18,6 +18,8 @@ publication: "The 42th International Conference on Machine Learning (ICML)"
 venue: "The 42th International Conference on Machine Learning (ICML)"
 publication_kind: "conference"
 slug: "paper-c055"
+design:
+  css_class: single-language-section
 venue_rankings:
   - "CCF-A"
   - "CORE-A*"

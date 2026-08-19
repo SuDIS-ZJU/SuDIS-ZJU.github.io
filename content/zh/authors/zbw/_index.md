@@ -6,14 +6,13 @@ last_name: "曾"
 sort_key: "zeng bowen"
 grad: 2
 superuser: false
-role: "硕士生"
+role: "2024级硕士生"
 organizations:
   - name: "浙江大学"
     url: "https://www.zju.edu.cn/"
 interests:
   - "键值缓存压缩"
   - "多模态推理加速"
-cohort: "24级专硕"
 social:
   - icon: "envelope"
     icon_pack: "fas"
