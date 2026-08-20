@@ -101,7 +101,49 @@ Actions 只负责构建和审计，不应拥有写入 `main` 的权限。任何�
 
 如果仓库启用了 GitHub Environments 或 Pages 部署保护，应只允许 `main` 触发正式部署，并限制 Secrets 的读取范围。
 
-## 4. 分支和命名规范
+## 4. 学生维护 Skill：安装与使用
+
+仓库提供了可复用的 [SuDIS Site Maintainer Skill](skills/sudis-site-maintainer/SKILL.md)。它会帮助学生判断应修改公开仓库还是提交源数据请求，执行 Hugo 检查，并按 PR 规范交付变更。
+
+### 4.1 安装（推荐使用符号链接）
+
+在已经克隆本仓库的目录中执行：
+
+```bash
+cd SuDIS-ZJU.github.io
+mkdir -p ~/.agents/skills
+ln -sfn "$PWD/skills/sudis-site-maintainer" ~/.agents/skills/sudis-site-maintainer
+```
+
+如果运行环境不支持符号链接，可以复制目录：
+
+```bash
+mkdir -p ~/.agents/skills/sudis-site-maintainer
+cp skills/sudis-site-maintainer/SKILL.md ~/.agents/skills/sudis-site-maintainer/SKILL.md
+```
+
+安装后重启使用的 Codex/Claude/Hermes 会话，使其重新加载 Skills。更新网站仓库后，符号链接安装会自动使用最新 Skill；复制安装则需要再次执行 `cp`。
+
+### 4.2 触发方式
+
+安装后可以直接提出以下请求：
+
+- “用 SuDIS Site Maintainer Skill 增加一篇中英文 News。”
+- “检查这篇论文的 venue、年份和 DOI，并准备一个 PR。”
+- “修正我的个人页面，但先判断应该修改公开文件还是私有同步源。”
+- “运行网站检查并给出 PR 前的审计结果。”
+
+Skill 不会替代事实确认，也不会自动获得私有 Vault 权限。涉及学生资料、论文元数据、公开名单或删除页面时，仍需遵守本文件的审核规则。
+
+### 4.3 Skill 的权限边界
+
+- Skill 可以帮助修改当前用户有权访问的工作区文件；
+- Skill 不应读取或复制未授权的 Vault 内容；
+- Skill 不应直接推送 `main`、修改分支保护或读取仓库 Secrets；
+- Skill 不应绕过 `build-and-audit` 或把生成页面当作事实源；
+- Skill 只有在用户明确要求时才提交、推送或创建 PR。
+
+## 5. 分支和命名规范
 
 本地开始工作前，先同步 `main`：
 
@@ -123,7 +165,7 @@ git switch -c <type>/<short-description>
 
 分支应从最新 `main` 创建，不要在已经合并的旧分支上继续堆叠新工作。需要更新 PR 时，继续推送同一分支即可，不要反复创建重复 PR。
 
-## 5. 哪些内容可以提交 PR
+## 6. 哪些内容可以提交 PR
 
 ### 5.1 学生可以直接维护的内容
 
@@ -154,7 +196,7 @@ git switch -c <type>/<short-description>
 
 如果发现这些页面有误，请在 PR 或 Issue 中提供：页面 URL、正确内容、证据来源、是否需要中英文同步，以及是否涉及稳定 URL。维护者确认后应修改私有源并重新生成。
 
-## 6. 内容和学术事实规范
+## 7. 内容和学术事实规范
 
 ### 6.1 论文
 
@@ -189,7 +231,7 @@ git switch -c <type>/<short-description>
 - 图片应有明确来源和 `alt` 文本；不提交超过项目门限的大型原图；
 - 不提交 `public/`、构建缓存、Playwright 日志和临时截图。
 
-## 7. 学生提交 PR 的标准流程
+## 8. 学生提交 PR 的标准流程
 
 ### 7.1 Fork 工作流（推荐）
 
@@ -234,7 +276,7 @@ git commit -m "fix(profile): correct student metadata"
 git push
 ```
 
-## 8. 私有同步器工作流
+## 9. 私有同步器工作流
 
 只有 PI 指定的私有仓库维护者执行以下流程。学生若没有私有仓库权限，不要自行复制 Vault 数据。
 
@@ -263,7 +305,7 @@ hugo --gc --minify
 4. 检查生成 diff，不包含私有来源、内部路径或管理字段；
 5. 运行完整测试后再把公开仓库改动推送到 PR。
 
-## 9. PR 描述和检查清单
+## 10. PR 描述和检查清单
 
 每个 PR 应说明：
 
@@ -288,7 +330,7 @@ hugo --gc --minify
 - [ ] PR 描述已填写来源、验证和风险；
 - [ ] 涉及个人事实时已获得本人或 PI 确认。
 
-## 10. 审核和合并规则
+## 11. 审核和合并规则
 
 ### 普通低风险 PR
 
@@ -317,7 +359,7 @@ hugo --gc --minify
 - 需要在 PR 中写明回滚方案；
 - 不允许学生单独合并。
 
-## 11. 错误发布和回滚
+## 12. 错误发布和回滚
 
 发现错误后，先判断是否需要立即处理：
 
@@ -328,7 +370,7 @@ hugo --gc --minify
 
 不要使用 `git push --force`、`git reset --hard` 或删除远端分支来掩盖问题。
 
-## 12. 权限申请和离组处理
+## 13. 权限申请和离组处理
 
 权限申请应由 PI 或维护者记录以下信息：
 
@@ -344,7 +386,7 @@ hugo --gc --minify
 - 关闭未完成的临时分支或转交维护者；
 - 对仍需维护的 PR 补充交接说明。
 
-## 13. 最简学生速查版
+## 14. 最简学生速查版
 
 1. 不直接改 `main`，先从最新 `main` 建分支。
 2. News、排版、链接和无障碍问题可以直接提 PR。

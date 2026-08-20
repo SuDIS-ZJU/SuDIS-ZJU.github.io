@@ -27,6 +27,8 @@ The public site includes bilingual group information, member profiles, research 
 
 Contributors should read the [maintenance and permissions guide](CONTRIBUTING.md) before opening a pull request.
 
+Students can install the [SuDIS Site Maintainer Skill](skills/sudis-site-maintainer/SKILL.md) to receive the repository-aware workflow for source selection, validation, and PR preparation.
+
 ## License
 
 Site content is published under the Creative Commons Attribution-ShareAlike 4.0 International License unless otherwise noted. The site's source configuration and templates remain under the repository's MIT license.
