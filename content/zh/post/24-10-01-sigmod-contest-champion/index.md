@@ -1,14 +1,17 @@
 ---
-title: 浙大数据智能团队在SIGMOD 2024程序竞赛中获得冠军
-date: 2024-10-01
-image:
-  focal_point: 'top'
+title: "浙大 SuDIS 与南科大 DBGroup 联合队伍获得 SIGMOD 2024 程序竞赛冠军"
+date: "2024-10-01"
+authors: ["SuDIS-ZJU Team"]
+summary: "浙江大学与南方科技大学联合队伍进入 SIGMOD 2024 程序竞赛决赛，其中 Alaya 队获得全球冠军。"
 ---
 
 <!--more-->
 
-近日，数据库领域全球顶级学术会议 **SIGMOD 2024**在智利首都圣地亚哥落下帷幕，在本届会议举办的SIGMOD 2024的程序竞赛(ACM SIGMOD Programming Contest)中，由浙江大学和南方科技大学组成的两支联合参赛队伍Alaya 和biejuanle在浙江大学**李环**教授和南科大**唐博**副教授联合指导下从全球所有参赛队伍中脱颖而出，进入Finalist，其中Alaya队获得全球冠军。这是浙大数据智能团队第一次参加并获得SIGMOD程序竞赛的世界冠军。本次竞赛中，Alaya队包括浙大数据智能团队硕士研究生**曾博文**，浙大计算机学院大二学生**雷宇**，biejuanle 队包括浙大竺可桢学院图灵班大二学生**吴浩**。
+在 SIGMOD 2024 程序竞赛中，浙江大学与南方科技大学组成的两支联合队伍在李环和唐博的联合指导下进入全球决赛，其中 Alaya 队获得冠军。
 
-微信公众号链接：[https://mp.weixin.qq.com/s/f0sbW9T0nE6LbgoAkI6rjg](https://mp.weixin.qq.com/s/f0sbW9T0nE6LbgoAkI6rjg)
+Alaya 队成员包括 SuDIS 硕士生曾博文，另一支决赛队伍包括浙江大学本科生。这是团队首次参加并获得 SIGMOD 程序竞赛全球冠军。
 
-Github链接：[https://github.com/KevinZeng08/sigmod-2024-contest](https://github.com/KevinZeng08/sigmod-2024-contest)
+### 来源
+
+- [WeChat](https://mp.weixin.qq.com/s/f0sbW9T0nE6LbgoAkI6rjg)
+- [GitHub](https://github.com/KevinZeng08/sigmod-2024-contest)

@@ -1,0 +1,104 @@
+name: Validate public site
+
+on:
+  pull_request:
+    paths:
+      - '.github/workflows/**'
+      - 'assets/**'
+      - 'config/**'
+      - 'content/**'
+      - 'i18n/**'
+      - 'layouts/**'
+      - 'static/**'
+      - 'go.mod'
+      - 'go.sum'
+      - 'publications.bib'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+env:
+  WC_HUGO_VERSION: '0.144.2'
+
+jobs:
+  build-and-audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: ${{ env.WC_HUGO_VERSION }}
+          extended: true
+
+      - name: Build production site
+        run: |
+          hugo --gc --minify --destination /tmp/sudis-zju-public
+          test -f /tmp/sudis-zju-public/en/publication/paper-c070/index.html
+          test -f /tmp/sudis-zju-public/zh/publication/paper-c070/index.html
+          test -f /tmp/sudis-zju-public/authors/feiyang-ren/home/index.html
+          test -f /tmp/sudis-zju-public/authors/feiyang-ren/home/zh/index.html
+
+      - name: Audit public routes and metadata
+        run: |
+          test ! -e /tmp/sudis-zju-public/en/admin/index.html
+          test ! -e /tmp/sudis-zju-public/zh/admin/index.html
+          test ! -e /tmp/sudis-zju-public/en/event/example/index.html
+          test ! -e /tmp/sudis-zju-public/zh/event/example/index.html
+          test ! -e /tmp/sudis-zju-public/authors/admin/home/index.html
+          if find /tmp/sudis-zju-public -type f | grep -E '/(tags|categories|publication-type|tag|category|author)/'; then
+            echo 'unexpected taxonomy or external author route generated' >&2
+            exit 1
+          fi
+          python3 - <<'PY'
+          from html.parser import HTMLParser
+          from pathlib import Path
+          from urllib.parse import unquote, urlsplit
+
+          root = Path('/tmp/sudis-zju-public')
+          class Page(HTMLParser):
+              def __init__(self):
+                  super().__init__()
+                  self.links = []
+                  self.images = []
+                  self.description = ''
+                  self.redirect = False
+              def handle_starttag(self, tag, attrs):
+                  values = dict(attrs)
+                  if tag == 'a' and 'href' in values:
+                      self.links.append(values['href'])
+                  if tag == 'img':
+                      self.images.append(values)
+                  if tag == 'meta' and (values.get('name') or '').lower() == 'description':
+                      self.description = (values.get('content') or '').strip()
+                  if tag == 'meta' and (values.get('http-equiv') or '').lower() == 'refresh':
+                      self.redirect = True
+
+          failures = []
+          for page_path in root.rglob('*.html'):
+              page = Page()
+              page.feed(page_path.read_text(errors='ignore'))
+              if not page.redirect and not page.description:
+                  failures.append(f'{page_path.relative_to(root)}: missing meta description')
+              for image in page.images:
+                  if 'alt' not in image:
+                      failures.append(f'{page_path.relative_to(root)}: image missing alt')
+              for href in page.links:
+                  parsed = urlsplit(href)
+                  if parsed.scheme or parsed.netloc or not parsed.path:
+                      continue
+                  target = root / unquote(parsed.path.lstrip('/')) if parsed.path.startswith('/') else page_path.parent / unquote(parsed.path)
+                  if target.is_dir():
+                      target /= 'index.html'
+                  elif not target.suffix:
+                      target /= 'index.html'
+                  if not target.exists():
+                      failures.append(f'{page_path.relative_to(root)}: broken link {href}')
+          if failures:
+              print('\n'.join(failures))
+              raise SystemExit(1)
+          print('PASS: metadata, image alt, and internal links')
+          PY

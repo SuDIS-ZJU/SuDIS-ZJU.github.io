@@ -1,0 +1,46 @@
+---
+title: "Beyond fixed variables: Expanding-variate time series forecasting via flat scheme and spatio-temporal focal learning"
+authors:
+  - "Minbo Ma"
+  - "Kai Tang"
+  - "Huan Li"
+  - "Fei Teng"
+  - "Dalin Zhang"
+  - "Tianrui Li"
+author_links:
+  - name: "Huan Li"
+    url: "/authors/huan-li/home/zh/"
+date: "2025-01-01"
+publishDate: "2025-01-01"
+publication_types:
+  - "paper-conference"
+publication: "The 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)"
+venue: "The 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)"
+publication_kind: "conference"
+slug: "paper-c039"
+design:
+  css_class: single-language-section
+venue_rankings:
+  - "CCF-A"
+  - "CORE-A*"
+abstract: "compare it against three potential solutions employing state-of-the- Multivariate Time Series Forecasting (MTSF) has long been a key art (SOTA) MTSF models tailored for EVSTF. Experimental results research focus. Traditionally, these studies assume a fixed number show that STEV significantly outperforms its competitors, espe- of variables, but in real-world applications, Cyber-Physical Systems cially in handling expanding variables. Notably, STEV, with only 5% often expand as new sensors are deployed, increasing variables in of observations during the expanding period, is on par with SOTA MTSF. In light of this, we introduce a novel task, Expanding-variate MTSF models trained with complete data. Further exploration of Time Series Forecasting (EVTSF). This task presents unique chal- various expanding scenarios underscores the generalizability of lenges, specifically (1) handling inconsistent data shapes caused STEV in real-world applications. by adding new variables, and (2) addressing imbalanced spatio- temporal learning, where expanding variables have limited ob"
+keywords:
+  - "beyond"
+  - "fixed"
+  - "variables"
+  - "expanding"
+  - "variate"
+  - "time"
+  - "series"
+  - "forecasting"
+  - "random variate"
+  - "series (stratigraphy)"
+doi: "10.1145/3711896.3736854"
+links:
+  - name: "DBLP"
+    url: "https://dblp.org/rec/conf/kdd/MaT000025"
+  - name: "arXiv"
+    url: "https://arxiv.org/abs/2502.15296"
+  - name: "Project"
+    url: "https://longaspire.github.io/publication/"
+---

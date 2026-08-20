@@ -1,0 +1,50 @@
+---
+title: "HMI: Hierarchical knowledge management for efficient multi-tenant inference in pretrained language models"
+authors:
+  - "Jun Zhang"
+  - "Jue Wang"
+  - "Huan Li"
+  - "Lidan Shou"
+  - "Ke Chen"
+  - "Gang Chen"
+  - "Qin Xie"
+  - "Guiming Xie"
+  - "Xuejian Gong"
+author_links:
+  - name: "Jun Zhang"
+    url: "/authors/jun-zhang/home/"
+  - name: "Huan Li"
+    url: "/authors/huan-li/home/"
+date: "2025-01-01"
+publishDate: "2025-01-01"
+publication_types:
+  - "paper-journal"
+publication: "The VLDB Journal (VLDBJ)"
+venue: "The VLDB Journal (VLDBJ)"
+publication_kind: "journal"
+slug: "paper-j017"
+design:
+  css_class: single-language-section
+venue_rankings:
+  - "CCF-A"
+  - "CORE-A*"
+  - "IF: 4.04 (Year 2023)"
+abstract: "The significant computational demands of tations with batched matrix multiplications. Our ex- pretrained language models (PLMs), which often re- perimental results demonstrate that the proposed HMI quire dedicated hardware, present a substantial chal- can efficiently serve up to 10,000 hPLMs (hBERTs and lenge in serving them efficiently, especially in multi- hGPTs) on a single GPU, with only a negligible com- tenant environments. To address this, we introduce promise in accuracy. HMI, a Hierarchical knowledge management-based"
+keywords:
+  - "hmi"
+  - "hierarchical"
+  - "knowledge"
+  - "management"
+  - "efficient"
+  - "multi"
+  - "tenant"
+  - "inference"
+doi: "10.1007/s00778-025-00919-7"
+links:
+  - name: "DBLP"
+    url: "https://dblp.org/rec/journals/vldb/ZhangWLSCCXXG25"
+  - name: "arXiv"
+    url: "https://arxiv.org/abs/2504.17449"
+  - name: "Project"
+    url: "https://longaspire.github.io/publication/"
+---

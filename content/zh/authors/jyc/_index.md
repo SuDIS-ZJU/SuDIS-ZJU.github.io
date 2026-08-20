@@ -1,76 +1,73 @@
 ---
-# Display name
-title: 季奕丞
+title: "季奕丞"
 url: "/authors/yicheng-ji/home/zh"
-# Full name (for SEO)
-first_name: 奕丞
-last_name: 季
-
-grad: 0 # 年级
-
-# Username (this should match the folder name)
-authors:
-  - jyc
-
-# Is this the primary user of the site?
+first_name: "奕丞"
+last_name: "季"
+sort_key: "ji yicheng"
+people_sort_key: "2025-ji yicheng"
+grad: 1
 superuser: false
-
-# Role/position
-role: 博士生
-
-# Organizations/Affiliations
+profile_kind: "student"
+role: "2025级直博生"
+supervision: "primary"
 organizations:
-  - name: 浙江大学
-    url: ''
-
-# Short bio (displayed in user profile at end of posts)
-# bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+  - name: "浙江大学"
+    url: "https://www.zju.edu.cn/"
 interests:
-  - Speculative Decoding
-  - Multimodal Large Models
-
-# education:
-#   courses:
-#     - course: PhD in Artificial Intelligence
-#       institution: Stanford University
-#       year: 2012
-#     - course: MEng in Artificial Intelligence
-#       institution: Massachusetts Institute of Technology
-#       year: 2009
-#     - course: BSc in Artificial Intelligence
-#       institution: Massachusetts Institute of Technology
-#       year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+  - "多模态推理加速"
+  - "令牌经济学"
+internships:
+  - "阿里云"
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:3210105695@zju.edu.cn'
-  # - icon: google-scholar
-  #   icon_pack: ai
-  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  # - icon: github
-  #   icon_pack: fab
-  #   link: https://github.com/KevinZeng08
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+  - icon: "envelope"
+    icon_pack: "fas"
+    link: "mailto:3210105695@zju.edu.cn"
+publications:
+  - title: "Efficient Inference for Large Vision-Language Models: Bottlenecks, Techniques, and Prospects"
+    venue: "The 64th Annual Meeting of the Association for Computational Linguistics (ACL) Findings"
+    year: 2026
+    kind: "Conference"
+    rankings:
+      - "CCF-A"
+    url: "/en/publication/paper-c060/"
+  - title: "Forcing-KV: Hybrid KV Cache Compression for Efficient Autoregressive Video Diffusion Models"
+    venue: "arXiv preprint"
+    year: 2026
+    kind: "Preprint"
+    rankings:
+      []
+    url: "/en/publication/preprint-forcing-kv/"
+  - title: "ParallelVLM: Lossless Video-LLM Acceleration with Visual Alignment Aware Parallel Speculative Decoding"
+    venue: "The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
+    year: 2026
+    kind: "Conference"
+    rankings:
+      - "CCF-A"
+      - "CORE-A*"
+    url: "/en/publication/paper-c065/"
+  - title: "See the Forest for the Trees: Loosely Speculative Decoding via Visual-Semantic Guidance for Efficient Inference of Video LLMs"
+    venue: "The 64th Annual Meeting of the Association for Computational Linguistics (ACL)"
+    year: 2026
+    kind: "Conference"
+    rankings:
+      - "CCF-A"
+      - "CORE-A*"
+    url: "/en/publication/paper-c068/"
+  - title: "Token Economics for LLM Agents: A Dual-View Study from Computing and Economics"
+    venue: "arXiv preprint"
+    year: 2026
+    kind: "Preprint"
+    rankings:
+      []
+    url: "/en/publication/preprint-token-economics/"
+  - title: "SpecVLM: Enhancing speculative decoding of video LLMs via verifier-guided token pruning"
+    venue: "The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP)"
+    year: 2025
+    kind: "Conference"
+    rankings:
+      - "CCF-B"
+      - "CORE-A"
+    url: "/en/publication/paper-c050/"
 user_groups:
-  - 博士生
+  - "博士生"
 ---
-
-<!-- 吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. -->

@@ -1,0 +1,47 @@
+---
+title: "Same Last-Item Confusion Unveiled: A Unified Mitigation Framework for Graph Learning in Session-Based Recommendation"
+authors:
+  - "Jinpeng Chen"
+  - "Jianxiang He"
+  - "Yuan Cao"
+  - "Huan Li"
+  - "Zhenye Yang"
+  - "Kaimin Wei"
+  - "Xiongnan Jin"
+  - "Senzhang Wang"
+  - "Weiping Tu"
+author_links:
+  - name: "Huan Li"
+    url: "/authors/huan-li/home/"
+date: "2026-01-01"
+publishDate: "2026-01-01"
+publication_types:
+  - "paper-conference"
+publication: "The ACM Web Conference 2026 (WWW)"
+venue: "The ACM Web Conference 2026 (WWW)"
+publication_kind: "conference"
+slug: "paper-c067"
+design:
+  css_class: single-language-section
+venue_rankings:
+  - "CCF-A"
+  - "CORE-A*"
+abstract: "datasets demonstrate that integrating SAGE with various state- Session-based recommendation (SBR), which focuses on next-item of-the-art GNN-based SBR methods significantly improves their prediction for anonymous users based on short-term interaction se- original performances. quences, has garnered increasing attention from researchers. While graph neural networks (GNNs) have become predominant in mod- CCS Concepts eling complex item transition patterns, our empirical study reveals • Information systems → Recommender systems. two critical limitations in existing GNN-based SBR methods. On the one hand, they struggle to differentiate between sessions sharing"
+keywords:
+  - "same"
+  - "last"
+  - "item"
+  - "confusion"
+  - "unveiled"
+  - "unified"
+  - "mitigation"
+  - "framework"
+  - "graph"
+  - "knowledge graph"
+doi: "10.1145/3774904.3792356"
+links:
+  - name: "DBLP"
+    url: "https://dblp.org/rec/conf/www/ChenHCLYWJWT26"
+  - name: "Project"
+    url: "https://longaspire.github.io/publication/"
+---

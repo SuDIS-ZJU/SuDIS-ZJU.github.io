@@ -1,0 +1,49 @@
+---
+title: "See the Forest for the Trees: Loosely Speculative Decoding via Visual-Semantic Guidance for Efficient Inference of Video LLMs"
+authors:
+  - "Yicheng Ji"
+  - "Jun Zhang"
+  - "Jinpeng Chen"
+  - "Cong Wang"
+  - "Lidan Shou"
+  - "Gang Chen"
+  - "Huan Li"
+author_links:
+  - name: "Yicheng Ji"
+    url: "/authors/yicheng-ji/home/zh/"
+  - name: "Jun Zhang"
+    url: "/authors/jun-zhang/home/zh/"
+  - name: "Huan Li"
+    url: "/authors/huan-li/home/zh/"
+date: "2026-01-01"
+publishDate: "2026-01-01"
+publication_types:
+  - "paper-conference"
+publication: "The 64th Annual Meeting of the Association for Computational Linguistics (ACL)"
+venue: "The 64th Annual Meeting of the Association for Computational Linguistics (ACL)"
+publication_kind: "conference"
+slug: "paper-c068"
+design:
+  css_class: single-language-section
+venue_rankings:
+  - "CCF-A"
+  - "CORE-A*"
+abstract: "Response: The video features two animated characters, a young boy and [cs.CL] 8 Apr 2026 Mismatch Mismatch Video Large Language Models (Video-LLMs) Drafter: a large robotic cat , in a serene outdoor excel in video understanding but suffer from Reject Accept Verifier: a blue robotic cat , set a serene outdoor high inference latency during autoregressive Visual Relevance High Strict Verification Quality generation. Speculative Decoding (SD) mit- Low Loose Verification Speed igates this by applying a draft-and-verify paradigm, yet existing methods are constrained Figure 1: LVS PEC perform strict verification for visual- by rigid exact-match rules, severely limiting relevant tokens and loose verification for visual-irrlevant the acceleration potential. To bridge this ones, boosting efficiency while preserving performance. gap, we propose LVS PEC, the first training- free loosely SD framework tailored for Video- LLMs. Grounded in the insight that generation is governed by sparse visual-relevant anchors autoregressive access during decoding, leading to (mandating strictness) amidst abundant visual- a memory-bound bottleneck and increasing end-to- irrelevant fillers (permitting loose verification), end latency. LVS PEC employs a lightweight visual-relevant To achieve lossless decoding-time acceleration, token identification scheme to accurately pin- Speculative Decoding (SD) offers a promising alter- point the former. To further maximize accep- native. It leverages a lightweight draft model to pro- tance, we augment this with a position-shift tolerant mechanism that effectively salvages po- pose multiple draft tokens, which are then verified sitionally mismatched but semantically equiv- in parallel by a target model. Recent works (Ji et al., alent tokens. Experiments demonstrate that 2025; Kang et al., 2025; Ganesan et al., 2025; Huo LVS PEC achieves high fidelity and speed: it et al., 2025; Bajpai and Hanawal, 2025; Xie et al., preserves >99.8% of target performance while 2025; Huang et al., 2025) have explored SD for accelerating Qwen2.5-VL-32B by 2.70× and large vision-language models, and SpecVLM (Ji LLaVA-OneVision-72B by 2.94×. Notably, it et al., 2025) has pioneered the application of SD to boosts the mean accepted length and speedup Video-LLMs in a training-free manner. However, ratio by 136% and 35% compared to SOTA training-free SD methods for Video-LLMs. existing SD frameworks are fundamentally con- strained by their exact-match rule: a draft token is"
+keywords:
+  - "see"
+  - "forest"
+  - "trees"
+  - "loosely"
+  - "speculative"
+  - "decoding"
+  - "visual"
+  - "semantic"
+doi: "10.48550/arxiv.2604.05650"
+links:
+  - name: "DBLP"
+    url: "https://dblp.org/rec/journals/corr/abs-2604-05650"
+  - name: "arXiv"
+    url: "https://arxiv.org/abs/2604.05650v2"
+  - name: "Project"
+    url: "https://longaspire.github.io/publication/"
+---

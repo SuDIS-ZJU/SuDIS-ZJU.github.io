@@ -1,0 +1,47 @@
+---
+title: "LightTR+: A lightweight incremental framework for federated trajectory recovery"
+authors:
+  - "Hao Miao"
+  - "Ziqiao Liu"
+  - "Yan Zhao"
+  - "Chenxi Liu"
+  - "Chenjuan Guo"
+  - "Bin Yang"
+  - "Kai Zheng"
+  - "Huan Li"
+  - "Christian S. Jensen"
+author_links:
+  - name: "Huan Li"
+    url: "/authors/huan-li/home/zh/"
+date: "2025-01-01"
+publishDate: "2025-01-01"
+publication_types:
+  - "paper-journal"
+publication: "IEEE Transactions on Knowledge and Data Engineering (TKDE)"
+venue: "IEEE Transactions on Knowledge and Data Engineering (TKDE)"
+publication_kind: "journal"
+slug: "paper-j018"
+design:
+  css_class: single-language-section
+venue_rankings:
+  - "CCF-A"
+  - "CORE-A*"
+abstract: "With the proliferation of GPS-equipped edge devices, huge trajectory data are generated and accumulated in various domains, driving numerous urban applications. However, due to the limited data acquisition capabilities of edge devices, many trajectories are often recorded at low sampling rates, reducing the effectiveness of these applications. To address this issue, we aim to recover high-sample-rate trajectories from low-sample-rate ones enhancing the usability of trajectory data. Recent approaches to trajectory recovery often assume centralized data storage, which can lead to catastrophic forgetting, where previously learned knowledge is entirely forgotten when new data arrives. This not only poses privacy risks but also degrades performance in decentralized settings where data streams into the system incrementally. To enable decentralized training and streaming trajectory recovery, we propose a <underline xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">Light</u>weight incremental framework for federated <underline xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">T</u>rajectory <underline xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">R</u>ecovery, called LightTR+, which is based on a client-server architecture. Given the limited processing capabilities of edge devices, LightTR+ includes a lightweight local trajectory embedding module that enhances computational efficiency without compromising feature extraction capabilities. To mitigate catastrophic forgetting, we propose an intra-domain knowledge distillation module. Additionally, LightTR+ features a meta-knowledge enhanced local-global training scheme, which reduces communication costs between the server and clients, further improving efficiency. Extensive experiments offer insight into the effectiveness and efficiency of LightTR+."
+keywords:
+  - "lighttr"
+  - "lightweight"
+  - "incremental"
+  - "framework"
+  - "federated"
+  - "trajectory"
+  - "recovery"
+  - "enhanced data rates for gsm evolution"
+  - "embedding"
+  - "feature (linguistics)"
+doi: "10.1109/tkde.2025.3638888"
+links:
+  - name: "DBLP"
+    url: "https://dblp.org/rec/journals/tkde/MiaoLZLGYZLJ26"
+  - name: "Project"
+    url: "https://longaspire.github.io/publication/"
+---

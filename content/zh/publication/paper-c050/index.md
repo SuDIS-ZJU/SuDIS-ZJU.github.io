@@ -1,0 +1,49 @@
+---
+title: "SpecVLM: Enhancing speculative decoding of video LLMs via verifier-guided token pruning"
+authors:
+  - "Yicheng Ji"
+  - "Jun Zhang"
+  - "Heming Xia"
+  - "Jinpeng Chen"
+  - "Lidan Shou"
+  - "Gang Chen"
+  - "Huan Li"
+author_links:
+  - name: "Yicheng Ji"
+    url: "/authors/yicheng-ji/home/zh/"
+  - name: "Jun Zhang"
+    url: "/authors/jun-zhang/home/zh/"
+  - name: "Huan Li"
+    url: "/authors/huan-li/home/zh/"
+date: "2025-01-01"
+publishDate: "2025-01-01"
+publication_types:
+  - "paper-conference"
+publication: "The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP)"
+venue: "The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP)"
+publication_kind: "conference"
+slug: "paper-c050"
+design:
+  css_class: single-language-section
+venue_rankings:
+  - "CCF-B"
+  - "CORE-A"
+abstract: "[cs.CV] 28 Aug 2025 Video large language models (Vid-LLMs) have Vanilla Video Token Reduction SpecVLM shown strong capabilities in understanding video content. However, their reliance on The video showcases a large sailboat The video opens with a view of The video showcases a large sailboat with a wooden deck and white sails, a large sailboat with white with a wooden deck and white sails, dense video token representations introduces navigating through choppy, deep blue sails, cutting through the navigating through choppy, deep blue waters ... water ... waters ... substantial memory and computational over- Generation Quality Generation Quality Generation Quality head in both prefilling and decoding. To miti- gate the information loss of recent video token Decoding Speed Decoding Speed Decoding Speed reduction methods and accelerate the decod- ing stage of Vid-LLMs losslessly, we introduce Figure 1: Comparison of vanilla autoregressive decod- S PEC VLM, a training-free speculative decod- ing, video token reduction, and our S PEC VLM. ing (SD) framework tailored for Vid-LLMs that incorporates staged video token pruning. Build- ing on our novel finding that the draft model’s more common, this design introduces significant speculation exhibits low sensitivity to video memory and computational costs. For instance, token pruning, S PEC VLM prunes up to 90% LLaVA-OneVision (Li et al., 2024a) processes each of video tokens to enable efficient speculation video frame into 196 tokens, meaning a two-minute without sacrificing accuracy. To achieve this, video at 60 FPS would require more than 1 million we perform a two-stage pruning process: Stage I selects highly informative tokens guided tokens by default without any reduction. The large by attention signals from the verifier (target number of video tokens increases the sequence model), while Stage II prunes the remaining re- length, resulting in quadratic attention overhead dundant ones in a spatially uniform manner. during prefilling. During decoding, the autoregres- Extensive experiments on four video under- sive nature of generation exacerbates the memory- standing benchmarks demonstrate the effec- bound issue, as the growing key-value (KV) cache tiveness and robustness of S PEC VLM, which must be loaded and stored in GPU memory along- achieves up to 2.68× decoding speedup for LLaVA-OneVision-72B and 2.11× speedup for side model parameters, limiting scalability and in- Qwen2.5-VL-32B. Code is available at https: creasing latency (Lin et al., 2024). //github.com/zju-jiyicheng/SpecVLM. Recent studies have proposed token pruning strategies (Chen et al., 2024a; Liu et al., 2024; Xing"
+keywords:
+  - "specvlm"
+  - "enhancing"
+  - "speculative"
+  - "decoding"
+  - "video"
+  - "llms"
+  - "verifier"
+  - "guided"
+doi: "10.18653/v1/2025.emnlp-main.366"
+links:
+  - name: "DBLP"
+    url: "https://dblp.org/rec/conf/emnlp/JiZXCSCL25"
+  - name: "arXiv"
+    url: "https://arxiv.org/abs/2508.16201"
+  - name: "Project"
+    url: "https://longaspire.github.io/publication/"
+---

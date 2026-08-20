@@ -1,0 +1,43 @@
+---
+title: "In search of indoor dense regions: An approach using indoor positioning data (extended abstract)"
+authors:
+  - "Huan Li"
+  - "Hua Lu"
+  - "Lidan Shou"
+  - "Gang Chen"
+  - "Ke Chen"
+author_links:
+  - name: "Huan Li"
+    url: "/authors/huan-li/home/"
+date: "2019-01-01"
+publishDate: "2019-01-01"
+publication_types:
+  - "paper-conference"
+publication: "The 35th IEEE International Conference on Data Engineering (ICDE)"
+venue: "The 35th IEEE International Conference on Data Engineering (ICDE)"
+publication_kind: "conference"
+slug: "paper-c005"
+design:
+  css_class: single-language-section
+venue_rankings:
+  - "CCF-A"
+  - "CORE-A*"
+abstract: "As people spend significant parts of daily lives indoors, it is useful and important to measure indoor densities and find the dense regions in many indoor scenarios like space management and security control. In this paper, we propose a data-driven approach that finds top-<inline-formula><tex-math notation=\"LaTeX\">$k$</tex-math><alternatives> <inline-graphic xlink:href=\"lu-ieq1-2799215.gif\"/></alternatives></inline-formula> indoor dense regions by using indoor positioning data. Such data is obtained by indoor positioning systems working at a relatively low frequency, and the reported locations in the data are discrete, from a preselected location set that does not continuously cover the entire indoor space. When a search is triggered, the object positioning information is already out-of-date and thus object locations are uncertain. To this end, we first integrate object location uncertainty into the definitions for counting objects in an indoor region and computing its density. Subsequently, we conduct a thorough analysis of the location uncertainty in the context of complex indoor topology, deriving upper and lower bounds of indoor region densities and introducing distance decaying effect into computing concrete indoor densities. Enabled by the uncertainty analysis outcomes, we design efficient search algorithms for solving the problem. Finally, we conduct extensive experimental studies on our proposals using synthetic and real data. The experimental results verify that the proposed search approach is efficient, scalable, and effective. The top-<inline-formula><tex-math notation=\"LaTeX\"> $k$</tex-math><alternatives><inline-graphic xlink:href=\"lu-ieq2-2799215.gif\"/></alternatives></inline-formula> indoor dense regions returned by our search are considerably consistent with ground truth, despite that the search uses neither historical data nor extra knowledge about objects."
+keywords:
+  - "search"
+  - "indoor"
+  - "dense"
+  - "regions"
+  - "approach"
+  - "positioning"
+  - "data"
+  - "extended"
+  - "computer science"
+  - "scalability"
+doi: "10.1109/icde.2019.00258"
+links:
+  - name: "DBLP"
+    url: "https://dblp.org/rec/conf/icde/0003LS0019"
+  - name: "Project"
+    url: "https://longaspire.github.io/publication/"
+---

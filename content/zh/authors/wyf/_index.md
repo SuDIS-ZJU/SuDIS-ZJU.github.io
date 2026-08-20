@@ -1,75 +1,59 @@
 ---
-# Display name
-title: 吴一帆
+title: "吴一帆"
 url: "/authors/yifan-wu/home/zh"
-# Full name (for SEO)
-first_name: 一帆
-last_name: 吴
-
-grad: 4 # 年级
-
-# Username (this should match the folder name)
-authors:
-  - wyf
-
-# Is this the primary user of the site?
+first_name: "一帆"
+last_name: "吴"
+sort_key: "wu yifan"
+people_sort_key: "2021-wu yifan"
+grad: 5
 superuser: false
-
-# Role/position
-role: 博士生
-
-# Organizations/Affiliations
+profile_kind: "student"
+role: "2021级直博生"
+supervision: "co_supervised"
 organizations:
-  - name: 浙江大学
-    url: ''
-
-# Short bio (displayed in user profile at end of posts)
-# bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+  - name: "浙江大学"
+    url: "https://www.zju.edu.cn/"
 interests:
-  - Database Systems
-  - Decentralized Systems
-  - Hardware Acceleration
-
-# education:
-#   courses:
-#     - course: PhD in Artificial Intelligence
-#       institution: Stanford University
-#       year: 2012
-#     - course: MEng in Artificial Intelligence
-#       institution: Massachusetts Institute of Technology
-#       year: 2009
-#     - course: BSc in Artificial Intelligence
-#       institution: Massachusetts Institute of Technology
-#       year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+  - "数据库系统"
+  - "令牌经济学"
+internships:
+  - "小红书"
 social:
-  # - icon: envelope
-  #   icon_pack: fas
-  #   link: 'mailto:kevinzeng0808@gmail.com'
-  # - icon: google-scholar
-  #   icon_pack: ai
-  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://onefanwu.github.io/
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+  - icon: "globe"
+    icon_pack: "fas"
+    link: "https://onefanwu.github.io/"
+publications:
+  - title: "ScaleSense: Cost-Intelligent Scaling Framework via Learned Resource Estimation in Alibaba AnalyticDB"
+    venue: "The 52nd International Conference on Very Large Data Bases (VLDB) Industry"
+    year: 2026
+    kind: "Conference"
+    rankings:
+      - "CCF-A"
+      - "CORE-A*"
+    url: "/en/publication/paper-c070/"
+  - title: "Token Economics for LLM Agents: A Dual-View Study from Computing and Economics"
+    venue: "arXiv preprint"
+    year: 2026
+    kind: "Preprint"
+    rankings:
+      []
+    url: "/en/publication/preprint-token-economics/"
+  - title: "SafeLoad: Efficient admission control framework for identifying memory-overloading queries in cloud data warehouses"
+    venue: "The 51th International Conference on Very Large Data Bases (VLDB)"
+    year: 2025
+    kind: "Conference"
+    rankings:
+      - "CCF-A"
+      - "CORE-A*"
+    url: "/en/publication/paper-c049/"
+  - title: "HyperMR: Efficient hypergraph-enhanced matrix storage on compute-in-memory architecture"
+    venue: "2025 ACM SIGMOD International Conference on Management of Data (SIGMOD)"
+    year: 2024
+    kind: "Conference"
+    rankings:
+      - "CCF-A"
+      - "CORE-A*"
+    url: "/en/publication/paper-c033/"
 user_groups:
-  - 博士生
+  - "博士生"
 ---
-
-I am currently a PhD student at the database and data intelligence lab (DILAB) of Zhejiang University, advised by Prof. Lidan Shou. I have a keen interest in database systems, data management, decentralized systems, and hardware acceleration. My research is dedicated to developing innovative techniques for efficient query processing and storage optimization, particularly in the context of emerging hardware. Currently, my focus is on leveraging cutting-edge compute-in-memory hardware and modern accelerators such as GPUs to expedite the execution of advanced analytical queries.

@@ -1,0 +1,55 @@
+{{- define "main" -}}
+
+<section id="profile-page" class="pt-5">
+  <div class="container">
+    {{ if .File }}
+      {{ $username := path.Base .File.Dir }}
+      {{ partial "blocks/v1/about.html" (dict "wcPage" $ "wcBlock" . "author" $username) }}
+    {{ else }}
+      <div class="universal-wrapper pt-3"><h1>{{ .Title }}</h1></div>
+    {{ end }}
+
+    {{ with .Params.first_employment }}
+      <div class="article-widget content-widget-hr first-employment">
+        <div class="section-subheading">{{ if eq $.Lang "zh" }}首份工作{{ else }}First employment{{ end }}</div>
+        <p>{{ . | markdownify | emojify }}</p>
+      </div>
+    {{ end }}
+
+    {{ with .Params.internships }}
+      <div class="article-widget content-widget-hr internships">
+        <div class="section-subheading">{{ if eq $.Lang "zh" }}实习与产业项目{{ else }}Internships and industry programs{{ end }}</div>
+        <ul>
+          {{ range . }}<li>{{ . | markdownify | emojify }}</li>{{ end }}
+        </ul>
+      </div>
+    {{ end }}
+
+    {{ if eq .Params.supervision "co_supervised" }}
+      <div class="article-widget content-widget-hr supervision-note">
+        <p class="text-muted small">{{ if eq $.Lang "zh" }}联合指导{{ else }}Co-supervised{{ end }}</p>
+      </div>
+    {{ end }}
+
+    {{ with .Params.publications }}
+      <div class="article-widget content-widget-hr student-publications">
+        <h3>{{ if eq $.Params.profile_kind "principal_investigator" }}{{ if eq $.Lang "zh" }}代表性论文{{ else }}Selected publications{{ end }}{{ else }}{{ if eq $.Lang "zh" }}与 SuDIS 共同发表的论文{{ else }}Publications with SuDIS{{ end }}{{ end }}</h3>
+        <ul>
+          {{ range . }}
+            <li>
+              <a href="{{ .url }}">{{ .title }}</a>
+              <span class="publication-venue">{{ .venue }}, {{ .year }}</span>
+              {{ with .kind }}<span class="publication-kind"> · {{ if eq $.Lang "zh" }}{{ if eq . "Journal" }}期刊{{ else if eq . "Conference" }}会议论文{{ else if eq . "Demo" }}Demo{{ else if eq . "Workshop" }}Workshop{{ else if eq . "Tutorial" }}Tutorial{{ else }}预印本{{ end }}{{ else }}{{ . }}{{ end }}</span>{{ end }}
+              {{ with .rankings }}{{ if gt (len .) 0 }}<span class="publication-rankings"> · {{ if eq $.Lang "zh" }}{{ delimit . " · " }}{{ else }}{{ delimit . " · " }}{{ end }}</span>{{ end }}{{ end }}
+            </li>
+          {{ end }}
+        </ul>
+      </div>
+    {{ end }}
+    {{ if eq .Params.profile_kind "principal_investigator" }}
+      <p class="small"><a href="{{ if eq $.Lang "zh" }}/zh/publication/{{ else }}/en/publication/{{ end }}">{{ if eq $.Lang "zh" }}查看完整论文列表{{ else }}View complete publication list{{ end }}</a></p>
+    {{ end }}
+  </div>
+</section>
+
+{{- end -}}

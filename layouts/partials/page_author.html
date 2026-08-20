@@ -1,0 +1,17 @@
+{{/* Render publication authors with links for internal profiles only. */}}
+{{- with .Param "authors" -}}
+<div class="article-metadata">
+  <span class="article-metadata-author">
+    {{- range $index, $value := . -}}
+      {{- if gt $index 0 }}, {{ end -}}
+      {{- $author_url := "" -}}
+      {{- with $.Param "author_links" -}}
+        {{- range . -}}
+          {{- if eq .name $value }}{{ $author_url = .url }}{{ end -}}
+        {{- end -}}
+      {{- end -}}
+      {{- if $author_url -}}<a href="{{ $author_url }}">{{ $value }}</a>{{- else -}}{{ $value }}{{- end -}}
+    {{- end -}}
+  </span>
+</div>
+{{- end -}}

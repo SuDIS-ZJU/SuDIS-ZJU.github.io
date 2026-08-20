@@ -1,0 +1,17 @@
+{{/* Render English publication authors; internal authors link to the local-language profile. */}}
+{{- with .Param "authors" -}}
+  {{- range $index, $value := . -}}
+    {{- if gt $index 0 }}, {{ end -}}
+    {{- $author_url := "" -}}
+    {{- with $.Param "author_links" -}}
+      {{- range . -}}
+        {{- if eq .name $value }}{{ $author_url = .url }}{{ end -}}
+      {{- end -}}
+    {{- end -}}
+    {{- if $author_url -}}
+      <a class="author-name" href="{{ $author_url }}">{{ $value }}</a>
+    {{- else -}}
+      <span class="author-name">{{ $value }}</span>
+    {{- end -}}
+  {{- end -}}
+{{- end -}}

@@ -1,73 +1,68 @@
 ---
-# Display name
-title: Lingxi Cui
+title: "Lingxi Cui"
 url: "/authors/lingxi-cui/home"
-# Full name (for SEO)
-first_name: Lingxi
-last_name: Cui
-
-grad: 2 # 年级
-
-# Username (this should match the folder name)
-authors:
-  - clx
-
-# Is this the primary user of the site?
+first_name: "Lingxi"
+last_name: "Cui"
+sort_key: "cui lingxi"
+people_sort_key: "2023-cui lingxi"
+grad: 3
 superuser: false
-
-# Role/position
-role: Phd Student
-
-# Organizations/Affiliations
+profile_kind: "student"
+role: "2023 Direct-entry PhD Student"
+supervision: "co_supervised"
 organizations:
-  - name: Zhejiang University
-    url: ''
-
-# Short bio (displayed in user profile at end of posts)
-# bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+  - name: "Zhejiang University"
+    url: "https://www.zju.edu.cn/"
 interests:
-  - Table Augmentation
-  - Table Discovery
-  - Table + LLM
-
-# education:
-#   courses:
-#     - course: PhD in Artificial Intelligence
-#       institution: Stanford University
-#       year: 2012
-#     - course: MEng in Artificial Intelligence
-#       institution: Massachusetts Institute of Technology
-#       year: 2009
-#     - course: BSc in Artificial Intelligence
-#       institution: Massachusetts Institute of Technology
-#       year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+  - "Tabular data governance"
+internships:
+  - "Xiaohongshu"
 social:
-  # - icon: envelope
-  #   icon_pack: fas
-  #   link: 'mailto:kevinzeng0808@gmail.com'
-  # - icon: google-scholar
-  #   icon_pack: ai
-  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/SuDIS-ZJU/awesome-tabular-data-augmentation
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+  - icon: "github"
+    icon_pack: "fab"
+    link: "https://github.com/SuDIS-ZJU/awesome-tabular-data-augmentation"
+publications:
+  - title: "ChronosBI: Supercharging LLM-Powered Business Intelligence Pipelines with Semantic Caching and Cost Planning"
+    venue: "2026 ACM SIGMOD International Conference on Management of Data (SIGMOD) Demo"
+    year: 2026
+    kind: "Demo"
+    rankings:
+      - "CCF-A"
+      - "CORE-A*"
+    url: "/en/publication/paper-c058/"
+  - title: "RedParrot: Accelerating NL-to-DSL for Business Analytics via Query Semantic Caching"
+    venue: "The 42nd IEEE International Conference on Data Engineering (ICDE) Industry"
+    year: 2026
+    kind: "Conference"
+    rankings:
+      - "CCF-A"
+      - "CORE-A*"
+    url: "/en/publication/paper-c066/"
+  - title: "Tabular Data Augmentation for Machine Learning: Progress and Prospects of Embracing Generative AI"
+    venue: "ACM Computing Surveys"
+    year: 2026
+    kind: "Journal"
+    rankings:
+      - "CCF-A"
+      - "CORE-A*"
+      - "IF: 23.8 (Year 2023)"
+    url: "/en/publication/paper-j021/"
+  - title: "NLCTables: A dataset for marrying natural language conditions with table discovery"
+    venue: "The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)"
+    year: 2025
+    kind: "Conference"
+    rankings:
+      - "CCF-A"
+      - "CORE-A*"
+    url: "/en/publication/paper-c047/"
+  - title: "TableCopilot: A table assistant empowered by natural language conditional table discovery"
+    venue: "The 50th International Conference on Very Large Data Bases (VLDB)"
+    year: 2025
+    kind: "Conference"
+    rankings:
+      - "CCF-A"
+      - "CORE-A*"
+    url: "/en/publication/paper-c053/"
 user_groups:
-  - Phd Students
+  - "Phd Students"
 ---

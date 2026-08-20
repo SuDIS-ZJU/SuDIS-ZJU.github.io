@@ -1,80 +1,33 @@
 ---
-# Display name
-title: 吕川一
+title: "吕川一"
 url: "/authors/chuanyi-lv/home/zh"
-draft: false
-
-grad: 2
-
-# Full name (for SEO)
-first_name: 川一
-last_name: 吕
-
-# Username (this should match the folder name)
-authors:
-  - lcy
-
-# Is this the primary user of the site?
+first_name: "川一"
+last_name: "吕"
+sort_key: "lv chuanyi"
+people_sort_key: "2025-lv chuanyi"
+grad: 1
 superuser: false
-
-# Role/position
-
-role: 硕士生
-# Organizations/Affiliations
+profile_kind: "student"
+role: "2025级博士生"
+supervision: "primary"
 organizations:
-  - name: 浙江大学
-    url: ''
-
-# Short bio (displayed in user profile at end of posts)
-# bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+  - name: "浙江大学"
+    url: "https://www.zju.edu.cn/"
 interests:
-  - Time Series
-  - Database
-  - Storage System
-  - Compression Algorithm
-
-# education:
-#   courses:
-#     - course: PhD in Artificial Intelligence
-#       institution: Stanford University
-#       year: 2012
-#     - course: MEng in Artificial Intelligence
-#       institution: Massachusetts Institute of Technology
-#       year: 2009
-#     - course: BSc in Artificial Intelligence
-#       institution: Massachusetts Institute of Technology
-#       year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
-#   - icon: envelope
-#     icon_pack: fas
-#     link: 'kevinzeng0808@gmail.com'
-  # - icon: google-scholar
-  #   icon_pack: ai
-  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  # - icon: github
-  #   icon_pack: fab
-  #   link: https://github.com/KevinZeng08
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+  - "时间序列治理"
+  - "时序压缩"
+internships:
+  - "网易"
+social: []
+publications:
+  - title: "DeXOR: Enabling XOR in Decimal Space for Streaming Lossless Compression of Floating-point Data"
+    venue: "The 51th International Conference on Very Large Data Bases (VLDB)"
+    year: 2025
+    kind: "Conference"
+    rankings:
+      - "CCF-A"
+      - "CORE-A*"
+    url: "/en/publication/paper-c041/"
 user_groups:
-  - 硕士生
+  - "博士生"
 ---
-
-<!-- 吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. -->
