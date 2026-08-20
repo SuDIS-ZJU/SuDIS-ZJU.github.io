@@ -25,6 +25,8 @@ hugo --gc --minify
 
 The public site includes bilingual group information, member profiles, research publications, and selected news. Publication pages and `publications.bib` are generated from the project's maintained publication records; generated pages should not be edited manually.
 
+Contributors should read the [maintenance and permissions guide](CONTRIBUTING.md) before opening a pull request.
+
 ## License
 
 Site content is published under the Creative Commons Attribution-ShareAlike 4.0 International License unless otherwise noted. The site's source configuration and templates remain under the repository's MIT license.
