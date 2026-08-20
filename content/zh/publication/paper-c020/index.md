@@ -11,10 +11,10 @@ author_links:
 date: "2022-01-01"
 publishDate: "2022-01-01"
 publication_types:
-  - "paper-conference"
+  - "paper-workshop"
 publication: "The International Workshop on Deep Learning for Knowledge Graphs (DL4KG)"
 venue: "The International Workshop on Deep Learning for Knowledge Graphs (DL4KG)"
-publication_kind: "conference"
+publication_kind: "workshop"
 slug: "paper-c020"
 design:
   css_class: single-language-section

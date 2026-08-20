@@ -1,3 +1,4 @@
 # Keep local preview links on the local server. Production builds continue to
 # use config/_default/hugo.yaml and the deployed GitHub Pages URL.
-baseURL: 'http://localhost:1313/'
+# Leave the port to Hugo so `--port N` keeps links on the selected local port.
+baseURL: 'http://localhost/'

@@ -8,10 +8,10 @@ authors:
 date: "2022-01-01"
 publishDate: "2022-01-01"
 publication_types:
-  - "paper-conference"
+  - "paper-demo"
 publication: "2022 ACM SIGMOD/PODS International Conference on Management of Data (SIGMOD)"
 venue: "2022 ACM SIGMOD/PODS International Conference on Management of Data (SIGMOD)"
-publication_kind: "conference"
+publication_kind: "demo"
 slug: "paper-c016"
 design:
   css_class: single-language-section

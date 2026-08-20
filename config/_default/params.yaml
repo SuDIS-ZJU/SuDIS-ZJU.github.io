@@ -45,6 +45,7 @@ header:
 # Site footer
 
 footer:
+  contact_email: 'lihuan.cs@zju.edu.cn'
   copyright:
     notice: '© {year} SuDIS-ZJU. This work is licensed under {license}'
     license:

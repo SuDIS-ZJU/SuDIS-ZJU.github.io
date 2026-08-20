@@ -25,7 +25,7 @@ venue_rankings:
   - "CCF-B"
   - "CORE-A"
 publisher: "ACM"
-summary: "Filter-then-match: Holistic Schema Matching via Small Language Model Filtering and Large Language Model Reasoning (ACM International Conference on Information and Knowledge Management (CIKM) 2026, 2026)."
+summary: "Filter-then-match: Holistic Schema Matching via Small Language Model Filtering and Large Language Model Reasoning. Venue: ACM International Conference on Information and Knowledge Management (CIKM) 2026; year: 2026."
 keywords:
   - "Schema Matching"
   - "Data Integration"

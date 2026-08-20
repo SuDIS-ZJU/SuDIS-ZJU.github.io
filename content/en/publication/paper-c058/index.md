@@ -24,10 +24,10 @@ author_links:
 date: "2026-01-01"
 publishDate: "2026-01-01"
 publication_types:
-  - "paper-conference"
+  - "paper-demo"
 publication: "2026 ACM SIGMOD International Conference on Management of Data (SIGMOD) Demo"
 venue: "2026 ACM SIGMOD International Conference on Management of Data (SIGMOD) Demo"
-publication_kind: "conference"
+publication_kind: "demo"
 slug: "paper-c058"
 design:
   css_class: single-language-section

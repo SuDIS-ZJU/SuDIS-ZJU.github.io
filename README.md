@@ -9,7 +9,10 @@ The site is built with [Hugo](https://gohugo.io/) and the [Hugo Blox Builder](ht
 Install Hugo Extended and run:
 
 ```bash
-hugo server --environment development --baseURL http://localhost:1313/ --gc --disableFastRender
+hugo server --environment development --port 1313 --gc --disableFastRender
+
+# Use another local port when needed; links follow the selected port.
+hugo server --environment development --port 1314 --gc --disableFastRender
 ```
 
 The production build is:

@@ -13,3 +13,24 @@
 .single-language-section .i18n-dropdown {
   display: none !important;
 }
+
+.supervision-badge {
+  display: block;
+  margin-top: 0.15rem;
+  color: var(--bs-secondary-color, #6c757d);
+  font-weight: 500;
+}
+
+.footer-agent-lede {
+  margin-bottom: 0.35rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.footer-agent-note {
+  max-width: 58rem;
+  margin: 0 auto 0.75rem;
+  color: var(--bs-secondary-color, #6c757d);
+  font-size: 0.78rem;
+  line-height: 1.6;
+}

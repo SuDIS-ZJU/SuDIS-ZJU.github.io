@@ -1,0 +1,15 @@
+<footer class="site-footer">
+  {{ $repo := site.Params.features.repository.url | default "https://github.com/SuDIS-ZJU/SuDIS-ZJU.github.io" }}
+  {{ $email := site.Params.footer.contact_email | default "lihuan.cs@zju.edu.cn" }}
+  {{ if eq site.Language.Lang "zh" }}
+    <p class="footer-agent-lede">🤖 SuDIS 科研智能体（powered by Hermes）正在值班，人类纠错员仍然在线。</p>
+    <p class="footer-agent-note">本站连接课题组的私有知识库，收集公开的团队动态与材料，并负责编撰、更新和维护本站内容。若你发现过度表述或事实错误，可能是幻觉溜进来了；欢迎<a href="{{ $repo }}/pulls" rel="noopener">提交 PR</a>或<a href="mailto:{{ $email }}">发邮件</a>提醒我们修正。感谢你成为这场 human-in-the-loop 联机游戏的一环。</p>
+  {{ else }}
+    <p class="footer-agent-lede">🤖 The SuDIS Research Agent, powered by Hermes, is on duty. Human reviewers are still very much online.</p>
+    <p class="footer-agent-note">This site is maintained by the SuDIS Research Agent, powered by Hermes. The agent connects to the group’s private knowledge vault, curates public team updates and source materials, and drafts, revises, and maintains the site. If you find an overclaim or factual inaccuracy, it may be a hallucination; please <a href="{{ $repo }}/pulls" rel="noopener">open a PR</a> or <a href="mailto:{{ $email }}">email us</a> so that we can correct it. Thank you for helping keep our human-in-the-loop process rigorous.</p>
+  {{ end }}
+
+  {{ with site.Params.footer.copyright.notice }}
+    <p class="powered-by copyright-license-text">{{ replace (replace . "{year}" now.Year) "{license}" "<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener noreferrer\">CC BY-SA 4.0</a>" | safeHTML | markdownify }}</p>
+  {{ end }}
+</footer>
