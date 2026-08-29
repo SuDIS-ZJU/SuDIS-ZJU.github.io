@@ -42,9 +42,11 @@ jobs:
         run: |
           hugo --gc --minify --destination /tmp/sudis-zju-public
           test -f /tmp/sudis-zju-public/en/publication/paper-c070/index.html
-          test -f /tmp/sudis-zju-public/zh/publication/paper-c070/index.html
           test -f /tmp/sudis-zju-public/authors/feiyang-ren/home/index.html
-          test -f /tmp/sudis-zju-public/authors/feiyang-ren/home/zh/index.html
+          test -f /tmp/sudis-zju-public/zh/index.html
+          test -f /tmp/sudis-zju-public/zh/post/index.html
+          test ! -e /tmp/sudis-zju-public/zh/publication/paper-c070/index.html
+          test ! -e /tmp/sudis-zju-public/authors/feiyang-ren/home/zh/index.html
 
       - name: Audit public routes and metadata
         run: |

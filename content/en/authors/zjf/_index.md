@@ -27,6 +27,14 @@ publications:
       - "CCF-A"
       - "CORE-A*"
     url: "/en/publication/paper-c058/"
+  - title: "LLM Knows, Speaks Not: Extracting Decoder-State Representations for Column Type Annotation"
+    venue: "The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP) Findings"
+    year: 2026
+    kind: "Conference"
+    rankings:
+      - "CCF-A"
+      - "CORE-A"
+    url: "/en/publication/paper-c075/"
   - title: "RedParrot: Accelerating NL-to-DSL for Business Analytics via Query Semantic Caching"
     venue: "The 42nd IEEE International Conference on Data Engineering (ICDE) Industry"
     year: 2026
