@@ -25,7 +25,7 @@ design:
 venue_rankings:
   - "CCF-A"
   - "CORE-A*"
-abstract: "the use of specialized table discovery methods. (2) Gaps in Existing The rise of LLM has enabled natural language-based table assistants, Table Discovery Methods: Current methods typically rely on either but existing systems assume users already have a well-formed table,"
+abstract: "The rise of LLM has enabled natural language-based table assistants, but existing systems assume users already have a well-formed table, neglecting the challenge of table discovery in large-scale table pools. To address this, we introduce TableCopilot, an LLM-powered assistant for interactive, precise, and personalized table discovery and analysis. We define a novel scenario, nlcTD, where users provide both a natural language condition and a query table, enabling intuitive and flexible table discovery for users of all expertise levels. To handle this, we propose Crofuma, a cross-fusion-based approach that learns and aggregates single-modal and cross-modal matching scores. Experimental results show Crofuma outperforms SOTA single-input methods by at least 12% on NDCG@5. We also release an instructional video, codebase, datasets, and other resources on GitHub to encourage community contributions. TableCopilot sets a new standard for interactive table assistants, making advanced table discovery accessible and integrated."
 keywords:
   - "tablecopilot"
   - "table"

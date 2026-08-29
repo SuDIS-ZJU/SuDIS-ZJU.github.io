@@ -20,9 +20,3 @@ zh:
      - name: 最新动态
        url: post
        weight: 1
-     - name: 团队成员
-       url: people
-       weight: 30
-     - name: 研究成果
-       url: publication
-       weight: 50
